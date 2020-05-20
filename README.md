@@ -12,6 +12,6 @@ sklearn
 
 
 ## Run Model
-python run_multi.py
+`python run_multi.py`
 
 
