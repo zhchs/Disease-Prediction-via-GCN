@@ -1,0 +1,1163 @@
+HP:0000001
+HP:0000002|Abnormality of body height|身高异常|身高偏离该年龄性别预期身高的正常范围。|Deviation from the norm of height with respect to that which is expected according to age and gender norms.
+HP:0000003|Multicystic kidney dysplasia|多囊性肾发育不良|多囊性肾发育不良的特点是：肾脏有大小不一的肾囊肿，缺乏正常肾盂肾盏系统。这种状态伴发输尿管或肾盂输尿管闭锁，受累肾脏无功能。|Multicystic dysplasia of the kidney is characterized by multiple cysts of varying size in the kidney and the absence of a normal pelvocaliceal system. The condition is associated with ureteral or ureteropelvic atresia, and the affected kidney is nonfunctional.
+HP:0000005|Mode of inheritance|遗传模式|#####|The pattern in which a particular genetic trait or disorder is passed from one generation to the next.
+HP:0000006|Autosomal dominant inheritance|常染色体显性遗传|#####|A mode of inheritance that is observed for traits related to a gene encoded on one of the autosomes (i.e., the human chromosomes 1-22) in which a trait manifests in heterozygotes. In the context of medical genetics, an autosomal dominant disorder is caused when a single copy of the mutant allele is present. Males and females are affected equally, and can both transmit the disorder with a risk of 50% for each child of inheriting the mutant allele.
+HP:0000007|Autosomal recessive inheritance|常染色体隐性遗传|#####|A mode of inheritance that is observed for traits related to a gene encoded on one of the autosomes (i.e., the human chromosomes 1-22) in which a trait manifests in homozygotes. In the context of medical genetics, autosomal recessive disorders manifest in homozygotes (with two copies of the mutant allele) or compound heterozygotes (whereby each copy of a gene has a distinct mutant allele).
+HP:0000008|Abnormality of female internal genitalia|女性内生殖器异常|女性内生殖器（FMA：45654）的异常。|An abnormality of the `female internal genitalia` (FMA:45654).
+HP:0000009|Functional abnormality of the bladder|膀胱功能异常|膀胱（FMA：15900）的功能异常。|`Dysfunction` (PATO:0001641) of the `urinary bladder` (FMA:15900).
+HP:0000010|Recurrent urinary tract infections|复发性尿路感染|尿路反复感染。|Repeated infections of the urinary tract.
+HP:0000011|Neurogenic bladder|神经源性膀胱功能障碍|由于神经系统疾患导致排尿过程中无法完全排空膀胱（FMA：15900）。|An inability to completely empty the `urinary bladder` (FMA:15900) during the process of `urination` (GO:0060073) owing to a neurological condition.
+HP:0000012|Urinary urgency|尿急|突然的强烈排尿感导致急迫性尿失禁。|Urge incontinence is the strong, sudden need to urinate.
+HP:0000013|Hypoplasia of the uterus|子宫发育不良|子宫（FMA：17558）发育低下。|Underdevelopment of the `uterus` (FMA:17558).
+HP:0000014|Abnormality of the bladder|膀胱异常|发生在膀胱（FMA：15900）的异常。|An abnormality of the `urinary bladder` (FMA:15900).
+HP:0000015|Bladder diverticulum|膀胱憩室|膀胱壁（FMA：15902）上存在憩室（MPATH：68）。|`Diverticulum` (MPATH:68) (sac or pouch) in the `wall of the urinary bladder` (FMA:15902).
+HP:0000016|Urinary retention|尿潴留|排尿过程中无法完全排空膀胱（FMA：15900）。|Inability to completely empty the `urinary bladder` (FMA:15900) during the process of `urination` (GO:0060073).
+HP:0000017|Nocturia|夜尿症|夜间尿量异常增多导致异乎寻常的频繁排尿。|Abnormally increased production of urine during the night leading to an unusually frequent need to urinate.
+HP:0000019|Urinary hesitancy|排尿踌躇|排尿（GO：0060073）开始时不畅。|Difficulty in beginning the process of `urination` (GO:0060073).
+HP:0000020|Urinary incontinence|尿失禁|膀胱（FMA：15900）控制能力丧失，导致非自主性排尿（GO：0060073）。|Loss of the ability to control the `urinary bladder` (FMA:15900) leading to involuntary `urination` (GO:0060073).
+HP:0000021|Megacystis|巨膀胱症|出生后膀胱扩张。|Dilatation of the bladder postnatally.
+HP:0000022|Abnormality of male internal genitalia|男性内生殖器异常|男性内生殖器（FMA：45655）的异常。|An abnormality of the `male internal genitalia` (FMA:45655).
+HP:0000023|Inguinal hernia|腹股沟疝|经由腹股沟的腹腔内容物的突起。|Protrusion of the contents of the abdominal cavity through the inguinal canal.
+HP:0000024|Prostatitis|前列腺炎|前列腺（FMA：9600）出现炎症（MPATH：212）。|The presence of `inflammation` (MPATH:212) of the `prostate` (FMA:9600).
+HP:0000025|Functional abnormality of male internal genitalia|男性内生殖器功能异常|#####|#####
+HP:0000026|Male hypogonadism|男性性腺功能减退症|男性性腺即睾丸功能减退。|"Decreased functionality" (PATO:0001624) of the male gonad, i.e., of the "testis" (FMA:7210).
+HP:0000027|Azoospermia|无精症|精液中检测不到精子。|Absence of any measurable level of sperm in his semen.
+HP:0000028|Cryptorchidism|隐睾|阴囊内一侧或双侧睾丸缺如，是由于睾丸未通过腹股沟管下降到阴囊。|Absence of one or both testes from the scrotum owing to failure of the testis or testes to descend through the inguinal canal to the testis.
+HP:0000029|Testicular atrophy|睾丸萎缩|睾丸萎缩表现为体积减小和潜在的生育能力丧失。|Wasting (atrophy) of the testicle (the male gonad) manifested by a decrease in size and potentially by a loss of fertility.
+HP:0000030|Testicular gonadoblastoma|睾丸性腺母细胞瘤|睾丸部位形成的性腺母细胞瘤。|The presence of a `gonadoblastoma` (MPATH:315) of the `testis` (FMA:7210).
+HP:0000031|Epididymitis|附睾炎|附睾发生的炎症 。|The presence of `inflammation` (MPATH:212) of the `epididymis` (FMA:18255).
+HP:0000032|Abnormality of male external genitalia|男性外生殖器异常|男性外生殖器的异常。|An abnormality of `male external genitalia` (FMA:45642).
+HP:0000033|Ambiguous genitalia, male|男性外阴性别不明|遗传学性别为XY的个体，其外阴性别不明。|`Ambiguous genitalia` (HP:0000062) in an individual with XY genetic gender.
+HP:0000034|Hydrocele testis|睾丸鞘膜积液|睾丸鞘膜层之间积聚透明液体。|Accumulation of clear fluid in the  between the layers of membrane (tunica vaginalis) surrounding the testis.
+HP:0000035|Abnormality of the testis|睾丸异常|睾丸（男性性腺）的异常。|An anomaly of the testicle (the male gonad).
+HP:0000036|Abnormality of the penis|阴茎异常|#####|#####
+HP:0000037|Male pseudohermaphroditism|男性假两性畸形|两性畸形是指性腺的形态和外生殖器不吻合。男性假两性畸形的染色体核型为男性（XY），但外生殖器呈不完全男性化、模棱两可或完全女性化。如果有性腺，则是睾丸。|Hermaphroditism refers to a discrepancy between the morphology of the gonads and that of the external genitalia. In male pseudohermaphroditism, the genotype is male (XY) and the external genitalia are imcompletely virilized, ambiguous, or complete female. If gonads are present, they are testes.
+HP:0000039|Epispadias|尿道上裂|尿道口开口异常，开口在阴茎背侧（上面）。|Displacement of the urethral opening on the dorsal (superior) surface of the penis.
+HP:0000040|Enlarged penis|阴茎增大|#####|#####
+HP:0000041|Chordee|阴茎下曲|阴茎头向下弯曲。|A condition in which the head of the penis curves downward.
+HP:0000042|Absent external genitalia|外生殖器缺如|男性或女性无外生殖器。|Lack of external genitalia in a male or female individual.
+HP:0000044|Hypogonadotrophic hypogonadism|低促性腺激素性性腺功能减退症|低促性腺激素性性腺功能减退症以性腺（男性的睾丸，女性的卵巢）功能降低为特征，是垂体促性腺激素缺乏所致，如卵泡刺激素（FSH）和促黄体生成激素（LH）。|Hypogonadotropic hypogonadism is characterized by reduced function of the gonads (testes in males or ovaries in females) and results from the absence of the gonadal stimulating pituitary hormones: follicle stimulating hormone (FSH) and luteinizing hormone (LH).
+HP:0000045|Abnormality of the scrotum|阴囊异常|#####|#####
+HP:0000046|Scrotal hypoplasia|阴囊发育不良|#####|#####
+HP:0000047|Hypospadias|尿道下裂|尿道口开口位于阴茎的腹侧（下部）。|Displacement of the urethral opening on the ventral (inferior) surface of the penis.
+HP:0000048|Bifid scrotum|阴囊对裂|阴囊分离成左右两部分，这两半阴囊通常在阴茎上部汇合。|Separation of the two halves of the scrotum, whereby commonly the 2 halves of the scrotum meet above the penis.
+HP:0000049|Shawl scrotum|披肩状阴囊|阴囊上部皮肤上升至阴茎根部。|A condition in which the upper scrotal skin rises over the base of the penis.
+HP:0000050|Hypoplastic male external genitalia|男性外生殖器发育不良|男性外生殖器（包括阴茎、阴囊和尿道）全部或部分发育低下。|Underdevelopment of part or all of the male external reproductive organs (which include the penis, the scrotum and the urethra).
+HP:0000051|Perineal hypospadias|会阴型尿道下裂|尿道口位于会阴部的尿道下裂。|Hypospadias with location of the urethral meatus in the perineal region.
+HP:0000052|Urethral atresia, male|男性尿道闭锁|一种先天性异常，男性的尿道开口闭锁或未发育形成开口。|Congenital anomaly characterized by closure or failure to develop an opening in the urethra in males.
+HP:0000053|Macroorchidism|巨睾|异常的大睾丸。|The presence of abnormally large testes.
+HP:0000054|Micropenis|小阴茎|异常小的阴茎。出生时，正常阴茎大约长3厘米（从耻骨结节到龟头顶端拉直了量得的长度），小于2.0-2.5厘米为小阴茎。|Abnormally small `penis` (FMA:9707). At birth, the normal penis is about 3 cm (stretched length from pubic tubercle to tip of penis) with micropenis less than 2.0-2.5 cm.
+HP:0000055|Abnormality of female external genitalia|女性外生殖器异常|女性外生殖器的异常。|An abnormality of the `female external genitalia` (FMA:45649).
+HP:0000056|Abnormality of the clitoris|阴蒂异常|阴蒂的异常。|An abnormality of the `clitoris` (FMA:9909).
+HP:0000057|Clitoromegaly|阴蒂肥大|阴蒂体积增大。|`Increased size` (PATO:0000586) of the `clitoris` (FMA:9909).
+HP:0000058|Abnormality of the labia|阴唇异常|阴唇的异常，阴蒂是女阴外部可见部分。|An anomaly of the labia, the externally visible portions of the vulva.
+HP:0000059|Hypoplastic labia majora|大阴唇发育不良|大阴唇发育低下。|Undergrowth of the outer labia.
+HP:0000060|Clitoral hypoplasia|阴蒂发育不良|阴蒂的发育低下。|Developmental hypoplasia of the `clitoris` (FMA:9909).
+HP:0000061|Ambiguous genitalia, female|女性外阴性别不明|遗传学性别为XX个体的外阴性别不明。|`Ambiguous genitalia` (HP:0000062) in an individual with XX genetic gender.
+HP:0000062|Ambiguous genitalia|外阴性别不明|根据生殖器外型无法确定是属于哪一种性别。外阴性别不明可以使用Prader计分来进行评估：Prader 0:正常女性外生殖器；Prader 1:女性外阴但阴蒂增大；Prader 2:阴蒂较大，阴唇部分融合，形成漏斗状阴道口；Prader 3:阴茎增大，阴唇完全融合形成尿生殖窦，有单一的尿道开口。Prader 4:阴囊完全融合，泌尿生殖口在阴茎的根部或阴茎上，类似尿道下裂；Prader 5:正常男性外生殖器。Prader 1-4 诊断为外阴性别不明。|A genital phenotype that is not clearly assignable to a single gender. Ambiguous genitalia can be evaluated using the Prader scale: Prader 0: Normal female external genitalia. Prader 1: Female external genitalia with clitoromegaly. Prader 2: Clitoromegaly with partial labial fusion forming a funnel-shaped urogenital sinus. Prader 3: Increased phallic enlargement. Complete labioscrotal fusion forming a urogenital sinus with a single opening. Prader 4: Complete scrotal fusion with urogenital opening at the base or on the shaft of the phallus. Prader 5: Normal male external genitalia. The diagnosis of ambiguous genitalia is made for Prader 1-4.
+HP:0000063|Fused labia minora|小阴唇融合|由于阴唇粘连造成小阴唇融合，导致阴道梗阻。|Fusion of the labia minora as a result of labial adhesions resulting in vaginal obstruction.
+HP:0000064|Hypoplastic labia minora|小阴唇发育不良|#####|#####
+HP:0000065|Labial hypertrophy|阴唇肥厚|#####|#####
+HP:0000066|Labial hypoplasia|阴唇发育不良|#####|#####
+HP:0000067|Urethral atresia, female|女性尿道闭锁|一种先天性异常，女性的尿道开口闭锁或未发育形成开口。|Congenital anomaly characterized by closure or failure to develop an opening in the urethra in females.
+HP:0000068|Urethral atresia|尿道闭锁|一种先天性异常，尿道开口闭锁或未发育形成开口。|Congenital anomaly characterized by closure or failure to develop an opening in the urethra.
+HP:0000069|Abnormality of the ureter|输尿管异常|输尿管的异常。|An abnormality of the `ureter` (FMA:9704).
+HP:0000070|Ureterocele|输尿管囊肿|输尿管远端段先天性囊状扩张。|A ureterocele is a congenital saccular dilatation of the distal segment of the ureter.
+HP:0000071|Ureteral stenosis|输尿管狭窄|输尿管狭窄，即输尿管缢缩。|The presence of a stenotic, i.e., `constricted` (PATO:0001847) `ureter` (FMA:9704).
+HP:0000072|Hydroureter|输尿管积水|输尿管内潴留尿液导致其扩张。|The distention of the `ureter` (FMA:9704) with urine.
+HP:0000073|Ureteral duplication|输尿管重复|一种发育异常，一侧肾脏通过两根输尿管（而不是一根）连接到膀胱。|A developmental anomaly characterized by the presence of two, instead of one, ureter connecting a kidney to the bladder.
+HP:0000074|Ureteropelvic junction obstruction|肾盂输尿管连接部梗阻|在肾盂到近端输尿管尿处流受到阻断。|Blockage of urine flow from the renal pelvis to the proximal ureter.
+HP:0000075|Renal duplication|肾重复|先天性泌尿道异常，肾发生重复并分别经由两个独立的肾盂和输尿管下排。|A congenital anomaly of the urinary tract, in which the `kidney` (FMA:7203) is duplicated and is drained via two separate renal pelves and ureters.
+HP:0000076|Vesicoureteral reflux|膀胱输尿管返流|尿液从膀胱异常（反向）流动进入输尿管或达到肾，与输尿管膀胱瓣膜结构异常有关，或存在其他原因。|Abnormal (retrograde) movement of urine from the bladder into ureters or kidneys related to inadequacy of the valvular mechanism at the ureterovesicular junction or other causes.
+HP:0000077|Abnormality of the kidney|肾脏异常|肾脏的异常。|An abnormality of the `kidney` (FMA:7203).
+HP:0000078|Abnormality of the genital system|生殖系统异常|生殖系统的异常。|An abnormality of the `genital system` (FMA:7160).
+HP:0000079|Abnormality of the urinary system|泌尿系统异常|泌尿系统的异常。|An abnormality of the `urinary system` (FMA:7159).
+HP:0000080|Abnormality of genital physiology|生殖生理异常|生殖系统发生的功能异常。|An `abnormal` (PATO:0000460) `functionality` (PATO:0001509) of the `genital system` (FMA:7160).
+HP:0000081|Duplicated collecting system|集合管系统重复|肾集合管系统的重复。|A duplication of the collecting system of the kidney.
+HP:0000083|Renal insufficiency|肾功能不全|肾功能的降低，肾功能包括尿液的浓缩、廓清废物、维持电解质平衡、维持机体内血压平衡和钙代谢。|A reduction in the level of performance of the kidneys in areas of function comprising the concentration of urine, removal of wastes, the maintenance of electrolyte balance, homeostasis of blood pressure, and calcium metabolism.
+HP:0000085|Horseshoe kidney|马蹄肾|由有肾功能的肾实质或纤维组织将左右肾在中线峡部连接起来，呈现马蹄状。|A connection of the right and left kidney by an isthmus of functioning renal parenchyma or fibrous tissue that crosses the midline.
+HP:0000086|Ectopic kidney|异位肾|由发育异常导致肾脏不在正常解剖位置。|A developmental defect in which a kidney is located in an abnormal anatomic position.
+HP:0000089|Renal hypoplasia|肾发育不良|肾发育不良。|`Hypoplasia` (MPATH:133) of the `kidney` (FMA:7203).
+HP:0000090|Nephronophthisis|肾消耗病|肾皮髓质交界处存在囊肿，伴肾小管间质性纤维化。|Presence of cysts at the corticomedullary junction of the kidney in combination with tubulointerstitial fibrosis.
+HP:0000091|Abnormality of the renal tubule|肾小管异常|肾小管的异常。|An abnormality of the `renal tubules` (FMA:15627).
+HP:0000092|Tubular atrophy|肾小管萎缩|肾小管形成增厚的冗余基底膜，或与周围未萎缩的小管相比直径减小超过一半。|The presence of renal tubules with thick redundant basement membranes, or a reduction of greater than 50% in tubular diameter compared to surrounding non-atrophic tubules.
+HP:0000093|Proteinuria|蛋白尿|尿液中蛋白质水平增加。|Increased levels of protein in the urine.
+HP:0000095|Abnormality of the glomerulus|肾小球异常|肾小球的结构异常。|A structural anomaly of the `glomerulus` (FMA:15624).
+HP:0000096|Glomerulosclerosis|肾小球硬化|肾小球内疤痕组织占位。|Accumulation of scar tissue within the glomerulus.
+HP:0000097|Focal segmental glomerulosclerosis|局灶节段性肾小球硬化|在部分（而不是全部）肾小球存在节段性瘢痕组织增加。|Segmental accumulation of scar tissue in individual (but not all) glomeruli.
+HP:0000098|Tall stature|高身材|身高高于该年龄性别预期身高的正常范围。|A height above that which is expected according to age and gender norms.
+HP:0000099|Glomerulonephritis|肾小球肾炎|肾小球的炎症。|Inflammation of the renal glomeruli.
+HP:0000100|Nephrotic syndrome|肾病综合征|肾病综合征包含一系列的异常，由肾小球功能障碍所致，伴肾小球毛细血管壁通透性增加而产生明显的蛋白尿。肾病综合征是指严重的肾性蛋白质损失，致蛋白尿、低白蛋白血症、浮肿和高血脂症等一系列临床表现。|Nephrotic syndrome is a collection of findings resulting from glomerular dysfunction with an increase in glomerular capillary wall permeability associated with pronounced proteinuria. Nephrotic syndrome refers to the constellation of clinical findings that result from severe renal loss of protein, with Proteinuria and hypoalbuminemia, edema, and hyperlipidemia.
+HP:0000103|Polyuria|多尿|尿液生成率增加。|An `increased rate` (PATO:0000912) of urine production.
+HP:0000104|Renal agenesis|肾缺如|肾缺如是指在胚胎形成和发育过程中没有肾脏发育。|`Agenesis` (MPATH:57), that is, failure of the `kidney` (FMA:7203) to develop during embryogenesis and development.
+HP:0000105|Enlarged kidneys|肾脏增大|肾脏的大小异常增加。|An abnormal increase in the size of the kidney.
+HP:0000107|Renal cyst|肾囊肿|肾脏中有充满液体的囊。|A fluid filled sac in the kidney.
+HP:0000108|Renal corticomedullary cysts|肾皮髓质交界处囊肿|肾皮质和髓质交界处多发性囊肿。|The presence of multiple cysts at the border between the renal cortex and medulla.
+HP:0000110|Renal dysplasia|肾发育不良|肾脏发育不良。|The presence of `developmental dysplasia` (MPATH:64) of the `kidney` (FMA:7203).
+HP:0000111|Renal juxtaglomerular cell hypertrophy/hyperplasia|肾小球球旁细胞肥大/增生|肾小球球旁细胞数量增加和体积增大。|Increased number and size of the juxtaglomerular cells.
+HP:0000112|Nephropathy|肾病|非特异性术语​​，通指肾脏的疾病或损伤。|A nonspecific term referring to disease or damage of the kidneys.
+HP:0000113|Polycystic kidney dysplasia|多囊性肾发育不良|双侧肾脏多发囊肿。|The presence of multiple cysts in both kidneys.
+HP:0000114|Proximal tubulopathy|近端肾小管病|近端肾小管功能障碍，近端肾小管是从肾小囊（鲍曼囊）通往细尿管袢（亨利袢）的肾单位管道系统的一部分。|Dysfunction of the proximal tubule, which is the portion of the duct system of the nephron of the kidney which leads from Bowman's capsule to the loop of Henle.
+HP:0000117|Renal phosphate wasting|肾源性磷酸盐流失|低磷血症时尿液中出现高磷酸盐。|High urine phosphate in the presence of hypophosphatemia.
+HP:0000118
+HP:0000119|Abnormality of the genitourinary system|泌尿生殖系统异常|泌尿生殖系统的异常。|The presence of any abnormality of the `genitourinary system` (FMA:280610).
+HP:0000121|Nephrocalcinosis|肾钙质沉着症|肾钙质沉着症指是钙盐在肾实质的沉积。|Nephrocalcinosis is the deposition of calcium salts in renal parenchyma.
+HP:0000122|Unilateral renal agenesis|单侧肾缺如|单侧型肾缺如。|A `unilateral` (PATO:0000634) form of `agenesis` (MPATH:57) of the `kidney` (FMA:7203).
+HP:0000123|Nephritis|肾炎|肾脏出现炎症反应。|The presence of `inflammation` (MPATH:212) affecting the `kidney` (FMA:7203).
+HP:0000124|Renal tubular dysfunction|肾小管功能障碍|#####|#####
+HP:0000125|Pelvic kidney|盆腔肾|一种肾发育缺陷，肾脏解剖位置异常，位于骨盆内。|A developmental defect in which a kidney is located in an abnormal anatomic position within the pelvis.
+HP:0000126|Hydronephrosis|肾积水|肾脏严重扩张伴肾盂和肾盏扩张。|Severe distention of the kidney with dilation of the renal pelvis and calices.
+HP:0000127|Renal salt wasting|肾源性盐流失|在血清中电解质浓度低时，尿液中出现一种或多种高浓度的电解质。|A high concentration of one or more electrolytes in the urine in the presence of low serum concentrations of the electrolyte(s).
+HP:0000128|Renal potassium wasting|肾源性钾流失|低钾血症时，尿液中出现高浓度钾。|High urine potassium in the presence of hypokalemia.
+HP:0000130|Abnormality of the uterus|子宫异常|子宫的异常。|An abnormality of the `uterus` (FMA:17558).
+HP:0000131|Uterine leiomyoma|子宫肌瘤|子宫部位发生的平滑肌瘤。|The presence of a `leiomyoma` (MPATH:425) of the `uterus` (FMA:17558).
+HP:0000132|Menorrhagia|月经过多症|月经异常增多和经期延长。|Abnormally heavy and prolonged menstrual period.
+HP:0000133|Gonadal dysgenesis|性腺发育不全|#####|#####
+HP:0000134|Female hypogonadism|女性性腺功能减退症|女性的性腺即卵巢功能减退。|"Decreased functionality" (PATO:0001624) of the female gonad, i.e., of the "ovary" (FMA:7209).
+HP:0000135|Hypogonadism|性腺功能减退症|性腺的功能下降。|A "decreased functionality" (PATO:0001624) of the "gonad" (FMA:18250).
+HP:0000136|Bifid uterus|双角子宫|子宫分裂成两半。|The presence of a `bifid` (PATO:0001572) `uterus` (FMA:17558).
+HP:0000137|Abnormality of the ovary|卵巢异常|卵巢的异常。|An abnormality of the `ovary` (FMA:7209).
+HP:0000138|Ovarian cyst|卵巢囊肿|卵巢有一个或多个囊肿。|The presence of one or more `cysts` (MPATH:62) of the `ovary` (FMA:7209).
+HP:0000139|Uterine prolapse|子宫脱垂|子宫(FMA:17558)发生脱垂(MPATH:626)。|The presence of `prolapse` (MPATH:626) of the `uterus` (FMA:17558).
+HP:0000140|Abnormality of the menstrual cycle|月经周期异常|排卵周期的异常。|An abnormality of the "ovulation cycle" (GO:0042698).
+HP:0000141|Amenorrhea|闭经|#####|#####
+HP:0000142|Abnormality of the vagina|阴道异常|阴道的异常。|An abnormality of the `vagina` (FMA:19949).
+HP:0000143|Rectovaginal fistula|直肠阴道瘘|直肠和阴道之间的瘘管。|The presence of a `fistula` (MPATH:70) between the `vagina` (FMA:19949) and the `rectum` (FMA:14544).
+HP:0000144|Decreased fertility|生育能力下降|#####|#####
+HP:0000145|Transverse vaginal septum|阴道横膈|#####|#####
+HP:0000147|Polycystic ovaries|多囊卵巢|#####|#####
+HP:0000148|Vaginal atresia|阴道闭锁|阴道先天闭塞或阴道壁粘连造成闭锁。|Congenital occlusion of the vagina or adhesion of the walls of the vagina causing occlusion.
+HP:0000149|Ovarian gonadoblastoma|卵巢性腺母细胞瘤|卵巢中形成性腺母细胞瘤。|The presence of a `gonadoblastoma` (MPATH:315) of the `ovary` (FMA:7209).
+HP:0000150|Gonadoblastoma|性腺母细胞瘤|性腺内发生的母细胞瘤或肿瘤。这里定义的性腺由生殖细胞和生殖索成分组成。|The presence of a `gonadoblastoma` (MPATH:315), a `neoplasm` (MPATH:218) of a `gonad` (FMA:18250) that consists of aggregates of germ cells and sex cord elements.
+HP:0000151|aplasia of the uterus|子宫发育不全|子宫发育不全。|`Aplasia` (MPATH:58) of the `uterus` (FMA:17558).
+HP:0000152|Abnormality of head and neck|头部和颈部的异常|头部和颈部的异常。|An abnormality of `head and neck` (FMA:280881).
+HP:0000153|Abnormality of the mouth|嘴部异常|嘴部的异常。|An abnormality of the `mouth` (FMA:49184).
+HP:0000154|Wide mouth|宽嘴|两侧嘴角之间的距离大于平均值超过2个标准偏差。或嘴巴开口宽度显得增大（主观）。|Distance between the oral commissures more than 2 SD above the mean. Alternatively, an apparently increased width of the oral aperture (subjective).
+HP:0000155|Oral ulcer|口腔溃疡|口腔粘膜表面局部开口受侵蚀，导致炎性坏死组织脱落。|Erosion of the mucous membrane of the mouth with local excavation of the surface, resulting from the sloughing of inflammatory necrotic tissue.
+HP:0000157|Abnormality of the tongue|舌异常|舌头的任何异常。|Any abnormality of the `tongue` (FMA:54640).
+HP:0000158|Macroglossia|巨舌症|舌头的长度和宽度增加。|Increased length and width of the tongue.
+HP:0000159|Abnormality of the lip|唇异常|唇部的异常。|An abnormality of the `lip` (FMA:59815).
+HP:0000160|Narrow mouth|嘴巴狭窄|嘴巴的连合间距离低于平均值超过2个标准偏差。或者嘴巴开口的距离显得减小（主观）。|Distance between the commissures of the `mouth` (FMA:49184) more than 2 SD below the mean. Alternatively, an apparently decreased width of the oral aperture (subjective).
+HP:0000161|Median cleft lip|正中唇裂|一种表现为有上唇中线（中）沟痕的唇裂。|A type of `cleft lip` (HP:0000204) presenting as a midline (median) gap in the upper lip.
+HP:0000162|Glossoptosis|舌后坠|舌头向后位移到咽部，即舌头向后错位。|Posterior displacement of the tongue into the pharynx, i.e., a `tongue` (FMA:54640) that is `mislocalised posteriorly` (PATO:0001922).
+HP:0000163|Abnormality of the oral cavity|口腔异常|口腔的异常，即开口或嘴中空的部分。|Abnormality of the `oral cavity` (FMA:20292), i.e., the opening or hollow part of the mouth.
+HP:0000164|Abnormality of the teeth|牙齿异常|牙齿的任何异常。|Any abnormality of the `teeth` (FMA:12516).
+HP:0000166|Severe periodontitis|重度牙周炎|程度严重的牙周炎。|A `severe` (PATO:0000396) form of `periodontitis` (HP:0000165).
+HP:0000168|Abnormality of the gingiva|牙龈异常|牙龈的任何异常。|Any abnormality of the `gingiva` (FMA:59762) (also known as gums).
+HP:0000169|Gingival fibromatosis|牙龈纤维瘤病|牙龈部位发生的纤维瘤。|The presence of `fibrosis` (MPATH:181) of the `gingiva` (FMA:59762).
+HP:0000171|Microglossia|小舌畸形|舌的长度和宽度减小的。|Decreased length and width of the `tongue` (FMA:54640).
+HP:0000172|Abnormality of the uvula|悬雍垂异常|悬雍垂的异常。悬雍垂是从软腭后缘正中悬垂的小圆锥体。|Abnormality of the `uvula` (FMA:55022), the conic projection from the posterior edge of the middle of the soft palate.
+HP:0000174|Abnormality of the palate|腭异常|腭（即口内顶部）的任何异常。|Any abnormality of the `palate` (FMA:54549), i.e., of roof of the mouth).
+HP:0000175|Cleft palate|腭裂|腭裂是由腭突融合失败造成的发育缺陷，表现为口腔顶（软硬腭）的分裂。|Cleft palate is a developmental defect of the `palate` (FMA:54549) resulting from a failure of fusion of the palatine processes and manifesting as a separation of the roof of the mouth (soft and hard palate).
+HP:0000176|Submucous cleft hard palate|黏膜下硬裂腭|粘膜下硬腭裂以形成口腔顶部的骨性硬腭中间部缺损为特征。可能在触诊硬腭时检查出来。|Hard-palate submucous clefts are characterized by bony defects in the midline of the bony palate that are covered by the mucous membrane of the roof of the mouth. It may be possible to detect a submucous cleft hard palate upon palpation as a notch in the bony palate.
+HP:0000177|Abnormality of upper lip|上唇异常|上唇的异常。|An abnormality of the `upper lip` (FMA:59817).
+HP:0000178|Abnormality of lower lip|下唇异常|下唇的异常。|An abnormality of the `lower lip` (FMA:59818).
+HP:0000179|Thick lower lip vermilion|厚下唇|下唇厚度增加，导致下唇外观突出。下唇中线唇红的高度大于平均值超过2个标准偏差。或者，从正面看下唇唇红的高度显得增加（主观）。|Increased thickness of the lower lip, leading to a prominent appearance of the lower lip. The height of the vermilion of the lower lip in the midline is more than 2 SD above the mean. Alternatively, an apparently increased height of the vermilion of the lower lip in the frontal view (subjective).
+HP:0000180|Lobulated tongue|分叶舌|舌头边缘和/或表面上产生的多个凹陷和/或凸起，形成不规则的表面轮廓。|Multiple indentations and/or elevations on the edge and/or surface of the tongue producing an irregular surface contour.
+HP:0000182|Movement abnormality of the tongue|舌头运动异常|#####|#####
+HP:0000183|Difficulty in tongue movements|舌活动困难|#####|#####
+HP:0000185|Cleft soft palate|软腭裂|软腭（也称为软腭，或肌肉腭）的裂口，为第7周和第12周妊娠之间发生的发育缺陷的结果。软腭裂可导致咽鼓管功能异常，由此导致中耳畸形和听力困难，以及因腭咽闭合不全带来的伴有重鼻音的语言问题。|Cleft of the soft palate (also known as the velum, or muscular palate) as a result of a developmental defect occurring between the 7th and 12th week of pregnancy. Cleft soft palate can cause functional abnormalities of the Eustachian tube with resulting middle ear anomalies and hearing difficulties, as well as speech problems associated with hypernasal speech due to velopharyngeal insufficiency.
+HP:0000187|Broad alveolar ridges|宽牙槽嵴|#####|#####
+HP:0000188|Short upper lip|上唇短小|上唇的宽度减小。|`Decreased width` (PATO:0000599) of the `upper lip` (FMA:59817).
+HP:0000189|Narrow palate|上腭狭窄|上腭宽度低于平均值超过2个标准偏差（客观）或腭宽度显得减小（主观）。|Width of the palate more than 2 SD below the mean (objective) or apparently decreased palatal width (subjective).
+HP:0000190|Abnormality of oral frenula|口腔系带异常|舌系带的异常或口腔内存在多余的系带。舌系带指连接舌头和口腔底部粘膜的小褶皱。|An abnormality of the `lingual frenulum` (FMA:59820), that is of the small fold of mucous membrane that attaches the tongue to the floor of the mouth, or the presence of accessory frenula in the oral cavity.
+HP:0000191|Accessory oral frenulum|附加口腔系带|从牙槽嵴延伸到上或下唇内表面上的额外折叠组织。|Extra fold of tissue extending from the alveolar ridge to the inner surface of the upper or lower lip.
+HP:0000193|Bifid uvula|双歧悬雍垂|悬雍垂分裂成两部分，最容易在尖端看到。|`Uvula` (FMA:55022) separated into two parts most easily seen at the tip.
+HP:0000194|Open mouth|张口|#####|#####
+HP:0000196|Lower lip pit|下唇凹陷|下唇的唇红处存在凹陷，通常接近正中部位。|Depression located on the `vermilion of the lower lip` (FMA:59828), usually paramedian.
+HP:0000197|Abnormality of parotid gland|腮腺异常|腮腺的任何异常。腮腺是位于面部覆盖下颌支皮下组织的唾液腺，在外耳的前下方。|Any abnormality of the parotid glands, which are the salivary glands that are located in the subcutaneous tissues of the face overlying the mandibular ramus and anterior and inferior to the external ear.
+HP:0000198|Absence of Stensen duct|无腮腺导管|#####|#####
+HP:0000199|Tongue nodules|舌结节|舌头表面或内部结节。|Nodules on/in the tongue.
+HP:0000200|Short lingual frenulum|舌系带过短|异常短小的舌系带|The presence of an abnormally short `lingual frenulum` (FMA:59820).
+HP:0000201|Pierre-Robin sequence|皮埃尔 - 罗宾序列|皮埃尔-罗宾畸形的特点是小下颌（下颌发育不全），舌下垂和腭裂的发育畸形序列。|Pierre Robin malformation is a sequence of developmental malformations characterized by `micrognathia (mandibular hypoplasia)` (HP:0000347), `glossoptosis` (HP:0000162) and `cleft palate` (HP:0000175).
+HP:0000202|Oral cleft|口裂|口腔中有裂口，有唇裂和腭裂两种主要类型。唇裂指上颌和正中鼻突的先天性融合失败而形成在唇部的凹槽或裂缝。腭裂指腭先天性未能正确融合而在口腔顶部形成带槽凹陷或裂缝。唇颚裂可单独或合并发生。最好是每个缺陷分别编码。|The presence of a cleft in the oral cavity, the two main types of which are cleft lip and cleft palate. In cleft lip, there is the congenital failure of the maxillary and median nasal processes to fuse, forming a groove or fissure in the lip. In cleft palate, there is a congenital failure of the palate to fuse properly, forming a grooved depression or fissure in the roof of the mouth. Clefts of the lip and palate can occur individually or together. It is preferable to code each defect separately.
+HP:0000204|Cleft upper lip|上唇裂|上唇的间隙。这是胚胎发育过程中唇组织非融合造成的先天性缺陷。|A gap in the `upper lip` (FMA:59817). This is a congenital defect resulting from nonfusion of tissues of the lip during embryonal development.
+HP:0000205|Pursed lips|钱包状嘴唇|由于嘴唇收缩导致唇周皮肤呈放射状的一种面部畸形。|An abnormality of the appearance of the face caused by constant contraction of the lips leading to a puckered or pursed appearance.
+HP:0000206|Glossitis|舌炎|舌头发炎。|Inflammation of the tongue.
+HP:0000207|Triangular mouth|三角嘴|嘴呈三角形。|The presence of a `triangular` (PATO:0001875) form of the `mouth` (FMA:49184).
+HP:0000211|Trismus|牙关紧闭|张口能力受限。|Limitation in the ability to open the mouth.
+HP:0000212|Gingival overgrowth|牙龈增生|牙龈增生即覆盖在牙槽嵴上的软组织变厚。增厚范围从仅包括齿间乳头，到牙龈增生覆盖整个牙冠。|`Hyperplasia` (MPATH:134) of the `gingiva` (FMA:59762, that is, a thickening of the soft tissue overlying the alveolar ridge. The degree of thickening ranges from involvement of the interdental papillae alone to gingival overgrowth covering the entire tooth crown.
+HP:0000214|Lip telangiectasia|唇部毛细血管扩张|唇部的毛细血管扩张（即浅表小血管扩张）。|`Telangiectasia` (MPATH:476) (that is, the presence of small dilated superficial blood vessels) of the `lips` (FMA:59815).
+HP:0000215|Thick upper lip vermilion|厚上唇红|上唇中线唇红的高度大于平均值超过2个标准偏差。或者，从正面看下唇唇红的高度显得增加（主观）。|Height of the vermilion of the upper lip in the midline more than 2 SD above the mean. Alternatively, an apparently increased height of the vermilion of the upper lip in the frontal view (subjective).
+HP:0000216|Broad secondary alveolar ridge|宽恒牙槽嵴|#####|#####
+HP:0000217|Xerostomia|口腔干燥|因唾液腺功能障碍导致的口腔黏膜干燥。|Dryness of the mouth due to salivary gland dysfunction.
+HP:0000218|High palate|高腭|腭高大于平均值超过2个标准偏差（客观）或腭高在第一恒大臼齿处的水平高度超过该牙齿的高度的两倍（主观）。|Height of the palate more than 2 SD above the mean (objective) or palatal height at the level of the first permanent molar more than twice the height of the teeth (subjective).
+HP:0000219|Thin upper lip vermilion|薄上唇红|上唇中线唇红的高度小于平均值超过2个标准偏差。或者，从正面看上唇唇红的高度显得变短（主观）。|Height of the vermilion of the upper lip in the midline more than 2 SD below the mean. Alternatively, an apparently reduced height of the vermilion of the upper lip in the frontal view (subjective).
+HP:0000220|Velopharyngeal insufficiency|腭咽机能不全|腭咽括约肌功能下降，言语时不能把鼻腔与口腔分开。|Inability of velopharyngeal sphincter to sufficiently separate the nasal cavity from the oral cavity during speech.
+HP:0000221|Furrowed tongue|沟裂舌|舌头背侧表面上的凹槽加深。|Accentuation of the grooves on the dorsal surface of the tongue.
+HP:0000222|Gingival hyperkeratosis|牙龈角化过度|牙龈发生过度角化|`Hyperkeratosis` (MPATH:154) of the `gingiva` (FMA:59762).
+HP:0000223|Abnormality of taste sensation|味觉异常|味觉异常是指在饮食时口舌感觉的味道（主观感觉）异于正常人，也可表现为进食无味、味觉减退或味觉完全丧失。|The taste patients feeling (subjective feeling) is different from normal while eating.
+HP:0000224|Decreased taste sensation|味觉减退|味觉是指食物在人的口腔内对味觉器官化学感受系统的刺激并产生的一种感觉。不同地域的人对味觉的分类不一样。使老人味觉减退的因素有很多，因为食物的滋味不仅来自于舌头的基本味觉，而且与嗅觉、视觉、神经等的作用有着密切的关系。|The taste we feeling while eating is closely related to olfaction, vision as well as taste. Decreased taste sensation can be caused by a variety of reasons.
+HP:0000225|Gingival bleeding|牙龈出血|累及牙龈的出血|`Hemorrhage` (MPATH:119) affecting the `gingiva` (FMA:59762).
+HP:0000227|Tongue telangiectasia|舌毛细血管扩张|舌的毛细血管扩张（即舌体的浅表小血管扩张）。|`Telangiectasia` (MPATH:476) (that is, the presence of small dilated superficial blood vessels) of the tongue.
+HP:0000228|Oral cavity teleangiectasia|口腔毛细管扩张|口腔中的毛细血管扩张。|Presence of teleangiectases in the oral cavity.
+HP:0000230|Gingivitis|牙龈炎|牙龈发炎。|`Inflammation` (MPATH:212) of the `gingiva` (FMA:59762).
+HP:0000232|Everted lower lip vermilion|下唇唇红外翻|下唇异常外翻，即从正面可见下唇唇红的内部（通常与牙齿相对）。|An abnormal configuration of the `lower lip` (FMA:59818) such that it is turned outward i.e., `everted` (PATO:0001597), with the Inner aspect of the lower lip vermilion (normally opposing the teeth) being visible in a frontal view.
+HP:0000233|Thin vermilion border|薄嘴唇|上唇唇红区皮肤显得变窄。|Reduced width of the "skin of vermilion border region of upper lip" (FMA:312645).
+HP:0000234|Abnormality of the head|头部异常|头部的异常。|An abnormality of the `head` (FMA:7154).
+HP:0000235|Abnormality of the fontanelles and cranial sutures|囟门和颅缝的异常|囟门（在出生两年内骨化的由厚膜覆盖的区域）和颅缝（颅骨之间由韧带和纤维性关节构成的结缔组织相连形成的缝隙）的任何异常|Any abnormality of the fontanelles (the regions covered by a thick membrane that normally ossify in the first two years of life) or the cranial sutures (the fibrous joints in which the articulating bones or cartilages of the skull are connected by sutural ligaments ).
+HP:0000236|Abnormality of the anterior fontanelle|前囟异常|前囟的任何异常。前囟即颅囟，位于冠状缝和矢状缝的交点。|An abnormality of the anterior fontanelle, i.e., the cranial fontanelle that is located at the intersection of the coronal and sagittal sutures.
+HP:0000237|Small anterior fontanelle|小前囟|#####|Abnormally decreased size of  the `anterior fontanelle` (FMA:75439) with respect to age-dependent norms.
+HP:0000238|Hydrocephalus|脑积水|脑积水是从脑脊液产生到吸收至体循环通路异常导致的脑室系统主动扩张。|Hydrocephalus is an active distension of the ventricular system of the brain resulting from inadequate passage of CSF from its point of production within the cerebral ventricles to its point of absorption into the systemic circulation.
+HP:0000239|Large fontanelles|大囟门|在新生儿中，两块额骨、两块顶骨和一块枕骨由纤维缝合线连接，形成一个小的后囟和一个较大的菱形前囟。这些区域允许头颅通过产道，以后可增长。出生后囟门逐渐骨化，后囟通常在出生后八周闭合，前囟在出生后9〜16个月时闭合。如果囟门比年龄相符的正常值大，则被诊断为大囟门。|In newborns, the two frontal bones, two parietal bones, and one occipital bone are joined by fibrous sutures, which form a small posterior fontanelle, and a larger, diamond-shaped anterior fontanelle. These regions allow for the skull to pass the birth canal and for later growth. The fontanelles gradually ossify, whereby the posterior fontanelle usually closes by eight weeks and the anterior fontanelle by the 9th to 16th month of age. Large fontanelles are diagnosed if the fontanelles are larger than age-dependent norms.
+HP:0000240|Abnormality of skull size|颅骨的大小异常|颅骨大小的任何异常。|Any abnormality of the size of the skull.
+HP:0000242|Parietal bossing|顶骨隆起|顶骨隆起是指在顶骨区明显突出。|Parietal bossing is a marked prominence in the parietal region.
+HP:0000243|Trigonocephaly|三角头畸形|头颅呈三角形或三角锥形，尖位于额部中线，底位于两侧枕骨连线。|Wedge-shaped, or triangular head, with the apex of the triangle at the midline of the forehead and the base of the triangle at the occiput.
+HP:0000244|Brachyturricephaly|短尖头畸形|颅骨畸形，呈前后径缩短，垂直径和水平径延长，常合并枕骨区畸形。|A skull deformity characterized by a shortening of the anterior-posterior and an elongation of the transverse and vertical skulldiameters,, frequently combined with malformations of the occipital region.
+HP:0000245|Abnormality of the sinuses|鼻窦异常|鼻旁鼻（颅）窦的异常。鼻窦是头骨和面部的骨头内部与鼻腔相通的充满空气的空间，包括上颌窦，额窦，筛窦，和蝶窦。|Abnormality of the paranasal (cranial) sinuses, which are air-filled spaces that are located within the bones of the skull and face and communicate with the nasal cavity. They comprise the maxillary sinuses, the frontal sinuses, the ethmoid sinuses, and the sphenoid sinuses.
+HP:0000246|Sinusitis|鼻窦炎|由于病毒、细菌、真菌感染，过敏或自身免疫反应等原因所造成的鼻窦的炎症。（FMA:59679）|Inflammation of the `paranasal sinuses` (FMA:59679) owing to a viral, bacterial, or fungal infection, allergy, or an autoimmune reaction.
+HP:0000248|Brachycephaly|短头畸形|头骨形状的异常，其特征为前后直径减小。即头指数大于81％，或头部的前后尺寸（长度）相比宽度显得缩短。|An `abnormality of skull shape` (HP:0002648) characterized by a `decreased anterior-posterior diameter` (PATO:0002042). That is, a cephalic index greater than 81%. Alternatively, an apparently shortened anteroposterior dimension (length) of the head compared to width.
+HP:0000250|Dense calvaria|颅盖骨密度过高|颅盖骨骨骼密度的异常增加。|An abnormal increase of density of the bones making up the calvaria.
+HP:0000252|Microcephaly|小头畸形|枕额（头）围（OFC）比年龄匹配的正常标准少3个标准差以上(参见Ross JJ, Frias JL 1977,  PMID:9683597)。或者头盖骨尺寸减小。|Occipito-frontal (head) circumference (OFC) less than -3 standard deviations compared to appropriate, age matched, normal standards (Ross JJ, Frias JL 1977,  PMID:9683597). Alternatively, decreased size of the `cranium` (FMA:46565).
+HP:0000253|Progressive microcephaly|渐进性小头畸形|头围逐渐落后于同年龄和同性别的正常值时，可诊断为渐进性小头畸形。|Progressive microcephaly is diagnosed when the head circumference falls progressively behind age- and gender-dependent norms.
+HP:0000255|Acute sinusitis|急性鼻窦炎|急性鼻窦炎|An `acute` (PATO:0000389) form of `sinusitis` (HP:0000246).
+HP:0000256|Macrocephaly|巨头畸形|枕额（头）周长大于年龄和性别相匹配的正常值的第97百分位数。或者头盖骨尺寸显得增大。|Occipitofrontal (head) circumference greater than 97th centile compared to appropriate, age matched, sex-matched normal standards. Alternatively, a apparently increased size of the `cranium` (FMA:46565).
+HP:0000260|Wide anterior fontanel|前囟增宽|与相应年龄正常值相比，前囟扩大。|Enlargement of the `anterior fontanelle` (FMA:75439) with respect to age-dependent norms.
+HP:0000262|Turricephaly|尖头畸形|头的高度与宽度和长度相比过大。|Tall head relative to width and length.
+HP:0000263|Oxycephaly|尖头畸形|尖头畸形（希腊oxus尖锐，kephalos头）是指头颅呈锥形或尖形。|Oxycephaly (from Greek oxus, sharp, and kephalos, head) refers to a conical or pointed shape of the skull.
+HP:0000264|Abnormality of the mastoid|乳突异常|乳突的异常。乳突指从颞骨乳突部底面突出的圆锥形突出。|An abnormality of the `mastoid process` (FMA:52872), which is the conical prominence projecting from the undersurface of the mastoid portion of the temporal bone.
+HP:0000265|Mastoiditis|乳突炎|乳突骨的细菌感染炎症。乳突骨坐落于耳后，帮助空气从中耳排出。|A bacterial infection of the mastoid bone. The mastoid bone, which sits behind the ear, consists of air spaces that help drain the middle ear.
+HP:0000267|Cranial asymmetry|颅骨不对称|#####|Asymmetry of the bones of the skull.
+HP:0000268|Dolichocephaly|长头畸形|一种以前-后直径过长为特征的颅骨形状异常，即头骨从面前到脑后的尺寸过长。头颅指数低于76％。或者说，相对于头部宽度，头部前-后长度显得过长。常由矢状缝的过早关闭导致。|An `abnormality of skull shape` (HP:0002648) characterized by a `increased anterior-posterior diameter` (PATO:0002043), i.e., an increased antero-posterior dimension of the skull. Cephalic index less than 76%. Alternatively, an apparently increased antero-posterior length of the head compared to width. Often due to premature closure of the sagittal suture.
+HP:0000269|Prominent occiput|枕骨突出|枕骨（颅骨后部）的凸度增加|Increased convexity of the `occiput` (FMA:49187) (posterior part of the skull).
+HP:0000270|Delayed cranial suture closure|颅缝闭合延迟|婴儿在出生时通常有两个囟门，菱形前囟在冠状缝和矢状缝交界处，后囟在枕顶骨的交点。后囟通常出生后第8周闭合，前囟平均出生后18个月闭合。本术语适用于的囟门闭合延迟/超出正常年龄。|Infants normally have two fontanels at birth, the diamond-shaped anterior fontanelle at the junction of the coronal and sagittal sutures, and the posterior fontanelle at the intersection of the occipital and parietal bones. The posterior fontanelle usually closes by the 8th week of life, and the anterior fontanel closes by the 18th month of life on average. This term applies if there is delay of closure of the fontanelles beyond the normal age.
+HP:0000271|Abnormality of the face|脸部异常|脸部的异常|An abnormality of the `face` (FMA:24728).
+HP:0000272|Malar flattening|扁平颧突|上颌骨颧（前）突发育落后，通过侧面观察和/或触诊来识别。|Underdevelopment of the malar (frontal) process of the maxilla, appreciated in profile and/or by palpation.
+HP:0000273|Facial grimacing|面部表情痛苦|#####|#####
+HP:0000274|Small face|小脸|面部既短又窄|A face that is short (HP:0011219) and narrow (HP:0000275).
+HP:0000275|Narrow face|脸狭窄|两颧间（脸上部）和下颌角间（脸下部）的宽度低于平均值超过2个标准偏差（客观）;或者脸的上部和下部的宽度显得减小（主观）。|Bizygomatic (upper face) and bigonial (lower face) width are both more than 2 standard deviations below the mean (objective); or, an apparent reduction in the width of the upper and lower face (subjective).
+HP:0000276|Long face|长脸|面部高度（长度）比平均值高大于2个标准偏差（客观）；或者，面部高度（长度）显得增加（主观）。|Facial height (length) is more than 2 standard deviations above the mean (objective); or, an apparent increase in the height (length) of the face (subjective).
+HP:0000277|Abnormality of the mandible|下颌骨异常|下颌骨的任何异常|Any abnormality of the `mandible` (FMA:52748), the bone of the lower jaw.
+HP:0000278|Retrognathia|下颌后缩|下颌骨后移所导致的一种畸形|An abnormality in which the `mandible` (FMA:52748) is `mislocalised posteriorly` (PATO:0001922).
+HP:0000280|Coarse facial features|面容粗糙|眉毛，鼻子，嘴唇，嘴，下巴的外观不精细鲜明，通常是因为圆润和厚重的面部特征或伴有或没有皮下和骨组织增厚的皮肤增厚。|Absence of fine and sharp appearance of brows, nose, lips, mouth, and chin, usually because of rounded and heavy features or thickened skin with or without thickening of subcutaneous and bony tissues.
+HP:0000282|Facial edema|面部水肿|#####|#####
+HP:0000283|Broad face|宽脸|双颧间（脸上部）和下颌角间（脸下部）宽度的大于平均值2个标准偏差（客观）;或者脸宽度显得增加（主观）。|Bizygomatic (upper face) and bigonial (lower face) width greater than 2 standard deviations above the mean (objective); or an apparent increase in the width of the face (subjective).
+HP:0000284|Abnormality of the ocular region|眼部异常|#####|#####
+HP:0000286|Epicanthus|内眦赘皮|始于上眼睑中部之上，并向下弯覆盖至内眼角前面和侧面的皮肤褶皱。|A fold of skin starting above the medial aspect of the upper eyelid and arching downward to cover, pass in front of and lateral to the medial canthus.
+HP:0000287|Increased facial adipose tissue|面部脂肪组织增多|面部皮下脂肪组织的量增加。|An increased amount of subcutaneous fat tissue in the face.
+HP:0000288|Abnormality of the philtrum|人中异常|人中的异常。|An abnormality of the `philtrum` (FMA:59819).
+HP:0000289|Broad philtrum|宽人中|由正上方唇红边缘测得的人中脊之间的距离大于平均值2个标准偏差以上，或人中脊之间的距离显得增加。|Distance between the philtral ridges, measured just above the vermilion border, more than 2 standard deviations above the mean, or alternatively, an apparently increased distance between the ridges of the philtrum.
+HP:0000290|Abnormality of the forehead|前额异常|前额的异常。|An anomalyof the `forehead` (FMA:63864).
+HP:0000291|Abnormality of facial adipose tissue|面部脂肪组织异常|#####|#####
+HP:0000292|Loss of facial adipose tissue|面部脂肪组织丢失|面部正常的皮下脂肪组织失去。|Loss of normal subcutaneous fat tissue in the face.
+HP:0000293|Full cheeks|脸颊丰满|颧骨与下颌骨之间软组织更加鼓起或圆润。|Increased prominence or roundness of soft tissues between zygomata and mandible.
+HP:0000294|Low anterior hairline|前发际低|位于中线位置的发际（发际中点）和眉间（鼻根上方位于额骨上的最突出的点）的距离，低于平均值两个标准差以上。也可以理解为发际和眉间之间距离明显缩短。|Distance between the hairline (trichion) and the glabella (the most prominent point on the frontal bone above the root of the nose), in the midline, more than two SD below the mean. Alternatively, an apparently decreased distance between the hairline and the glabella.
+HP:0000295|Doll-like facies|娃娃脸|表现为圆脸形，圆脸颊，短鼻子以及相对较小的下巴的独特面部外观。|A characteristic facial appearance with a round facial form, full cheeks, a short nose, and a relatively small chin.
+HP:0000297|Facial hypotonia|面部肌张力低下|由面神经（第七脑神经）支配的肌肉张力下降。|Reduced muscle tone of a muscle that is innervated by the facial nerve (the seventh cranial nerve).
+HP:0000298|Mask-like facies|面具般面容|缺乏面部表情，常常表现为瞪眼睛和嘴微张。|A lack of facial expression often with staring eyes and a slightly open mouth.
+HP:0000300|Oval face|卵形脸|稍拉长的椭圆形脸轮廓。|A face with a rounded and slightly elongated outline.
+HP:0000301|Abnormality of facial musculature|面部肌肉异常|由面神经（第七脑神经）支配的肌肉异常。|An anomaly of a muscle that is innervated by the facial nerve (the seventh cranial nerve).
+HP:0000303|Mandibular prognathia|下颌前突|与下颌长度增加相关的下巴异常突出|Abnormal prominence of the `chin` (FMA:46495) related to `increased length` (PATO:0000573) of the `mandible` (FMA:52748).
+HP:0000306|Abnormality of the chin|下巴异常|下巴的异常。下巴指面下部下唇以下部分，包括下颌中央突出部位。|An abnormality of the `chin` (FMA:46495), i.e., of the inferior portion of the face lying inferior to the lower lip and including the central prominence of the lower jaw.
+HP:0000307|Pointed chin|尖下巴|由面下部到下巴明显削尖。|A marked tapering of the lower face to the chin.
+HP:0000308|Microretrognathia|小下颌后移|下颌骨发育不全的一种形式，指下颌骨向后错位。|A form of `developmental hypoplasia` (MPATH:10060) of the `mandible` (FMA:52748) in which the mandible is `mislocalised posteriorly` (PATO:0001922).
+HP:0000309|Abnormality of the midface|面中部异常|面中部的异常。面中部指区域而不是解剖术语。其范围上至眼眶下缘，下至鼻基。它是由上颌骨（上颌）和颧骨形成。传统上，面中部不包括鼻和前颌骨。|An anomaly of the midface, which is a region and not an anatomical term. It extends, superiorly, from the inferior orbital margin to, inferiorly, the level of nasal base. It is formed by the maxilla (upper jaw) and zygoma. Traditionally, the nose and premaxilla are not included in the midface.
+HP:0000311|Round face|圆脸|从前方看面部外形较通常圆。|The facial appearance is more circular than usual as viewed from the front.
+HP:0000315|Abnormality of the orbital region|眼眶区异常|#####|#####
+HP:0000316|Hypertelorism|眼距过宽|瞳距比平均值大2个标准差（或，表现为瞳距增加或双眼间隔过宽）。|Interpupillary distance more than 2 SD above the mean (alternatively, the appearance of an increased interpupillary distance or widely spaced eyes).
+HP:0000317|Facial myokymia|面肌颤搐|面肌纤维颤搐是面部肌肉的细微纤丝活动。|Facial myokymia is a fine fibrillary activity of the facial muscles.
+HP:0000319|Smooth philtrum|人中扁平|在鼻基与上唇红之间的皮肤表面平坦，没有脊形成。|Flat skin surface, with no ridge formation in the central region of the upper lip between the nasal base and upper vermilion border.
+HP:0000320|Bird-like facies|鸟样相脸|#####|#####
+HP:0000321|Square face|方脸|面部轮廓，如从正面观察，可显示较宽的颜面上部/头颅和颜面下部/下颌骨，外形如一正方形。|Facial contours, as viewed from the front, show a broad upper face/cranium and lower face/mandible, creating a square appearance.
+HP:0000322|Short philtrum|人中短|鼻基与上唇中线红唇的距离低于平均值超过2个标准偏差，或者，鼻基和上唇中线唇红之间的距离显得缩短。|Distance between nasal base and midline upper lip vermilion border more than 2 SD below the mean. Alternatively, an apparently decreased distance between nasal base and midline upper lip vermilion border.
+HP:0000324|Facial asymmetry|面部不对称|脸的左侧和右侧之间存在异常的差别。|An abnormal difference between the left and right sides of the face.
+HP:0000325|Triangular face|三角脸|从正面看，面部轮廓呈三角形，两侧太阳穴处较宽，下巴窄小。|Facial contour, as viewed from the front, triangular in shape, with breadth at the temples and tapering to a narrow chin.
+HP:0000326|Abnormality of the maxilla|上颌骨异常|上颌骨的异常|An abnormality of the `Maxilla` (FMA:9711) (upper jaw bone).
+HP:0000327|Hypoplasia of the maxilla|上颌骨发育不全|上颌骨发育不全。|Underdevelopment of the `Maxilla` (FMA:9711).
+HP:0000329|Facial hemangioma|面部血管瘤|发生在面部的血管瘤，是一种血管内皮细胞的良性肿瘤。|Hemangioma, a benign tumor of the vascular endothelial cells, occurring in the face.
+HP:0000331|Short chin|短下巴|从下唇唇红到下巴最下点的垂直距离减少。|Decreased vertical distance from the vermilion border of the lower lip to the inferior-most point of the chin.
+HP:0000336|Prominent supraorbital ridges|眶上脊突出|额骨的眉弓轮廓向前和/或向两侧突起增加。|Greater than average forward and/or lateral protrusion of the supraorbital portion of the frontal bones.
+HP:0000337|Broad forehead|宽前额|前额宽度或前颞间距大于平均值两个标准偏差（客观）;或前额两侧之间的距离显得增加。|Width of the forehead or distance between the frontotemporales is more than two standard deviations above the mean (objective); or apparently increased distance between the two sides of the forehead.
+HP:0000338|Hypomimic face|面具面容|面部皮下肌肉的运动幅度降低，通常与面部皱纹形成减少有关。|A reduced degree of motion of the muscles beneath the skin of the face, often associated with reduced facial crease formation.
+HP:0000339|Pugilistic facies|拳击面容|粗糙的面部特征让人联想起一个拳击手。|Coarse facial features reminiscent of those of a boxer.
+HP:0000340|Sloping forehead|额头倾斜|额头的前表面倾斜度大于平均值超过2个标准偏差（客观）;或者从侧面观察额头显得过度向后倾斜。|Inclination of the anterior surface of the forehead from the vertical more than two standard deviations above the mean (objective); or apparently excessive posterior sloping of the forehead in a lateral view.
+HP:0000341|Narrow forehead|额头狭窄|前额的宽度或者额颞间距离低于平均值多于两个标准偏差（客观）;或显得狭窄的颞骨间区域（主观）。|Width of the forehead or distance between the frontotemporales is more than two standard deviations below the mean (objective); or apparently narrow intertemporal region (subjective).
+HP:0000343|Long philtrum|长人中|鼻基及上唇中线之间的距离超过平均值的2个标准偏差，或者鼻基和上唇中线之间的距离显得增加。|Distance between nasal base and midline upper lip vermilion border more than 2 SD above the mean. Alternatively, an apparently increased distance between nasal base and midline upper lip vermilion border.
+HP:0000346|Whistling appearance|吹口哨面容|一种由于嘴唇不断的收缩导致张口减小的面部畸形，病人的嘴唇看起来像在吹口哨。|An abnormality of facial morphology characterized by a small mouth opening and constant contraction of the lips as if the patient were whistling.
+HP:0000347|Micrognathia|小下颌畸形|下颌骨发育不全。|`Developmental hypoplasia` (MPATH:10060) of the `mandible` (FMA:52748).
+HP:0000348|High forehead|额头高|额头高度的异常增加。|An abnormally increased height of the forehead.
+HP:0000349|Widow's peak|美人尖|两侧前额发际线呈弧形并在中线处略低，即额头的V型发尖。|Frontal hairline with bilateral arcs to a low point in the midline of the forehead.
+HP:0000350|Small forehead|小额头|异常小的前额。|The presence of a forehead that is abnormally small.
+HP:0000356|Abnormality of the outer ear|外耳异常|在`外耳`的异常（FMA: 52781）。|An abnormality of the `external ear` (FMA:52781).
+HP:0000357|Abnormal location of ears|耳位异常|耳朵（FMA: 52780）的位置异常。|Abnormal location of the `ear` (FMA:52780).
+HP:0000358|Posteriorly rotated ears|后旋耳|一种耳位置的异常（===HP:0000357===），特征为耳朵位置向后旋转（耳朵的上部向头部的背面旋转，耳朵的下部向前方旋转）。|Abnormal location of the `ear` (FMA:52780).
+HP:0000359|Abnormality of the inner ear|内耳异常|“内耳”(FMA:60909)的异常。|An abnormality of the `inner ear` (FMA:60909).
+HP:0000360|Tinnitus|耳鸣|耳鸣是一种没有外部声刺激却出现声音相关的听觉体验，这种体验常位于耳朵或头颅中。|Tinnitus is an auditory perception that can be described as the experience of sound, in the ear or in the head, in the absence of external acoustic stimulation.
+HP:0000361|Pulsatile tinnitus (tympanic paraganglioma)|搏动性耳鸣（鼓室副神经节瘤）|鼓室副神经节瘤（一种中耳良性肿瘤）相关的搏动性耳鸣。|Pulsatile tinnitus related to a tympanic paraganglioma, which is a benign neoplasm of the middle ear.
+HP:0000362|Otosclerosis|耳硬化症|在耳硬化症中，不正常的骨组织在镫骨及其周围聚集造成镫骨部分固定。这限制了镫骨运动从而导致耳聋。|In otosclerosis, a callus of bone accumulates on the stapes creating a partial fixation. This limits the movement of the stapes bone, which results in hearing loss.
+HP:0000363|Abnormality of earlobe|耳垂异常|在`pinna`小叶的异常（FMA: 60984）。|An abnormality of the `lobule of pinna` (FMA:60984).
+HP:0000364|Hearing abnormality|听力异常|“声音感官知觉”(GO:0007605)的异常。|An abnormality of the `sensory perception of sound` (GO:0007605).
+HP:0000365|Hearing impairment|听力障碍|“声音感官知觉”(GO:0007605)幅度“明显下降”(PATO:0002018)。|A `decreased magnitude` (PATO:0002018) of the `sensory perception of sound` (GO:0007605).
+HP:0000366|Abnormality of the nose|鼻异常|鼻子的异常。|An abnormality of the `nose` (FMA:46472).
+HP:0000368|Low-set, posteriorly rotated ears|低位后旋转耳|耳朵位置较低（HP: 0000369）且向后旋转（HP: 0000358）。|A `decreased magnitude` (PATO:0002018) of the `sensory perception of sound` (GO:0007605).
+HP:0000369|Low-set ears|低位耳|耳廓与头皮连接上缘低于眼内眦向后与耳连接的假想水平线。|Upper insertion of the ear to the scalp below an imaginary horizontal line drawn between the inner canthi of the eye and extending posteriorly to the ear.
+HP:0000370|Abnormality of the middle ear|中耳异常|“中耳”（FMA: 56513）的异常。|An abnormality of the `middle ear` (FMA:56513).
+HP:0000371|Acute otitis media|急性中耳炎|急性中耳炎是中耳的广泛、短暂的疼痛性感染。|Acute otitis media is a short and generally painful infection of the middle ear.
+HP:0000372|Abnormality of the auditory canal|耳道异常|“外耳道”(FMA:61734)（也被称为耳道）的异常。|An abnormality of the `External acoustic tube` (FMA:61734) (also known as the auditory canal).
+HP:0000375|Abnormality of cochlea|耳蜗异常|“耳蜗”（FMA: 60201）的异常。|An abnormality of the `cochlea` (FMA:60201).
+HP:0000376|Incomplete partition of the cochlea type II|II型耳蜗分隔不全|耳蜗缺乏蜗轴和筛区，导致囊性外观。这种情况下，前庭也常常呈囊性。|The cochlea is lacking the entire modiolus and cribriform area, resulting in a cystic appearance. This is accompanied by a large cystic vestibule.
+HP:0000377|Abnormality of the pinna|耳廓异常|`pinna`（56580 FMA）的异常，指耳廓或外耳。|An abnormality of the `pinna` (FMA:56580), which is also referred to as the auricle or external ear.
+HP:0000378|Cupped ear|杯状耳|横向的招风耳，缺乏对耳轮的折叠（包含上下脚的缺失）。|Laterally protruding ear that lacks antihelical folding (including absence of inferior and superior crura).
+HP:0000381|Stapes ankylosis|镫骨固定|镫骨（中耳中的镫形小骨或听小骨）固定是指先天性或获得性的镫骨关节强直，其与声音传导机制（外耳道、鼓膜及/或中耳听小骨）障碍导致的传导性听力损失相关。|Stapes ankylosis refers to congenital or acquired fixation of the stapes (the stirrup-shaped small bone or ossicle in the middle ear), which is associated with conductive hearing resulting from impairment of the sound-conduction mechanism (the external auditory canal, tympanic membrane, and/or middle-ear ossicles).
+HP:0000383|Abnormality of periauricular region|耳廓周异常|#####|#####
+HP:0000384|Preauricular skin tag|耳前皮赘|核心为软骨的耳组织退行性赘生物，位于耳廓的前部（耳朵的外部）。|A rudimentary tag of ear tissue often containing a core of cartilage and located just in front of the auricle (outer part of the ear).
+HP:0000385|Small earlobe|小耳垂|耳垂体积的减小。|Reduced volume of the earlobe.
+HP:0000387|Absent earlobe|耳垂缺失|耳屏和切迹下的肉质非软骨组织的缺失。|Absence of fleshy non-cartilaginous tissue inferior to the tragus and incisura.
+HP:0000388|Otitis media|中耳炎|中耳炎症或感染。|Inflammation or infection of the middle ear.
+HP:0000389|Chronic otitis media|慢性中耳炎|慢性中耳炎是指中耳流液、肿胀，或感染未痊愈导致耳永久性损害。|Chronic otitis media refers to fluid, swelling, or infection of the middle ear that does not heal and may cause permanent damage to the ear.
+HP:0000391|Thickened helices|耳轮增厚|` “耳轮”(FMA:60992)的“增厚”(PATO:0000591)。|`Increased thickness` (PATO:0000591) of the`helix` (FMA:60992) of the ear.
+HP:0000394|Lop ear|罗布泊耳|耳上半部分向前下折叠导致三角窝和耳舟的形态不清。|Anterior and inferior folding of the upper portion of the ear that obliterates triangular fossa and scapha.
+HP:0000395|Prominent antihelix|对耳轮突出|对耳轮（FMA:60995）的异常突出（PATO:0001482）。|The presence of an abnormally `prominent` (PATO:0001482) `antihelix` (FMA:60995).
+HP:0000396|Overfolded helix|耳轮过度卷曲|耳轮（FMA: 60992）’卷曲程度超过正常（PATO: 0001910）。即，耳轮边缘过度卷曲，同时游离边缘平行于耳的平面。|A condition in which the `helix` (FMA:60992) is `folded` (PATO:0001910) over to a greater degree than normal. That is, excessive curling of the helix edge, whereby the free edge is parallel to the plane of the ear.
+HP:0000399|Prelingual sensorineural hearing impairment|学语前感音神经性听力损失|感音神经性耳聋（===HP:0008538=== ）的一种，先天性（===HP:0003577===）或婴幼儿期发病（===HP:0003593===），即在学会语言前发病。|A condition in which the `helix` (FMA:60992) is `folded` (PATO:0001910) over to a greater degree than normal. That is, excessive curling of the helix edge, whereby the free edge is parallel to the plane of the ear.
+HP:0000400|Macrotia|巨耳畸形|客观判断耳朵的平均纵长和宽度超过平均值2个标准偏差以上，或主观判断耳廓长度和宽度明显增加。|Median longitudinal ear length greater than two standard deviations above the mean and median ear width greater than two standard deviations above the mean (objective); or, apparent increase in length and width of the pinna (subjective).
+HP:0000402|Stenosis of the external auditory canal|外耳道狭窄|外耳道的异常缩小。|An abnormal narrowing of the external auditory canal.
+HP:0000403|Recurrent otitis media|反复发作型中耳炎|中耳炎易感性增加，表现为中耳炎反复发作。|Increased susceptibility to otitis media, as manifested by recurrent episodes of otitis media.
+HP:0000405|Conductive hearing impairment|传导性听力障碍|“声音振动传导到内耳”（GO: 0055127）的异常，导致“声音的感官知觉障碍”（GO: 0007605）。|An abnormality of `vibrational conductance of sound to the inner ear` (GO:0055127) leading to impairment of `sensory perception of sound` (GO:0007605).
+HP:0000407|Sensorineural hearing impairment|感音神经性耳聋|与“耳蜗神经”(FMA:53431)“功能”(PATO:0001509)“异常”(PATO:0000460)相关的单耳或双耳的“听力损失”类型。|An abnormality of `vibrational conductance of sound to the inner ear` (GO:0055127) leading to impairment of `sensory perception of sound` (GO:0007605).
+HP:0000408|Progressive sensorineural hearing impairment|渐进性感音神经性听力损失|一种进行性下降的（PATO:0001818）感音神经性听力损失（===HP:0000407===）。|An abnormality of `vibrational conductance of sound to the inner ear` (GO:0055127) leading to impairment of `sensory perception of sound` (GO:0007605).
+HP:0000410|Mixed hearing impairment|混合性听力损失|由于传导听力损伤和感音神经性听力损伤同时存在导致的听力丧失。|An abnormality of `vibrational conductance of sound to the inner ear` (GO:0055127) leading to impairment of `sensory perception of sound` (GO:0007605).
+HP:0000411|Protruding ear|招风耳|耳朵平面与颞骨乳突部的夹角大于第97年龄百分位数（客观），或者耳轮外缘与乳突处的最大距离点之间距离超过2厘米（目标）。|Angle formed by the plane of the ear and the mastoid bone greater than the 97th centile for age (objective); or, outer edge of the helix more than 2 cm from the mastoid at the point of maximum distance (objective).
+HP:0000413|Atresia of the external auditory canal|外耳道闭锁|外耳道缺陷或未形成。|Absence or failure to form of the external auditory canal.
+HP:0000414|Bulbous nose|蒜头鼻|鼻子前下方呈球形形状且体积增加。|Increased volume and globular shape of the anteroinferior aspect of the nose.
+HP:0000415|Abnormality of the choanae|鼻后孔的异常|鼻后孔（鼻后部的开孔）的异常。|Abnormality of the choanae (the posterior nasal apertures).
+HP:0000417|Slender nose|鼻子细长|鼻子异常细且长。|The presence of an abnormally slengder and long（tall） of the nose.
+HP:0000418|Narrow nasal ridge|鼻脊狭窄|鼻脊宽度减小。|Decreased width of the nasal ridge.
+HP:0000419|Abnormality of the nasal septum|鼻中隔异常|鼻中隔的异常。|An abnormality of the `nasal septum` (FMA:54375).
+HP:0000420|Short nasal septum|鼻中隔短小|鼻中隔上下缘之间距离缩小。|Reduced superior to inferior length of the nasal septum.
+HP:0000421|Epistaxis|鼻衄|鼻出血，指鼻部的流血|Epistaxis, or nosebleed, refers to a `hemorrhage` (MPATH:119) localized in the`nose` (FMA:46472).
+HP:0000422|Abnormality of the nasal bridge|鼻梁异常|鼻梁的异常。鼻梁即鼻的凹陷区域包括鼻根和鼻侧面。它位于眉间和鼻骨下边界之间并侧伸至内眼角。|Abnormality of the nasal bridge, which is the saddle-shaped area that includes the nasal root and the lateral aspects of the nose. It lies between the glabella and the inferior boundary of the nasal bone, and extends laterally to the inner canthi.
+HP:0000426|Prominent nasal bridge|鼻梁突出|鼻根部向前突出。|Anterior positioning of the nasal root in comparison to the usual positioning for age.
+HP:0000429|Abnormality of the nasal alae|鼻翼异常|鼻翼的异常。|An abnormality of the `Ala of nose` (FMA:59519).
+HP:0000430|Underdeveloped nasal alae|鼻翼发育不全|鼻翼较薄、缺如或过度高拱。|Thinned, deficient, or excessively arched `ala nasi` (FMA:59519).
+HP:0000431|Wide nasal bridge|宽鼻梁|鼻梁（形成鼻根）的宽度增加。|Increased breadth of the nasal bridge (and with it, the nasal root).
+HP:0000433|Abnormality of the nasal mucosa|鼻粘膜异常|#####|#####
+HP:0000434|Nasal mucosa telangiectasia|鼻粘膜毛细血管扩张|鼻粘膜的毛细血管扩张|`Telangiectasia` (MPATH:476) of the nasal mucosa.
+HP:0000436|Abnormality of the nasal tip|鼻尖异常|鼻尖的异常。|An abnormality of the `nasal tip` (FMA:59518).
+HP:0000437|Depressed nasal tip|鼻尖凹陷|鼻尖到鼻基的间距减小。|Decreased distance from the nasal tip to the nasal base.
+HP:0000444|Convex nasal ridge|凸鼻嵴|鼻脊向连接鼻根和鼻尖的假想线之前弯曲。鼻子经常会同时显得突出和鼻小柱低|Nasal ridge curving anteriorly to an imaginary line that connects the nasal root and tip. The nose appears often also prominent, and the columella low.
+HP:0000445|Wide nose|宽鼻|两侧鼻翼之间的距离大于同年龄平均值超过2个标准偏差，即鼻基宽度和鼻翼之间的宽度显得增加。|Interalar distance more than two standard deviations above the mean for age, i.e., an apparently increased width of the nasal base and alae.
+HP:0000446|Narrow nasal bridge|鼻梁狭窄|鼻子的骨桥宽度减小。|Decreased width of the bony bridge of the nose.
+HP:0000447|Pear-shaped nose|梨形鼻|#####|#####
+HP:0000448|Prominent nose|鼻子突出|鼻中隔根部和鼻尖之间的距离大于平均值加两倍标准差，或者，鼻子显得向前突起。|Distance between subnasale and pronasale more than two standard deviations above the mean, or alternatively, an apparently increased anterior protrusion of the nasal tip.
+HP:0000451|Triangular nasal tip|三角鼻尖|鼻尖呈三角形。|The presence of a `triangular`  form of the ` mouth `
+HP:0000452|Choanal stenosis|鼻后孔狭窄|鼻后孔（后鼻孔）异常收窄。|Abnormal narrowing of the choana (the posterior nasal aperture).
+HP:0000453|Choanal atresia|鼻后孔闭锁|鼻后孔（后鼻孔）闭合不存在或异常。|Absence or abnormal closure of the choana (the posterior nasal aperture).
+HP:0000454|Flared nostrils|喇叭状鼻孔|#####|#####
+HP:0000455|Broad nasal tip|宽鼻尖|鼻尖宽度增加。|Increase in width of the `nasal tip` (FMA:59518).
+HP:0000456|Bifid nasal tip|双歧鼻尖|鼻尖的分裂。目视可见的有垂直压痕，裂开，或凹陷的鼻尖。|A splitting of the nasal tip. Visually assessable vertical indentation, cleft, or depression of the nasal tip.
+HP:0000457|Depressed nasal ridge|鼻嵴凹陷|由鼻嵴凹陷导致的鼻子不突出。|Lack of prominence of the nose resulting from a posteriorly-placed nasal ridge.
+HP:0000458|Anosmia|嗅觉丧失|不能感知气味。这是一个通用术语，描述不能闻到的任何气味，可以是嗅觉过程中任何一部分异常而引起的，这一过程包括把气味物质吸收到覆盖嗅觉上皮的鼻腔粘膜，扩散到纤毛，与嗅觉神经元的受体位点结合，产生神经电冲动，从而感知的气味。|An inability to perceive odors. This is a general term describing inability to smell arising in any part of the process of smelling from absorption of odorants into the nasal mucous overlying the olfactory epithelium, diffusion to the cilia, binding to olfactory receptor sites, generation of action potentials in olfactory neurons, and perception of a smell.
+HP:0000460|Narrow nose|鼻子狭窄|鼻翼间距离低于年龄矫正的平均值超过2个标准偏差，或者鼻基宽度显得减小。|Interalar distance more than 2 SD below the mean for age, or alternatively, an apparently decreased width of the nasal base and alae.
+HP:0000463|Anteverted nares|鼻孔前翻|观察者与被观察者头部保持法兰克福水平且两人眼睛平齐，在这样的视角下观察到鼻孔朝前。外观表现为朝天鼻（鼻尖上翘）。|Anteriorly-facing nostrils viewed with the head in the Frankfurt horizontal and the eyes of the observer level with the eyes of the subject. This gives the appearance of an upturned nose (upturned nasal tip).
+HP:0000464|Abnormality of the neck|颈部异常|颈部的异常。|An abnormality of the `neck` (FMA:7155).
+HP:0000465|Webbed neck|颈蹼|从颈侧到肩部的皮肤连成一片皱褶。|A abnormality skin fold that runs along the sides of the neck down to the shoulders.
+HP:0000466|Limited neck range of motion|颈部运动范围受限|#####|#####
+HP:0000467|Neck muscle weakness|颈肌无力|颈部肌肉组织力量减少。|`Decreased strength` (PATO:0001779) of the `neck musculature` (FMA:71290).
+HP:0000468|Increased adipose tissue around the neck|颈周脂肪组织增多|围绕颈部的皮下脂肪组织增加。|An increased amount of subcutaneous fat tissue around the neck.
+HP:0000470|Short neck|短颈|颈部的长度缩短|Diminished length of the `neck` (FMA:7155).
+HP:0000471|Gastrointestinal angiodysplasia|胃肠道血管发育不良|累及胃肠道血管的发育异常。|`Dysplasia` (MPATH:589) affecting the vasculature of the `gastrointestinal tract` (FMA:71132).
+HP:0000472|Long neck|长颈|颈部顶-底长度的增加。|Increased inferior-superior length of the neck.
+HP:0000473|Torticollis|斜颈|颈部肌肉不自主收缩导致头部运动异常或位置异常。|Involuntary contractions of the `neck musculature` (FMA:71290) resulting in an abnormal posture of or abnormal movements of the head.
+HP:0000474|Thickened nuchal skin fold|颈部皮肤皱褶冗赘|胎儿颈后皮肤厚度增厚。通过胎儿头部横断位位于透明隔腔和丘脑水平，倾斜向后包括小脑处测量皱褶。测量取自胎儿中线处，枕骨中部外侧缘至皮肤最外侧。在18至24周大于或等于6mm，或16至18周大于或等于5毫米可认为测量值显著。|A thickening of the skin thickness in the posterior aspect of the fetal neck. A nuchal fold measurement is obtained in a transverse section of the fetal head at the level of the cavum septum pellucidum and thalami, angled posteriorly to include the cerebellum. The measurement is taken from the outer edge of the occiput bone to the outer skin limit directly in the midline. A measurement 6 mm or more is considered significant between 18 and 24 weeks and a measurement of 5 mm or more is considered significant at 16 to 18 weeks (pmid:16100637).
+HP:0000475|Broad neck|宽颈|颈部一侧到另一侧宽度增加。|Increased side-to-side width of the neck.
+HP:0000476|Cystic hygroma|囊状水瘤|颈部囊性淋巴病变。|A cystic lymphatic lesion of the `neck` (FMA:7155).
+HP:0000478|Abnormality of the eye|眼部异常|眼部异常，包括眼球的位置、间距和眼内组织的异常（54448 FMA）。|Any abnormality of the `eye` (FMA:54448), including location, spacing, and intraocular abnormalities.
+HP:0000479|Abnormality of the retina|视网膜的异常|视网膜上的异常（FMA:58301）。|An abnormality of the `retina` (FMA:58301).
+HP:0000480|Retinal coloboma|视网膜缺损|视网膜的裂隙或凹槽。|A notch or cleft of the retina.
+HP:0000481|Abnormality of the cornea|角膜异常|#####|Any abnormality of the `cornea` (FMA:58238), which is the transparent tissue at the front of the eye that covers the iris, pupil, and anterior chamber.
+HP:0000482|Microcornea|小角膜|角膜的先天性异常（FMA:58238），其中角膜和眼睛的眼前段都小于正常。角膜的水平直径甚至在成年期没有达到10毫米。|A congenital abnormality of the `cornea` (FMA:58238) in which the cornea and the anterior segment of the eye are smaller than normal. The horizontal diameter of the cornea does not reach 10 mm even in adulthood.
+HP:0000483|Astigmatism|散光|散光为角膜的水平和垂直曲率不同导致的屈光不正。|Astigmatism describes a refractive error  characterized by a difference in the horizontal and vertical  curvature of the cornea.
+HP:0000484|Hyperopic astigmatism|远视散光|散光的一种形式，其中一条子午线是远视，而垂直的另一条线上没有屈光不正。|A form of astigmatism in which one meridian is hyperopic while the one at a right angle to it has no refractive error.
+HP:0000485|Megalocornea|巨角膜|角膜扩大，但清晰度和功能正常。 巨角膜的诊断标准为出生时角膜水平直径12毫米或更大，或两岁后角膜水平直径达13mm或以上。|An enlargement of the `cornea` (FMA:58238) with normal clarity and function. Megalocornea is diagnosed with a horizontal corneal diameter of 12 mm or more at birth or 13 mm or more after two years of age.
+HP:0000486|Strabismus|斜视|斜视（也称为斜视）是指两只眼睛视物方向不平行。|Strabismus (also known as squint) is a condition in which the eyes are not properly aligned with each other.
+HP:0000487|Congenital strabismus|先天性斜视|出生后即发生的斜视。|Congenital strabismus
+HP:0000488|Retinopathy|视网膜病变|视网膜的任何非炎性疾病。保留此非特异性术语​​是因为它在文献中广泛使用，但新的注解应注明精确的视网膜异常类型。|Any noninflammatory disease of the retina. This nonspecific term is retained here because of its wide use in the literature, but if possible new annotations should indicate the precise type of retinal abnormality.
+HP:0000489
+HP:0000490|Deeply set eye|眼睛深陷|眼睛陷入面部平面的深度超过正常状态。|An `eye` (FMA:54448) that is more deeply recessed into the plane of the face than is typical.
+HP:0000491|Keratitis|角膜炎|角膜的炎症。|Inflammation of the cornea.
+HP:0000492|Abnormality of the eyelid|眼睑异常|眼睑的异常。|An abnormality of the `eyelids` (FMA:75178).
+HP:0000493|Abnormality of the fovea|黄斑中心凹异常|黄斑中心凹的异常（FMA:58658），黄斑中心区位于黄斑中央，此部位视锥细胞浓度最高，主导位于中央、高分辨率的视觉。|An abnormality of the `fovea centralis` (FMA:58658), the central area of the macula that mediates central, high resolution vision and contains the largest concentration of cone cells in the retina.
+HP:0000494|Downslanted palpebral fissures|下斜睑裂|睑裂倾角低于均值的两个标准差以上。|The palpebral fissure inclination is more than two standard deviations below the mean.
+HP:0000495|Recurrent corneal erosions|复发性角膜糜烂|存在复发性角膜上皮糜烂。虽然大部分角膜上皮缺损很快愈合，某些患者可能出现反复的溃疡。|The presence of recurrent corneal epithelial erosions. Although most corneal epithelial defects heal quickly, some may show recurrent ulcerations.
+HP:0000496|Abnormality of eye movement|眼球运动异常|在自愿或非自愿的眼球运动及控制时出现的异常。|An abnormality in voluntary or involuntary eye movements or their control.
+HP:0000497|Globe retraction and deviation on abduction|外展时眼球回缩和偏斜|外展时眼球的回缩和偏斜。|Globe retraction and deviation on abduction
+HP:0000498|Blepharitis|眼睑炎|眼睑的炎症。|Inflammation of the eyelids.
+HP:0000499|Abnormality of the eyelashes|睫毛异常|睫毛的异常|An abnormality of the `eyelashes` (FMA:53669).
+HP:0000501|Glaucoma|青光眼|青光眼是视网膜神经节细胞减少的典型视神经病变，常伴有眼内压升高。|Glaucoma refers loss of retinal ganglion cells in a characteristic pattern of optic neuropathy usually associated with increased intraocular pressure.
+HP:0000502|Abnormality of the conjunctiva|结膜异常|在结膜上的异常（FMA:59011）。|An abnormality of the `conjunctiva` (FMA:59011).
+HP:0000503|Tortuosity of conjunctival vessels|结膜血管迂曲|结膜的血管曲折和转折数量增加。|The presence of an increased number of twists and turns of the conjunctival blood vessels.
+HP:0000504|Abnormality of vision|视力异常|视力的异常。|Abnormality of eyesight (visual perception).
+HP:0000505|Visual impairment|视觉障碍|视觉障碍指由于疾病、外伤、先天或退行性因素导致的不同程度的视力丧失，视物能力严重受限，需要额外的辅助。传统方法如屈光矫正、药物、手术等无法恢复丧失的视力。|Visual impairment (or vision impairment) is vision loss (of a person) to such a degree as to qualify as an additional support need through a significant limitation of visual capability resulting from either disease, trauma, or congenital or degenerative conditions that cannot be corrected by conventional means, such as refractive correction, medication, or surgery.
+HP:0000506|Telecanthus|内眦距过宽|内眦距离大于平均值超过两个标准偏差（客观）；或两眼内眦之间的距离显得增加。|Distance between the inner canthi more than two standard deviations above the mean (objective); or, apparently increased distance between the inner canthi.
+HP:0000508|Ptosis|上睑下垂|上睑缘比正常位置低3毫米或更多，覆盖虹膜的上部分（客观角度）;或者遮蔽一部分进入瞳孔的光线（主观角度）。|The upper eyelid margin is positioned 3 mm or more lower than usual and covers the superior portion of the iris (objective); or, the upper lid margin obscures at least part of the pupil (subjective).
+HP:0000509|Conjunctivitis|结膜炎|在结膜上发生的炎症（FMA:59011）。|Inflammation of the  `conjunctiva` (FMA:59011).
+HP:0000510|Retinitis pigmentosa|视网膜色素变性|遗传性视网膜萎缩和变性。|Hereditary degeneration and atrophy of the retina.
+HP:0000511|Vertical supranuclear gaze palsy|垂直性核上性凝视麻痹|核上性凝视麻痹在垂直方向无法正常视物，是脑损伤的结果。眼球随意运动丧失，但是由于脑干仍然完好，所有的反射共轭眼球运动正常。|A supranuclear gaze palsy is an inability to look in a vertical direction as a result of cerebral impairment. There is a loss of the voluntary aspect of eye movements, but, as the brainstem is still intact, all the reflex conjugate eye movements are normal.
+HP:0000512|Abnormal electroretinogram|视网膜电流图异常|通过视网膜电流图检测发现的视网膜中各种类型细胞的电反应异常。|Any abnormality of the electrical responses of various cell types in the retina as measured by electroretinography.
+HP:0000514|Slow saccadic eye movements|慢眼跳|速度异常缓慢的眼跳。|An abnormally slow velocity of the saccadic eye movements.
+HP:0000517|Abnormality of the lens|晶状体异常|在晶状体上的异常（FMA:58241）。|An abnormality of the `lens` (FMA:58241).
+HP:0000518|Cataract|白内障|白内障是指晶状体或晶状体囊膜的不透明或混浊。|A cataract is an opacity or clouding that develops in the crystalline `lens` (FMA:58241) of the eye or in its `capsule` (FMA:58881).
+HP:0000519|Congenital cataract|先天性白内障|出生后即发现的白内障`（HP:0000518）。|A congenital `cataract` (HP:0000518).
+HP:0000520|Proptosis|眼球突出|眼球向前突起于面部平面的程度远大于正常状态。|An eye that is protruding anterior to the plane of the face to a greater extent than is typical.
+HP:0000522|Alacrima|无泪|缺乏泪液分泌。|Absence of tear secretion.
+HP:0000523|Subcapsular cataract|囊下白内障|#####|A cataract that affects the region of the lens directly beneath the `capsule of the lens` (FMA:58881).
+HP:0000524|Conjunctival telangiectasia|结膜毛细血管扩张|球结膜的粘膜表面出现扩张的小血管（约0.5〜1.0毫米）。|The presence of small (ca. 0.5-1.0 mm) dilated blood vessels near the surface of the mucous membranes of the conjunctiva.
+HP:0000525|Abnormality of the iris|虹膜异常|在虹膜上（FMA:58235）的异常，虹膜是位于角膜和晶状体之间的色素肌肉组织，虹膜中间的开口称为瞳孔。|An abnormality of the `iris` (FMA:58235), which is the pigmented muscular tissue between the cornea and the lens, that is perforated by an opening called the pupil.
+HP:0000526|Aniridia|无虹膜|先天性缺少虹膜（FMA:58235）。|Congenital absence of the `iris` (FMA:58235).
+HP:0000527|Long eyelashes|长睫毛|中间的上睫毛长度超过10mm或睫毛的长度增加（主观上）。|Mid upper eyelash length >10 mm or increased length of the eyelashes (subjective).
+HP:0000528|Anophthalmia|无眼畸形|没有眼球。|Absence of the globe or eyeball.
+HP:0000529|Progressive visual loss|进行性视力下降|原有视力逐渐下降。|A reduction of previously attained ability to see.
+HP:0000531|Corneal crystals|角膜结晶|角膜上发生的结晶样沉积。|crystals happens on Corneal
+HP:0000532|Chorioretinal abnormality|脉络膜视网膜异常|脉络膜和视网膜的异常。|An abnormality of the choroid and retina.
+HP:0000533|Chorioretinal atrophy|脉络膜视网膜萎缩|眼底脉络膜和视网膜层的萎缩。|Atrophy of the choroid and retinal layers of the fundus.
+HP:0000534|Abnormality of the eyebrow|眉毛异常|眉毛的异常|An abnormality of the `eyebrow` (FMA:54237).
+HP:0000535|Sparse eyebrow|眉毛稀疏|眉毛的密度降低或数量减少和/或眉毛的直径缩小。|Decreased density/number and/or decreased diameter of eyebrow hairs.
+HP:0000537|Epicanthus inversus|下内眦赘皮|始于下眼睑中部之下，并向上弯覆盖至内眼角前面和侧面的皮肤褶皱。|A fold of skin starting at or just below the medial aspect of the lower lid and arching upward to cover, extend in front of and lateral to the medial canthus.
+HP:0000538|Pseudopapilledema|假性视乳头水肿|#####|Apparent optic disc swelling in the absence of increased intracranial pressure.
+HP:0000539|Abnormality of refraction|屈光异常|正常情况下，光线经眼球聚焦在视网膜上产生一清晰的影像，这一过程出现异常为屈光异常。|An abnormality in the process of focusing of light by the eye in order to produce a sharp image on the retina.
+HP:0000540|Hypermetropia|远视|屈光的一种，其特征是可以看清远处的物体，而近处的物体出现模糊。|An abnormality of refraction characterized by the ability to see objects in the distance clearly, while objects nearby appear blurry.
+HP:0000541|Retinal detachment|视网膜脱离|视网膜内层（神经视网膜）与色素上皮层分离。|Separation of the inner layers of the retina (neural retina) from the pigment epithelium.
+HP:0000542|Impaired ocular adduction|眼内收障碍|眼睛向鼻子方向转动的能力下降。|Reduced ability to move the eye in the direction of the nose.
+HP:0000543|Optic disc pallor|视盘苍白|视盘灰黄色的颜色变浅（视神经乳头在视网膜的部位）。视盘通常呈粉红色，中央凹陷微黄色。|A pale yellow discoloration of the optic disk (the area of the optic nerve head in the retina). The optic disc normally has a pinkish hue with a central yellowish depression.
+HP:0000544|External ophthalmoplegia|眼外肌麻痹|眼外侧肌肉麻痹。|Paralysis of the external ocular muscles.
+HP:0000545|Myopia|近视|屈光异常的一种，其特征是看近处物体清楚，而远处的物体模糊。|An abnormality of refraction characterized by the ability to see objects nearby clearly, while objects in the distance appear blurry.
+HP:0000546|Retinal degeneration|视网膜变性|视网膜的病变。是一种非特异性术语，因为它在文献中广泛使用，所以​​保留。但注解中应标明精确的视网膜病变类型。|A deterioration of the retina. This nonspecific term is retained here because of its wide use in the literature, but if possible new annotations should indicate the precise type of retinal abnormality.
+HP:0000547|Tapetoretinal degeneration|毯层状视网膜变性|视网膜变性中的一种。|Tapetoretinal degeneration
+HP:0000548|Cone-rod dystrophy|锥杆营养不良|视锥和视杆细胞均营养不良。|Cone-rod dystrophy
+HP:0000549|Abnormal conjugate eye movement|眼球共轭运动异常|眼球正常的协调运动需要双眼同时注视同一目标，出现偏差即为眼球共轭运动异常。|Any deviation from the normal motor coordination of the eyes that allows for bilateral fixation on a single object.
+HP:0000550|Abolished electroretinogram (ERG)|视网膜电流图检测不到波形|对视网膜电流图检测的刺激缺乏反馈。|Lack of any response to stimulation upon electroretinography.
+HP:0000551|Abnormality of color vision|色觉障碍|区分或识别颜色的能力异常。|An anomaly in the ability to discriminate between or recognize colors.
+HP:0000552|Tritanomaly|蓝色弱|黄色和蓝色区分障碍，可能是由于蓝色感光色素功能障碍所致。|Difficulty distinguishing between yellow and blue, possible related to dysfunction of the S photopigment.
+HP:0000553|Abnormality of the uvea|葡萄膜异常|#####|An abnormality of the `uvea` (FMA:58103), the vascular layer of the eyeball.
+HP:0000554|Uveitis|葡萄膜炎|部分或全部葡萄膜的炎症反应。|Inflammation of one or all portions of the uveal tract.
+HP:0000555|Leukocoria|白瞳症|#####|An abnormal white reflection from the pupil rather than the usual black reflection.
+HP:0000556|Retinal dystrophy|视网膜营养不良|视网膜营养不良。|Retinal dystrophy
+HP:0000557|Buphthalmos|先天性开角型青光眼|#####|Buphthalmos refers to a congenital open-angle glaucoma of the eye. The term buphthalmos (from Greek 'bous' or ox and 'ophthalmos' or eye) is descriptive of an enlarged eyeglobe resulting from increased intraocular pressure. The eyeglobe is especially prone to distension in newborns and infants because its collagen filaments are not as rigid as in adults and may easily be stretched.
+HP:0000558|Rieger anomaly|Rieger综合征|遗传性眼前节发育不良的先天性畸形，其特征为虹膜角膜畸形，青光眼，虹膜基质发育不良，角膜后胚胎环和角膜混浊。|A congenital malformation of the anterior segment characterized by iridicorneal malformation, glaucoma, iris stroma hypoplasia, posterior embryotoxon, and corneal opacities.
+HP:0000559|Corneal scarring|角膜瘢痕|角膜上出现的瘢痕|Corneal scarring
+HP:0000561|Absent eyelashes|睫毛缺失|睫毛的缺失。|Lack of eyelashes.
+HP:0000563|Keratoconus|圆锥角膜|角膜的圆锥形畸形。|A cone-shaped deformity of the cornea.
+HP:0000564|Lacrimal duct atresia|泪道闭锁|泪液排泄系统的发育障碍，导致鼻泪管不通。|A developmental disorder of the lacrimal drainage system that most often affects the lacrimal ostium and resulting in non-opening of the nasolacrimal duct. It usually results from a non-canalization of the nasolacrimal duct.
+HP:0000565|Esotropia|内斜视|斜视的一种，单眼或双眼向内侧转向（“交叉”）。|A form of strabismus with one or both eyes turned inward ('crossed').
+HP:0000567|Chorioretinal coloboma|脉络膜视网膜缺损|视网膜、视网膜色素上皮和脉络膜的区域性缺损。|Absence of a region of the retina, retinal pigment epithelium, and choroid.
+HP:0000568|Microphthalmos|小眼畸形|单眼或双眼异常小的发育异常。|A developmental anomaly characterized by abnormal smallness of one or both eyes.
+HP:0000570|Abnormality of saccadic eye movements|眼球运动异常|一种异常的眼球运动（HP:0000496），其特征是快速眼球运动（扫视）障碍。|An `abnormality of eye movement` (HP:0000496) characterized by impairment of fast (saccadic) eye movements.
+HP:0000571|Hypometric saccades|长度异常性扫视|扫视下冲，即扫视眼球运动的幅度小于锁定对象所需的幅度。|Saccadic undershoot, i.e., a saccadic eye movement that has less than the magnitude that would be required to gain fixation of the object.
+HP:0000572|Visual loss|视力下降|视觉敏锐度的下降（这意味着在生命中某个时间点视力比现在好，与视力受损或视力受损的亚型区分）。|Loss of visual acuity (implying that vision was better at a certain timepoint in live - otherwise the term is impaired vision or a subclass of that).
+HP:0000573|Retinal hemorrhage|视网膜出血|发生于视网膜内的出血。|`Hemorrhage` (MPATH:119) occurring within the `retina` (FMA:58301).
+HP:0000574|Thick eyebrow|眉毛浓密|眉毛密度/数量增加或眉毛直径增加。|Increased density/number and/or increased diameter of eyebrow hairs.
+HP:0000575|Scotoma|盲点|盲点是指一个区域视觉敏锐度受损，这一区域被正常或相对完好的视力范围包饶。|Scotoma refers to an area or island of loss or impairment of visual acuity surrounded by a field of normal or relatively well-preserved vision.
+HP:0000576|Centrocecal scotoma|旁中心暗点|盲点（视觉范围内视力消失的区域）位于中心点与生理盲点之间大致水平的椭圆形区域内。|A scotoma (area of diminished vision within the visual field) located between the central point of fixation and the blind spot with a roughly horizontal oval shape.
+HP:0000577|Exotropia|外斜视|斜视的一种，单眼或双眼向外偏移。|A form of strabismus with one or both eyes deviated outward.
+HP:0000579|Nasolacrimal duct obstruction|鼻泪管阻塞|在鼻泪管的淤塞（FMA:61063）。|Blockage of the ` lacrimal duct` (FMA:61063).
+HP:0000580|Pigmentary retinopathy|色素性视网膜病|色素性视网膜病。|Pigmentary retinopathy
+HP:0000581|Blepharophimosis|眼睑裂狭小|上下眼睑之间的垂直距离固定减少，并伴有短睑裂。|A fixed reduction in the vertical distance between the upper and lower eyelids with short palpebral fissures.
+HP:0000582|Upslanted palpebral fissure|睑裂上斜|睑裂向上倾斜度大于同龄人平均值加两倍标准差（客观）；或睑裂向上的倾斜度明显增大。|The palpebral fissure inclination to the up is more than two standard deviations above the mean for age (objective); or, the upper inclination of the palpebral fissure is greater than typical for age.
+HP:0000584|Punctate corneal epithelial erosions|点状角膜上皮糜烂|点状的角膜上皮糜烂。|Punctate corneal epithelial erosions
+HP:0000585|Band keratopathy|带状角膜病|角膜中央带状（HP:0000481）钙的沉积，导致视力下降，出现异物感和眼睛刺激。|An `abnormality of the cornea` (HP:0000481) characterized by the deposition of calcium in a band across the central cornea, leading to decreased vision, foreign body sensation, and ocular irritation.
+HP:0000586|Shallow orbits|浅眼眶|眼眶深度减少而表现为眼球相对突出。|Reduced depth of the orbits associated with prominent-appearing ocular globes.
+HP:0000587|Abnormality of the optic nerve|视神经异常|`视神经`上的异常（FMA:50863）。|Abnormality of the `optic nerve` (FMA:50863).
+HP:0000588|Optic nerve coloboma|视神经缺损|向下方延伸的视神经裂。|A cleft of the optic nerve that extends inferiorly.
+HP:0000589|Coloboma|眼球缺损|一个发育缺陷，特点是眼球的某些部分（FMA:54448`）或眼附属器的缺损。|A developmental defect characterized by a cleft of some portion of the `eye` (FMA:54448`) or ocular adnexa.
+HP:0000590|Progressive external ophthalmoplegia|进行性眼外肌麻痹|最初的双眼上睑下垂，随后在各个方向上出现眼球运动限制和扫视变缓。|Initial bilateral ptosis followed by limitation of eye movements in all directions and slowing of saccades.
+HP:0000591|Abnormality of the sclera|巩膜异常|巩膜上的异常（FMA:58269）。|An abnormality of the `sclera` (FMA:58269).
+HP:0000592|Blue sclerae|蓝巩膜|巩膜上的异常蓝色着色（FMA:58269）。|An abnormal bluish coloration of the `sclera` (FMA:58269).
+HP:0000593|Abnormality of the anterior chamber|前房异常|前房异常（FMA:58078），前房是指角膜后面、虹膜前面的空间。|Abnormality of the `anterior chamber` (FMA:58078), which is the space in the eye that is behind the cornea and in front of the iris.
+HP:0000594|Shallow anterior chamber|浅前房|前房深度降低，角膜和虹膜之间的前后距离减小。|Reduced depth of the anterior chamber, i.e., the anteroposterior distance between the cornea and the iris is decreased.
+HP:0000597|Ophthalmoparesis|眼肌瘫痪|眼肌麻痹是指控制眼球运动的一个或多个肌肉瘫痪或肌力降低。|Ophthalmoplegia is a paralysis or weakness of one or more of the muscles that control eye movement.
+HP:0000598|Abnormality of the ear|耳部异常|“耳”(FMA:52780)的异常。|An abnormality of the `ear` (FMA:52780).
+HP:0000599
+HP:0000600|Abnormality of the pharynx|咽部异常|#####|#####
+HP:0000601|Hypotelorism|眼距过窄|瞳距比平均值小2个标准偏差（或，表现为瞳距过短或双眼间距过短）。|Interpupillary distance less than 2 SD above the mean (alternatively, the appearance of an decreased interpupillary distance or closely spaced eyes).
+HP:0000602|Ophthalmoplegia|眼肌麻痹|一个或多个控制眼球运动的肌肉功能减弱。|The ability of one or muscles control the eye movement reduced.
+HP:0000603|Central scotoma|中心暗点|视物时视野中央部存在暗区并干扰中央视觉。|An area of depressed vision located at the point of fixation and that interferes with central vision.
+HP:0000605|Supranuclear gaze palsy|核上性凝视麻痹|核上性凝视麻痹是由于脑损伤，在特定方向上无法视物的疾病。眼球有自主运动丧失，但是由于脑干仍然完好，所有的反射共轭眼球运动正常。|A supranuclear gaze palsy is an inability to look in a particular direction as a result of cerebral impairment. There is a loss of the voluntary aspect of eye movements, but, as the brainstem is still intact, all the reflex conjugate eye movements are normal.
+HP:0000606|Abnormality of the periorbital region|眼眶周围异常|眼眶周围区域的异常。|An abnormality of the region situated around the orbit of the eye.
+HP:0000607|Periorbital wrinkles|眶周皱纹|#####|#####
+HP:0000608|Macular degeneration|黄斑变性|黄斑中心凹的变性（FMA:58637）。|Degeneration of the `macula lutea` (FMA:58637).
+HP:0000609|Optic nerve hypoplasia|视神经发育不全|视神经发育不良（FMA:50863）。|Underdevelopment of the `optic nerve` (FMA:50863).
+HP:0000610|Abnormality of the choroid|脉络膜异常|在脉络膜上发生的异常（FMA:58298）。|An abnormality of the `choroid` (FMA:58298).
+HP:0000611|Choroid coloboma|脉络膜缺损|先天性缺陷，其中脉络膜一部分发育不良和视网膜的对应区域是萎缩。|A congenital defect in which a portion of choroid is not developed and the corresponding region of the retina is atrophic.
+HP:0000612|Iris coloboma|虹膜缺损|虹膜的缺损（:58235 FMA）:（0000589 HP）。|A `coloboma` (HP:0000589) of the `iris` (FMA:58235).
+HP:0000613|Photophobia|畏光|暴露在强光下时发生的眼睛对光过度敏感与不适或疼痛。|Excessive sensitivity to light with the sensation of discomfort or pain in the eyes due to exposure to bright light.
+HP:0000614|Abnormality of the nasolacrimal system|鼻泪系统的异常|鼻泪排水系统的异常，作为一个管道，眼中的泪液经鼻泪管流入鼻腔。|An abnormality of the nasolacrimal drainage system, which serves as a conduit for tear flow from the external eye to the nasal cavity.
+HP:0000615|Abnormality of the pupil|瞳孔异常|瞳孔的异常（FMA:58252）。|An abnormality of the `pupil` (FMA:58252).
+HP:0000616|Miosis|瞳孔缩小|异常（非生理的）的瞳孔收缩。|Abnormal (non-physiological) constriction of the pupil.
+HP:0000617|Abnormality of ocular smooth pursuit|眼部平稳跟踪异常|一个异常的眼运动`（HP:0000496），特点是眼球平稳追踪运动异常。|An `abnormality of eye movement` (HP:0000496) characterized by impaired smooth-pursuit eye movements.
+HP:0000618|Blindness|失明|失明是缺乏视觉感知, 可由生理或神经因素引起。|Blindness is the condition of lacking visual perception due to physiological or neurological factors.
+HP:0000619|Impaired convergence|辐凑受损|眼睛向内辐凑能力下降，不能看清近处的物体。|Reduced ability to turn the eyes inward  in order to focus on a nearby object.
+HP:0000620|Dacrocystitis|泪囊炎|鼻泪囊中发生的炎症。|Inflammation of the nasolacrimal sac.
+HP:0000621|Entropion|眼睑内翻|眼睑边缘向内转动（内翻）。|An inward turning (inversion) of the eyelid margin.
+HP:0000622|Blurred vision|视力模糊|视力锐度下降，无法分辨物体的细节。|Lack of sharpness of vision resulting in the inability to see fine detail.
+HP:0000623|Supranuclear ophthalmoplegia|核上性眼肌麻痹|核上性眼肌的麻痹。|Supranuclear ophthalmoplegia
+HP:0000625|Cleft eyelid|眼睑裂|下眼睑或上眼睑边缘有短的间断|A short discontinuity of the margin of the lower or upper eyelid.
+HP:0000627|Posterior embryotoxon|后胚胎环|后胚胎环是突出和向前移位的许瓦尔贝氏线（FMA:58422）。|A posterior embryotoxon is the presence of a prominent and anteriorly displaced `line of Schwalbe` (FMA:58422).
+HP:0000629|Periorbital fullness|眶周丰满|眶周软组织增加。|Increase in periorbital soft tissue.
+HP:0000630|Abnormality of retinal arteries|视网膜动脉异常|视网膜动脉的异常。|Abnormality of retinal arteries
+HP:0000631|Retinal arterial tortuosity|视网膜动脉迂曲|视网膜动脉的曲折和转折数量增加。|The presence of an increased number of twists and turns of the retinal artery.
+HP:0000632|Lacrimation abnormality|流泪异常|泪液产生异常。|Abnormality of tear production.
+HP:0000633|Decreased lacrimation|流泪减少|流泪异常减少，即产生泪液能力降低。|Abnormally decreased lacrimation, that is, reduced ability to produce tears.
+HP:0000634|Impaired ocular abduction|眼外展障碍|眼睛向外移动的能力受损（朝向头部的一侧）。|An impaired ability of the eye to move in the outward direction (towards the side of the head).
+HP:0000635|Blue irides|蓝色虹膜|虹膜的显著蓝色着色。|A markedly blue coloration of the iris.
+HP:0000636|Upper eyelid coloboma|上眼睑缺损|上眼睑的部分缺失导致眼睑变短畸形|A short discontinuity of the margin of the `upper eyelid` (FMA:54439).
+HP:0000637|Long palpebral fissure|长睑裂|内侧和外侧眼角之间的距离比同年龄平均值大两个以上的标准偏差（客观）;或者，睑裂长度显得增加。|Distance between medial and lateral canthi is more than two standard deviations above the mean for age (objective); or, apparently increased length of the palpebral fissures.
+HP:0000639|Nystagmus|眼球震颤|一种规律性，非自主的单眼或双眼震颤，震颤的双眼不能固视、共轭凝视，或前庭病变。|Rhythmic, involuntary oscillations of one or both eyes related to abnormality in fixation, conjugate gaze, or vestibular mechanisms.
+HP:0000640|Gaze-evoked nystagmus|凝视诱发眼震|眼球震颤在向右或向左凝视的时候变得明显。|Nystagmus made apparent by looking to the right or to the left.
+HP:0000641|Dysmetric saccades|Dysmetric 扫视|眼球扫视时的控制器信号有两个组成部分:脉冲控制眼球从一点到另一点快速移动，之后保持眼睛在该位置不动。当脉冲和凝视不匹配时，dysmetric再注视即发生了。|The controller signal for saccadic eye movements has two components: the pulse that moves the eye rapidly from one point to the next, and the step that holds the eye in the new position. When both the pulse and the step are not the correct size, a dysmetric refixation eye movement results.
+HP:0000642|Red-green dyschromatopsia|红绿色觉障碍|识别红色和绿色色调困难。|Difficulty with discriminating red and green hues.
+HP:0000643|Blepharospasm|眼睑痉挛|影响眼睑和额头的肌肉局部肌张力障碍，伴有双眼睑不自主复发性痉挛。|A focal dystonia that affects the muscles of the eyelids and brow, associated with involuntary recurrent spasm of both eyelids.
+HP:0000646|Amblyopia|弱视|无法利用镜片矫正的视力敏度下降，眼球和视觉通路无可见的解剖学缺陷。|Reduced visual acuity that is uncorrectable by lenses in the absence of detectable anatomic defects in the eye or visual pathways.
+HP:0000647|Sclerocornea|角膜巩膜化|先天性异常，其中部分或全部的角膜获得巩膜的特性，从而导致角膜混浊。|A congenital anomaly in which a part or the whole of the cornea acquires the characteristics of sclera, resulting in clouding of the cornea.
+HP:0000648|Optic atrophy|视神经萎缩|视神经萎缩是由于视网膜神经节细胞轴突死亡所致，表现为眼底检查中视神经乳头颜色灰暗。|`Atrophy` (MPATH:127) of the `optic nerve` (FMA:50863). Optic atrophy results from the death of the retinal ganglion cell axons that comprise the optic nerve and manifesting as a pale optic nerve on fundoscopy.
+HP:0000649|Abnormality of vision evoked potentials|视觉诱发电位异常|视觉诱发的电位异常（VEP），是短暂的视觉刺激启动的电势，在视觉皮层外方的头皮上记录。|An anomaly of visually evoked potentials (VEP), which are electrical potentials, initiated by brief visual stimuli, which are recorded from the scalp overlying the visual cortex.
+HP:0000650|Reduced amplitude of pattern visual evoked potentials|多导视觉诱发电位振幅降低|多导视觉诱发的电位振幅降低|Reduced amplitude of pattern visual evoked potentials
+HP:0000651|Diplopia|复视|复视是指一个对象被感知为两个图像。|Diplopia is a condition in which a single object is perceived as two images, it is also known as double vision.
+HP:0000652|Lower eyelid coloboma|下眼睑缺损|下眼睑的下沿存在断裂。|A short discontinuity of the margin of the `lower eyelid` (FMA:54442).
+HP:0000653|Sparse eyelashes|睫毛稀疏|睫毛密度降低或数量减少。|Decreased density/number of eyelashes.
+HP:0000654|Decreased electroretinogram (ERG) amplitude|视网膜电图振幅降低|视网膜电图上的电反应幅度降低。|Descreased amplitude of eletrical response upon electroretinography.
+HP:0000655|Vitreoretinal degeneration|玻璃体视网膜变性|玻璃体和视网膜的渐进性变性。|Gradual deterioration of the vitreous humor and retina.
+HP:0000656|Ectropion|眼睑外翻|眼睑边缘向外翻转（外翻）或旋转。|An outward turning (eversion) or rotation of the eyelid margin.
+HP:0000657|Oculomotor apraxia|动眼运动异常|即使有代偿性头运动，也无法直观地跟随物体，平滑移动减弱，前庭眼反射消失。|Inability to follow objects visually with compensatory head movements, decreased smooth pursuit, and cancellation of the vestibulo-ocular reflex.
+HP:0000658|Eyelid apraxia|眼睑失用症|不自主的提睑肌抑制及眼轮匝肌抑制。是老年人帕金森病的典型体征之一。|Eyelid apraxia is manifested as involuntary levator muscle suppression and orbicularis oculi muscle inhibition. It is one of the typical signs of Parkinson's disease in the elderly.
+HP:0000659|Peters anomaly|Peters 综合征|眼前段异常的一种综合征，前房异常缺失，通常表现为中央，中央旁，或完全的角膜混浊。|A form of anterior segment dysgenesis in which abnormal cleavage of the anterior chamber occurs. Peters anomaly is characterized by central, paracentral, or complete corneal opacity.
+HP:0000660|Lipemia retinalis|视网膜脂血症|视网膜血管有乳脂状的外观，当血液中的脂质浓度极度增大，视网膜血管呈现浅粉色到乳白色，脉络膜血管浅反射改变。|A creamy appearance of the retinal blood vessels that occurs when the concentration of lipids in the blood are extremely increased, with pale pink to milky white retinal vessels and altered pale reflexes from choroidal vasculature.
+HP:0000661|Palpebral fissure narrowing on adduction|睑裂内收狭窄|#####|#####
+HP:0000662|Night blindness|夜盲症|在夜间或光线不佳时视物不清。|Inability to see well at night or in poor light.
+HP:0000664|Synophrys|连眉|两侧眉毛在中线处（FMA:54237）会合。|Meeting of the medial `eyebrows` (FMA:54237) in the midline.
+HP:0000666|Horizontal nystagmus|水平眼震|眼球震颤由横向来回的眼球运动组成。|Nystagmus consisting of horizontal to-and-fro eye movements.
+HP:0000667|Phthisis bulbi|眼球痨|失明的眼球萎缩，并因终末期眼内疾病导致眼内压降低。|Atrophy of the eyeball with blindness and decreased intraocular pressure due to end-stage intraocular disease.
+HP:0000668|Hypodontia|缺牙症|牙齿数量减少的发育异常，可多达6颗牙齿缺失。|A developmental anomaly characterized by a `reduced number of` (PATO:0001999) teeth, whereby up to 6 teeth are missing.
+HP:0000670|Carious teeth|龋齿|龋齿是影响牙齿结构的多因素细菌感染。该术语被用于描述的比预期更多的龋齿存在。|Caries is a multifactorial bacterial infection affecting the structure of the tooth. This term has been used to describe the presence of more than expected dental caries.
+HP:0000674|Anodontia|无牙畸形|先天性缺失所有牙齿。|The congenital `absence` (PATO:0002000) of all teeth.
+HP:0000675|Macrodontia of permanent maxillary central incisor|恒上颌中门巨牙|恒上颌中切牙尺寸增加。|`Increased size` (PATO:0000586) of the `maxillary central secondary incisor tooth` (FMA:55722).
+HP:0000676|Abnormality of the incisor|切牙异常|切牙的异常。|An abnormality of the `Incisor tooth` (FMA:12823).
+HP:0000677|Oligodontia|少牙畸形|以牙齿数目减少为特征的发育异常`（PATO:0001999），超过6颗牙齿缺失。|A developmental anomaly characterized by a `reduced number of` (PATO:0001999) teeth, whereby more than 6 teeth are missing.
+HP:0000678|Dental crowding|牙齿排列过挤|牙槽嵴内牙齿的重叠。|Overlapping teeth within an alveolar ridge.
+HP:0000679|Taurodontia|牙髓腔增大|恒大臼齿的牙髓腔增大。|`Increased volume` (PATO:0000595) of `dental pulp` (FMA:55631) of `permanent molar` (FMA:84207).
+HP:0000680|Delayed eruption of primary teeth|乳牙萌出延迟|影响乳牙列的牙齿萌出的延迟。|`Delayed` (PATO:0000502) `tooth eruption` (MeSH:D014078) affecting the `primary dentition` (FMA:75151).
+HP:0000682|Abnormality of dental enamel|牙釉质异常|牙釉质的异常|An abnormality of the `dental enamel` (FMA:55629).
+HP:0000683|Grayish enamel|灰色牙釉质|牙釉质出现灰色变色|A `grey` (PATO:0000950) `discoloration` (PATO:0000331) of the `dental enamel` (FMA:55629).
+HP:0000684|Delayed eruption of teeth|牙齿萌出延迟|牙齿萌出的延迟，定义为牙齿萌出年龄比平均值大2个标准偏差。|`Delayed` (PATO:0000502) `tooth eruption` (MeSH:D014078), which can be defined as tooth eruption more than 2 SD beyond the mean eruption age.
+HP:0000685|Hypoplasia of teeth|牙齿发育不全|牙齿发育不全。|Developmental hypoplasia of `teeth` (FMA:12516).
+HP:0000687|Widely spaced teeth|牙间隙增宽|在相同的牙列中大部分牙齿之间的距离（齿隙）增大。|Increased spaces (diastemata) between most of the teeth in the same dental arch.
+HP:0000689|Dental malocclusion|牙齿错位咬合|牙齿错位咬合指牙齿咬合或对齐的异常，以及上下牙齿契合方式的异常，从而导致牙齿排列过挤或咬合模式异常。|Dental malocclusion refers to an abnormality of the occlusion, or alignment, of the teeth and the way the upper and lower teeth fit together, resulting in overcrowding of teeth or in abnormal bite patterns.
+HP:0000690|Agenesis of maxillary lateral incisor|上颌侧切牙发育不全|一个或多个上颌侧切牙发育不全，包括乳上颌侧切牙和恒颌上侧切牙。|`Agenesis` (MPATH:57) of one or more maxillary lateral incisor, comprising the `maxillary lateral primary incisor` (FMA84217) and `maxillary lateral secondary incisor` (FMA:55724).
+HP:0000691|Microdontia|小牙畸形|牙齿的尺寸减小，定义为近中侧到远侧的牙齿直径（宽度）低于平均值超过2个标准偏差。或者，牙齿的最大宽度显得减小。|`Decreased size` (PATO:0000587) of the `teeth` (FMA:12516), which can be defined as a mesiodistal tooth diameter (width) more than 2 SD below mean. Alternatively, an apparently decreased maximum width of tooth.
+HP:0000692|Misalignment of teeth|牙列不齐|牙齿的排列，定位或者间距异常，即牙齿排列不齐。|Abnormal alignment, positioning, or spacing of the teeth, i.e., `misaligned` (PATO:0001654) `teeth` (FMA:12516).
+HP:0000694|Shell teeth|壳状牙|一种累及牙本质的牙齿发育不全，表现为牙髓腔增大，牙本质减少。|A type of dental dysplasia occurring in dentinogenesis imperfecta in which the pulp chambers are enlarged and there is a reduced amount of coronal dentin.
+HP:0000695|Natal tooth|胎生牙齿|出生时已萌出的牙齿。|Erupted tooth or teeth at birth.
+HP:0000696|Delayed eruption of permanent teeth|恒牙萌出延迟|影响恒牙的萌出延迟。|`Delayed` (PATO:0000502) `tooth eruption` (MeSH:D014078) affecting the `secondary dentition` (FMA:55654).
+HP:0000698|Conical tooth|圆锥形齿|不正常的圆锥形形态的牙齿，也就是牙齿周边斜聚在一起成锥形。|An abnormal `conical` (PATO:0002021) form of the `teeth` (FMA:12516), that is, a tooth whose sides converge or taper together incisally.
+HP:0000699|Diastema|牙间隙增大|相同牙弓上两个相邻牙齿间的空隙增大。|Increased space between two adjacent teeth in the same dental arch.
+HP:0000700|Periapical radiolucency|牙根尖周射线可透|牙顶点（牙根的尖端）周围的射线可透（反映出骨质降低）。|Radiolucency (reflecting a reduction in the bony substance) around the apex (the tip of the dental root).
+HP:0000703|Dentinogenesis imperfecta|牙本质发育不全|牙本质的发育不全|`Developmental dysplasia` of `dentin` (FMA:55628).
+HP:0000704|Periodontitis|牙周炎|牙周发炎。|`Inflammation` (MPATH:212) of the `periodontium` (FMA:56665).
+HP:0000705|Amelogenesis imperfecta|牙釉质生长不全|牙釉质发育异常|A `developmental dysplasia` (MPATH:64) of the `dental enamel` (FMA:55629).
+HP:0000706|Unerupted tooth|埋伏牙|一颗或多颗牙齿未能萌出。|The presence of one or more embedded tooth germs which have failed to erupt.
+HP:0000707|Abnormality of the nervous system|神经系统异常|在`神经系统`的异常（FMA:7157）。|An abnormality of the `nervous system` (FMA:7157).
+HP:0000708|Behavioral abnormality|行为异常|一种精神功能异常，包括各种情感，行为，认知功能和感知觉的异常。|An abnormality of mental functioning including various affective, behavioural, cognitive and perceptual abnormalities.
+HP:0000709|Psychosis|精神病|一种表现为人格和思维模式改变的疾病，常伴有幻觉和妄想。|A condition characterized by changes of personality and thought patterns often accompanied by hallucinations and delusional beliefs.
+HP:0000710|Hyperorality|口欲亢进|用口腔检查物体的一种倾向或冲动。|A tendency or compulsion to examine objects by mouth.
+HP:0000711|Restlessness|躁动|躁动表现为难以保持静止、安静、平和、舒适的状态。|Restlessness is manifested as an inability to be still, quiet, at peace or comfortable.
+HP:0000712|Emotional lability|情绪不稳|情绪不稳指患者的情绪在主、客观影响下易于诱发，易于转化和易于消退。情绪的相对稳定性差。产生机制目前不明，情绪不稳多见于脑器质性精神障碍。无特殊治疗。|The relative stability of emotion is poor. The symptom is seen most frequently in brain organic psychosis while the mechanisms remain elusive. And it is lack of special method of therapy.
+HP:0000713|Agitation|易激惹|一种剧烈但持续较短的情感障碍，包括烦恼、急躁或愤怒。可见于疲劳、慢性疼痛，或作为情感异常的临床特征，发生于老年性、脑外伤、癫痫和情感性精神障碍。|Agitation is a violent and transitory affective disorder, including irritability, impatience or anger.
+HP:0000716|Depression|抑郁|以普遍烦躁不安的情绪，失去兴趣，高兴不起来为特征的状态。|A condition characterized by pervasive dysphoric mood, loss of interests, and inability to experience pleasure.
+HP:0000717|Autism|孤独症|孤独症是一种神经发育障碍，主要表现为社交能力受损、兴趣狭窄和行为刻板。婴幼儿期起病，它的特点是社会互动和沟通能力明显异常或发育障碍，活动和兴趣显著受限。该病的临床表现差异很大，取决于个体的发育水平和实际年龄。|Autism is a neurodevelopmental disorder characterized by impaired social interaction and communication, and by restricted and repetitive behavior. Autism begins in childhood. It is marked by the presence of markedly abnormal or impaired development in social interaction and communication and a markedly restricted repertoire of activity and interest. Manifestations of the disorder vary greatly depending on the developmental level and chronological age of the individual (DSM-IV).
+HP:0000718|Aggressive behavior|攻击性行为|攻击性行为可以表现为言语攻击、对目标的物理攻击、对人的身体攻击、并且还可能包括自我攻击。|Aggressive behavior can denote verbal aggression, physical aggression against objects, physical aggression against people, and may also include aggression towards oneself.
+HP:0000719|Inappropriate behavior|不适宜行为|不合时宜的行为。|Inappropriate behavior
+HP:0000720|Mood swings|情绪波动|扩大的情绪反应，如超出个人体验的大笑大哭，或打哈欠。|An exaggeration of emotional affects such as laughing crying, or yawning beyond what the person feels.
+HP:0000721|Lack of spontaneous play|自发性游戏缺乏|自发性游戏的缺乏。自发性游戏具有自由、随意的特点，往往最能体现孩子们自己的游戏意愿，并表现出孩子们奇特的想象力和创造力。|自发性游戏的缺乏。自发性游戏具有自由、随意的特点，往往最能体现孩子们自己的游戏意愿，并表现出孩子们奇特的想象力和创造力。
+HP:0000722|Obsessive-compulsive behavior|强迫行为|复发性强迫观念或强迫行为导致严重的耗时现象（患者每天需要浪费1小时以上），或者引起明显的痛苦或损伤（DSM-IV）。|Recurrent obsessions or compulsions that are severe enough to be time consuming (i.e., they take more than 1 hour a day) or cause marked distress or significant impairment (DSM-IV).
+HP:0000723|Restrictive behavior|限制性行为|行为特点是不正常的限制，仅有少量的兴趣和活动。|Behavior characterized by an abnormal limitation to few interests and activities.
+HP:0000725|Psychotic episodes|精神病发作|精神病的发作。精神病指严重的心理障碍，患者的认识、情感、意志、动作行为等心理活动均可出现持久的明显的异常；不能正常的学习、工作、生活等；动作行为难以被一般人理解；在病态心理的支配下，有自杀或攻击、伤害他人的动作行为。|The episodes of psychotic
+HP:0000726|Dementia|认知障碍|整体认知能力下降不能满足正常的社会或职业功能。痴呆标志着先前存在的认知能力丧失，通常在成人，可以影响记忆，思维，语言，判断和行为。|A loss of global cognitive ability of sufficient amount to interfere with normal social or occupational function. Dementia represents a loss of previously present cognitive abilities, generally in adults, and can affect memory, thinking, language, judgment, and behavior.
+HP:0000727|Frontal lobe dementia|额叶痴呆|额叶痴呆（FLD）以人格改变和进行性言语障碍为主要特征，最终可导致缄默。在疾病进展过程中，还可伴发其它神经综合征，如：帕金森综合征，部分Kluver-Bucy综合征或运动神经元的退化（FLD + MND）。 FLD可通过功能（SPECT）和形态学（CT，MRI）检查进行诊断。|Frontal lobe dementia (FLD) is characterised clinically by personality changes and a progressive speech disorder finally leading to mutism. In the course of the disease also other neurological syndromes may occur such as parkinsonism, a partial Kluver-Bucy-syndrome or a degeneration of motoneurons (FLD + MND). The clinical diagnosis of FLD is supported by functional (SPECT) and morphological (CT, MRI) investigations.
+HP:0000728|Impaired ability to form peer relationships|同伴关系建立能力障碍|形成同伴关系的能力减弱。|The ability to form a peer relationship is weak.
+HP:0000729|Autistic behavior|自闭症行为|婴幼儿期出现的异常，它的特点是社会互动和沟通能力明显异常或发育障碍，活动和兴趣显著受限。该病的临床表现差异很大，取决于个体的发育水平和实际年龄（DSM-IV）。|A disorder beginning in childhood. It is marked by the presence of markedly abnormal or impaired development in social interaction and communication and a markedly restricted repertoire of activity and interest. Manifestations of the disorder vary greatly depending on the developmental level and chronological age of the individual (DSM-IV).
+HP:0000732|Inflexible adherence to routines or rituals|恪守程序或习惯|恪守程序或习惯。|Inflexible adherence to routines or rituals
+HP:0000733|Stereotypic behavior|刻板行为|重复的无目的性的行为。总的来讲活动不是针对环境，但在人本身。刻板的行为，在伴有感官、智力和/或认知障碍的儿童尤为常见。|A repetitive behaviour that does not serve an observable goal. In general the movements are not aimed at the environment, but at the person itself. Stereotypical behaviour is seen especially in children with sensory, intellectual and/or cognitive handicaps.
+HP:0000734|Disinhibition|脱抑制|缺乏约束表现在几个方面，包括无视社会规范，冲动，风险评估能力差。|A lack of restraint manifested in several ways, including disregard for social conventions, impulsivity, and poor risk assessment.
+HP:0000735|Impaired social interactions|社会交往障碍|社会交往困难，其特征性损害如目光接触，微笑，适当的面部表情和身体姿势，且难以形成的同伴关系和建立友谊。|Difficulty in social interactions related to an impairment of characteristics such as eye contact, smiling, appropriate facial expressions, and body postures and characterized by difficulty in forming peer relationships and forming friendships.
+HP:0000736|Short attention span|注意力短暂|注意力降低特点是注意力分散和冲动性，但不一定满足注意缺陷多动障碍的诊断标准。|Reduced attention span characterized by distractibility and impulsivity but not necessarily satisfying the diagnostic criteria for attention deficit hyperactivity disorder.
+HP:0000737|Irritability|易激惹|一种剧烈但持续较短的情感障碍，包括烦恼、急躁或愤怒。可见于疲劳、慢性疼痛，或作为情感异常的临床特征，发生于老年性、脑外伤、癫痫和情感性精神障碍。|Agitation is a violent and transitory affective disorder, including irritability, impatience or anger.
+HP:0000738|Hallucinations|幻觉|在有意识的、清醒状态下，缺乏真实的外界刺激的一种感觉，因此他们是生动的、实质性的、并存在于外部客观空间。|Perceptions in a conscious and awake state in the absence of external stimuli which have qualities of real perception, in that they are vivid, substantial, and located in external objective space.
+HP:0000739|Anxiety|焦虑|感觉恐惧、忧虑、和即将发生灾难。|Feeling or dread, apprehension, and impending disaster.
+HP:0000740|Anxiety (with pheochromocytoma)|焦虑（伴嗜铬细胞瘤）|焦虑伴嗜铬细胞瘤。|Anxiety with pheochromocytoma
+HP:0000741|Apathy|情感淡漠|缺乏感情或情绪的表达；一种持续性动力障碍的一种疾病。|Lack of emotion or emotional expression; a disorder of motivation that persists over time.
+HP:0000742|Self-mutilation|自残|自残是指人对自身肢体和精神的伤害。|Self-mutilation refers to the self-Inflicted Injury of the minds and bodies.
+HP:0000743|Frontal release signs|额叶释放征象|出现原始反射，是额叶受损的征象。|Primitive reflexes traditionally held to be a sign of disorders that affect the frontal lobes.
+HP:0000744|Low frustration tolerance|低挫折承受力|#####|#####
+HP:0000745|Diminished motivation|动机减弱|有目的的行为（即动机）减少。动机是使人们开始行为和适应的决定因素，激励完成持续有意图的行动。|A reduction in goal-directed behavior, that is, motivation, the determinant of behavior and adaptation that allows individuals to get started, be energized to perform a sustained and directed action.
+HP:0000746|Delusions|妄想|是一种与现实不符且不可能实现但坚信的病理性信念。|A belief that is pathological and is held despite evidence to the contrary.
+HP:0000748|Inappropriate laughter|不适宜的发笑|#####|#####
+HP:0000749|Paroxysmal bursts of laughter|阵发性大笑|#####|#####
+HP:0000750|Delayed speech and language development|语言发育迟缓|语言发育的程度与同年龄段儿童所应达到的标准比较明显落后。|A degree of language development that is significantly below the norm for a child of a specified age.
+HP:0000751|Personality changes|性格改变|在思想，行为或情感上的异常变化。|An abnormal shift in patterns of thinking, acting, or feeling.
+HP:0000752|Hyperactivity|多动|#####|#####
+HP:0000753|Autism with high cognitive abilities|具有高认知能力的自闭症|#####|#####
+HP:0000756|Agoraphobia|广场恐怖症|一种形式的焦虑障碍，以避免公共场所，特别是在人群聚集区为特点。|A type of anxiety disorder characterized by avoidance of public places, especially where crowds gather.
+HP:0000757|Lack of insight|自知力缺乏|#####|#####
+HP:0000758|Impaired use of nonverbal behaviors|非言语行为应用障碍|使用非语言行为进行交流的能力下降，如眼睛对眼睛注视，面部表情，身体姿势和手势。|Reduced ability to use nonverbal behavior for communication, such as eye-to-eye gaze, facial expression, body posture, and gestures.
+HP:0000759|Abnormality of the peripheral nervous system|外周神经系统的异常|`外周神经系统`（FMA: 9903）的异常。外周神经系统是由从中枢神经系统发出的分支神经组成。|An abnormality of the `peripheral nervous system` (FMA:9903), which is composed of the nerves that lead to or branch off from the central nervous system.
+HP:0000762|Decreased nerve conduction velocity|神经传导速度降低|电信号沿着神经轴突（FMA:54527）传导速度的降低。|A reduction in the speed at which electrical signals propagate along the axon of a `neuron` (FMA:54527).
+HP:0000763|Sensory neuropathy|感觉神经病|影响感觉神经的周围神经病变。|Peripheral neuropathy affecting the sensory nerves.
+HP:0000764|Peripheral axonal degeneration|外围轴索变性|外周神经轴突的逐步恶化。|Progressive deterioration of peripheral axons.
+HP:0000765|Abnormality of the thorax|胸廓异常|胸廓的任何异常。胸廓是身体的一个区域，由胸骨、胸椎脊柱和肋形成。|Any abnormality of the thorax (the region of the body formed by the sternum, the thoracic vertebrae and the ribs).
+HP:0000766|Abnormality of the sternum|胸骨异常|胸骨的异常。|An anomaly of the `sternum` (FMA:7485), also known as the breastbone.
+HP:0000767|Pectus excavatum|漏斗胸|#####|A defect of the chest wall characterized by a depression of the sternum, giving the chest ("pectus") a caved-in ("excavatum") appearance.
+HP:0000768|Pectus carinatum|鸡胸|由肋骨过度生长引起的胸部畸形，特征为胸骨凸起。|A deformity of the chest caused by overgrowth of the ribs and characterized by protrusion of the sternum.
+HP:0000769|Abnormality of the breast|乳房异常|乳房（FMA:9601）的异常。|An abnormality of the `breast` (FMA:9601).
+HP:0000771|Gynecomastia|男子女性乳房发育|因性发育异常所致的男性乳腺异常增大。|Abnormal development of large mammary glands in males resulting in breast enlargement.
+HP:0000772|Abnormality of the ribs|肋骨异常|肋骨的异常。|An anomaly of the `rib` (FMA:7574).
+HP:0000773|Short ribs|短肋|肋骨长度缩短。|Reduced rib length.
+HP:0000774|Narrow chest|窄胸|减小的宽度从一边到另一边的胸部，与胸骨切迹到肩部前端距离的减小相关联。|Reduced width of the chest from side to side, associated with a reduced distance from the sternal notch to the tip of the shoulder.
+HP:0000775|Abnormality of the diaphragm|膈肌异常|膈膜的任何异常。|Any abnormality of the `diaphragm` (FMA:13295).
+HP:0000776|Congenital diaphragmatic hernia|先天性膈疝|出生时即存在于“膈膜”的“疝”。|The presence of a `hernia` (MPATH:75) of the `diaphragm` (FMA:13295) present at birth.
+HP:0000777|Abnormality of the thymus|胸腺异常|“胸腺”（FMA:9607）的异常，胸腺是位于胸骨后胸腔内前纵隔上部的器官，其主要功能是为T淋巴细胞成熟提供环境。|Abnormality of the "thymus" (FMA:9607), an organ located in the upper anterior portion of the chest cavity just behind the sternum and whose main function is to provide an environment for T lymphocyte maturation.
+HP:0000778|Hypoplasia of the thymus|胸腺发育不全|“胸腺”发育不全（FMA:9607）。|Underdevelopment of the "thymus" (FMA:9607).
+HP:0000782|Abnormality of the scapula|肩胛骨异常|肩胛骨的任何异常。|Any abnormality of the `scapula` (FMA:13394), also known as the shoulder blade.
+HP:0000786|Primary amenorrhea|原发性闭经|#####|#####
+HP:0000787|Nephrolithiasis|肾结石|肾脏中有结石（石头）。|The presence of calculi (stones) in the kidneys.
+HP:0000789|Infertility|不育症|#####|#####
+HP:0000790|Hematuria|血尿|尿液中出现血液成分，血尿可为肉眼血尿（肉眼可见）或镜下血尿（由试纸或显微镜尿检）。|The presence of blood in the urine. Hematuria may be gross hematuria (visible to the naked eye) or microscopic hematuria (detected by dipstick or microscopic examination of the urine).
+HP:0000791|Uric acid nephrolithiasis|肾尿酸结石|肾脏发生含尿酸的结石。|The presence of uric acid-containing calculi (stones) in the kidneys.
+HP:0000793|Membranoproliferative glomerulonephritis|膜增生性肾小球肾炎|肾小球系膜细胞增生，系膜细胞外基质增加，肾小球毛细血管壁的增厚。|Proliferation of mesangial cells, increase in the mesangial extracellular matrix, and a thickening of the glomerular capillary walls.
+HP:0000794|IgA deposition in the glomerulus|肾小球IgA沉积|免疫球蛋白A沉积在肾小球中。|The presence of immunoglobulin A deposits in the glomerulus.
+HP:0000795|Abnormality of the urethra|尿道异常|尿道（将尿液从膀胱排到体外的管道）的异常。|An abnormality of the `urethra` (FMA:19667), i.e., of the tube which connects the urinary bladder to the outside of the body.
+HP:0000796|Urethral obstruction|尿道梗阻|尿流通过尿道时发生阻塞。|Obstruction of the flow of urine through the `urethra` (FMA:19667).
+HP:0000798|Oligospermia|少精症|精液中精子数目减少，精子数低于2000万/毫升精液定义为少精症。|Reduced count of spermatozoa in the semen, defined as a sperm count below 20 million per milliliter semen.
+HP:0000799|Renal steatosis|肾脂肪变性|肾脏脂肪异常堆积。|Abnormal fat accumulation in the kidneys.
+HP:0000800|Cystic renal dysplasia|囊性肾发育不良|#####|#####
+HP:0000802|Impotence|阳痿|不能启动和维持阴茎勃起。|Inability to develop or maintain an erection of the penis.
+HP:0000803|Renal cortical cysts|肾皮质囊肿|肾皮质发生囊肿。|Cysts of the `cortex of the kidney` (FMA:15581).
+HP:0000804|Xanthine nephrolithiasis|肾黄嘌呤结石|肾脏中有含黄嘌呤的结石（石头）。|The presence of xanthine-containing calculi (stones) in the kidneys.
+HP:0000805|Enuresis|遗尿症|到了已经能够控制膀胱活动的年龄，还不能控制膀胱导致不自主排尿。|Lack of the ability to control the urinary bladder leading to involuntary `urination` (GO:0060073) at an age where control of the bladder should already be possible.
+HP:0000807|Glandular hypospadias|尿道下裂|#####|#####
+HP:0000808|Penoscrotal hypospadias|阴茎阴囊型尿道下裂|一种严重的尿道下裂，尿道口位于阴茎阴囊交界处。|A severe form of hypospadias in which the urethral opening is located at the junction of the penis and scrotum.
+HP:0000809|Urinary tract atresia|尿道闭锁|先天性没有尿道结构的正常开口。|Congenital absence of the normal opening of a structure of the urinary tract.
+HP:0000811|Abnormal external genitalia|外生殖器异常|#####|#####
+HP:0000812|Abnormal internal genitalia|内生殖器异常|女性的附件、子宫和阴道或男性的输精管和前列腺的异常。|An anomaly of the  adnexa, uterus, and vagina (in female) or seminal tract and prostate (in male).
+HP:0000813|Bicornuate uterus|双角子宫|副中肾管的尾端发育障碍,致使内生殖器成为单宫颈、单阴道,而子宫底部呈双角形,故称双角子宫或鞍状子宫。|The presence of a `bicornuate` (PATO:0002161) `uterus` (FMA:17558).
+HP:0000815|Hypergonadotropic hypogonadism|高促性腺激素性性腺功能减退症|性腺（男性的睾丸，女性的卵巢）的功能降低，伴随垂体促性腺激素的过度分泌，导致性发育延迟和生长发育迟缓。|Reduced function of the gonads (testes in males or ovaries in females) associated with excess pituitary gonadotropin secretion and resulting in delayed sexual development and growth delay.
+HP:0000816|Abnormality of Krebs cycle metabolism|Krebs循环代谢异常|#####|An abnormality of the `tricarboxylic acid cycle` (GO:0006099).
+HP:0000817|Poor eye contact|眼神躲避|难以与他人对视。|Difficulty in looking at another person in the eye.
+HP:0000818|Abnormality of the endocrine system|内分泌系统异常|内分泌系统的异常。|An abnormality of the "endocrine system" (FMA:9668).
+HP:0000819|Diabetes mellitus|糖尿病|一组以高血糖和葡萄糖不耐受为特征的病症。|A group of abnormalities characterized by hyperglycemia and glucose intolerance.
+HP:0000820|Abnormality of the thyroid gland|甲状腺异常|甲状腺的异常。|An abnormality of the "thyroid gland" (FMA:9603).
+HP:0000821|Hypothyroidism|甲状腺功能减退症|甲状腺激素缺乏。|Deficiency of thyroid hormone.
+HP:0000822|Hypertension|高血压|在全身动脉系统中存在慢性的（肺动脉参数:0001863）血压升高（肺动脉参数:0001576）。|The presence of `chronic` (PATO:0001863) `increased pressure` (PATO:0001576) in the `systemic arterial system` (FMA:45623).
+HP:0000823|Delayed puberty|青春期发育延迟|在青春期通常开始的年龄，没有出现可以作为青春期开始的征兆的体征或激素变化。|Passing the age when puberty normally occurs with no physical or hormonal signs of the onset of puberty.
+HP:0000824|Growth hormone deficiency|生长激素缺乏症|垂体前叶产生的生长激素不足。生长激素是生长和代谢控制的一个主要参与者。|Insufficient production of growth hormone, which is produced by the anterior pituitary gland. Growth hormone is a major participant in control of growth and metabolism.
+HP:0000825|Hyperinsulinemic hypoglycemia|高胰岛素性低血糖|血中 `胰岛素` (PRO:000009054)  的`浓度升高` (PATO:0001162)伴有`葡萄糖glucose` (CHEBI:17234) `浓度降低` 。|An `increased concentration` (PATO:0001162) of `insulin` (PRO:000009054) combined with a `decreased concentration` (PATO:0001163) of `glucose` (CHEBI:17234) in the `blood` (FMA:9670).
+HP:0000826|Precocious puberty|性早熟|指在正常年龄之前出现第二性征。尽管正常儿童青春期开始的年龄差别很大导致“正常年龄”难以界定，通常将性早熟定义为男孩9岁或者女孩8岁之前开始青春期发育。|The onset of secondary sexual characteristics before a normal age. Although it is difficult to define normal age ranges because of the marked variation with which puberty begins in normal children, precocious puberty can be defined as the onset of puberty before the age of 8 years in girls or 9 years in boys.
+HP:0000828|Abnormality of the parathyroid gland|甲状旁腺异常|甲状旁腺的异常。|An abnormality of the "parathyroid gland" (FMA:13890).
+HP:0000829|Hypoparathyroidism|甲状旁腺功能减退症|甲状旁腺激素分泌不足导致的一种病理状态，特点是低血钙和高血磷。|A condition caused by a deficiency of parathyroid hormone characterized by hypocalcemia and hyperphosphatemia.
+HP:0000830|Anterior hypopituitarism|垂体前叶功能减退症|垂体前叶功能减退产生的症状,表现为一种或多种垂体激素分泌减少, 如生长激素，促甲状腺激素，促肾上腺皮质激素，泌乳素，黄体生成素和卵泡刺激素。|A condition of reduced function of the pituitary gland characterized by decreased secretion of one or more of the pituitary hormones growth hormone, thyroid-stimulating hormone, adrenocorticotropic hormone, prolactin, luteinizing hormone, and follicle-stimulating hormone.
+HP:0000831|Insulin-resistant diabetes mellitus|胰岛素抵抗性糖尿病|糖尿病的一种，其致病原因不是由于缺乏胰岛素，而是由于胰岛素的靶组织如肌肉，脂肪和肝细胞等丧失对胰岛素的反应。这种类型的糖尿病通常在空腹和餐后表现为血中葡萄糖浓度和血清胰岛素水平都升高。|A type of diabetes mellitus related not to lack of insulin but rather to lack of response to insulin on the part of the target tissues of insulin such as muscle, fat, and liver cells. This type of diabetes is typically associated with increases both in blood glucose concentrations as will as in fasting and postprandial serum insulin levels.
+HP:0000832|Primary hypothyroidism|原发性甲状腺功能减退症|一种由于甲状腺缺陷而导致的甲状腺功能低下(HP:0000821)。|A type of "hypothyroidism" (HP:0000821) that results from a defect in the "thyroid gland" (FMA:9603).
+HP:0000833|Glucose intolerance|葡萄糖不耐受|#####|#####
+HP:0000834|Abnormality of the adrenal glands|肾上腺异常|肾上腺的异常，即位于肾脏顶端的内分泌腺体的异常。|Abnormality of the "adrenal glands" (FMA:9604), i.e., of the endocrine glands located at the top of the kindneys.
+HP:0000835|Adrenal hypoplasia|肾上腺发育不良|肾上腺的发育不良。|Developmental hypoplasia of the "adrenal glands" (FMA:9604).
+HP:0000836|Hyperthyroidism|甲状腺功能亢进症|甲状腺生理(HP:0002926)的一种异常，表现为甲状腺激素分泌过多，如甲状腺素（T4）和／或三碘甲腺原氨酸（T3）。|An abnormality of thyroid physiology (HP:0002926) characterized by refers to excessive secretion of the thyroid hormones "thyroxine" (CHEBI:30660) (i.e., T4) and/or "3,3',5-triiodo-L-thyronine zwitterion" (CHEBI:533015) (i.e., triiodothyronine or T3).
+HP:0000837|Gonadotropin excess|促性腺激素增多|垂体前叶产生过多的促性腺激素（FSH，LH）。|Overproduction of gonadotropins (FSH, LH) by the anterior pituitary gland.
+HP:0000839|Pituitary dwarfism|垂体性侏儒症|一种比例正常但矮小的身材，与垂体功能异常有关，这种异常或者只是生长激素的分泌不足，或者是全垂体机能减退，即所有垂体前叶激素分泌不足。|A type of reduced stature with normal proportions related to dysfunction of the pituitary gland related to either an isolated defect in the secretion of growth hormone or to panhypopituitarism, i.e., a deficit of all the anterior pituitary hormones.
+HP:0000840|Adrenogenital syndrome|肾上腺性征异常综合征|肾上腺性征异常综合征也称为先天性肾上腺增生，由于肾上腺中类固醇激素产生失调导致皮质醇不足，引起垂体促肾上腺皮质激素分泌增多，从而导致肾上腺一些具有雄激素作用的中间产物产生过量。|Adrenogenital syndrome is also known as congenital adrenal hyperplasia, which results from disorders of steroid hormone production in the adrenal glands leading to a deficiency of cortisol. The pituitary gland reacts by increased secretion of corticotropin, which in turn causes the adrenal glands to overproduce certain intermediary hormones which have testosterone-like effects.
+HP:0000841|Hyperactive renin-angiotensin system|肾素-血管紧张素系统亢进|肾素-血管紧张素系统活性异常增加，通过增加血容量和收缩血管引起高血压。|An abnormally increased activity of the renin-angiotensin system, causing hypertension by a combination of volume excess and vasoconstrictor mechanisms.
+HP:0000842|Hyperinsulinemia|高胰岛素血症|`血`中 (FMA:9670)`胰岛素` (PRO:000009054)`浓度升高` (PATO:0001162)异常。|An `increased concentration` (PATO:0001162) of `insulin` (PRO:000009054) in the `blood` (FMA:9670).
+HP:0000843|Hyperparathyroidism|甲状旁腺功能亢进症|甲状旁腺产生甲状旁腺激素（PTH）过量。|Excessive production of parathyroid hormone (PTH) by the parathyroid glands.
+HP:0000845|Growth hormone excess|生长激素增多|肢端肥大症是由于在骨骺已闭合的人中脑垂体产生过多生长激素引起的一种状态，主要引起肢体远端部分的增大。包括颅骨周长增加，鼻子变宽，舌头肿大，面部特征变得粗糙，下颌骨过度增长，而牙齿变得分开。手指和脚趾的厚度增加。|Acromegaly is a condition resulting from overproduction of growth hormone by the pituitary gland in persons with closed epiphyses, and consists chiefly in the enlargement of the distal parts of the body. The circumference of the skull increases, the nose becomes broad, the tongue becomes enlarged, the facial features become coarsened, the mandible grows excessively, and the teeth become separated. The fingers and toes grow chiefly in thickness.
+HP:0000846|Adrenal insufficiency|肾上腺功能不全|由于肾上腺腺体本身的缺陷，导致其产生的类固醇激素（主要是皮质醇）不足。|Insufficient production of steroid hormones (primarily cortisol) by the adrenal glands as a result of a primary defect in the glands themselves.
+HP:0000847|Abnormality of renin-angiotensin system|肾素-血管紧张素系统异常|肾素-血管紧张素系统的异常。|An abnormality of the "renin-angiotensin system" (FMA:74787).
+HP:0000848|Increased circulating renin level|血肾素水平升高|血液循环中肾素水平升高。|An increased level of "renin" (PRO:000013883) in the "blood" (FMA:9670).
+HP:0000849|Adrenocortical abnormality|肾上腺皮质异常|#####|#####
+HP:0000851|Congenital hypothyroidism|先天性甲状腺功能减退症|一种先天性发病(HP:0003577)的甲状腺功能减退症(HP:0000821)。|A type of "hypothyroidism" (HP:0000821) with "congenital onset" (HP:0003577).
+HP:0000852|Pseudohypoparathyroidism|假性甲状旁腺功能减退症|此症特点是对甲状旁腺激素的作用失去敏感性，导致低血钙，高血磷和（相对）高浓度的甲状旁腺激素。|A condition characterized by resistance to the action of parathyroid hormone, in which there is hypocalcemia, hyperphosphatemia, and (appropriately) high levels of parathyroid hormone.
+HP:0000853|Goiter|甲状腺肿|甲状腺腺体的增大。|An enlargement of the "thyroid gland" (FMA:9603).
+HP:0000854|Thyroid adenoma|甲状腺腺瘤|甲状腺部位发生的腺瘤。|The presence of a `adenoma` (MPATH:270) of the `thyroid gland` (FMA:9603).
+HP:0000855|Insulin resistance|胰岛素抵抗|`增加resistance`（PATO:0001650）朝向`insulin`（PRO:000009054），即，胰岛素在降低血糖水平减少的效果。|`Increased resistance` (PATO:0001650) towards `insulin` (PRO:000009054), that is, diminished effectiveness of insulin in reducing blood glucose levels.
+HP:0000857|Neonatal insulin-dependent diabetes mellitus|新生儿胰岛素依赖性糖尿病|#####|#####
+HP:0000858|Menstrual irregularities|月经不调症|#####|#####
+HP:0000859|Hyperaldosteronism|醛固酮增多症|肾上腺皮质产生的盐皮质激素醛固酮过多。|Overproduction of the mineralocorticoid aldosterone by the adrenal cortex.
+HP:0000860|Parathyroid hypoplasia|甲状旁腺发育不全|甲状旁腺发育不全。|Developmental hypoplasia of the `parathyroid gland` (FMA:13890).
+HP:0000863|Central diabetes insipidus|中枢性尿崩症|由于下丘脑分泌血管加压素（AVP）缺陷引起的尿崩症。|A form of diabetes insipidus related to a failure of vasopressin (AVP) release from the hypothalamus.
+HP:0000864|Abnormality of the hypothalamus-pituitary axis|下丘脑-垂体轴异常|垂体（也称为脑下垂体）的异常，垂体是在脑底部从下丘脑的底端突出的一个内分泌腺。垂体分泌的激素有促肾上腺皮质激素ACTH、促甲状腺激素TSH、催乳素PRL、生长激素GH、内啡肽、卵泡刺激素FSH、黄体生成素LH、催产素、抗利尿激素。垂体前叶的激素分泌受到下丘脑激素的严格控制，而垂体后叶基本上是下丘脑的延伸，所以下丘脑和垂体可被认为是一个功能单元。|Abnormality of the pituitary gland (also known as hypophysis), which is an endocrine gland that protrudes from the bottom of the hypothalamus at the base of the brain. The pituitary gland secretes the hormones ACTH, TSH, PRL, GH, endorphins, FSH, LH, oxytocin, and antidiuretic hormone. The secretion of hormones from the anterior pituitary is under the strict control of hypothalamic hormones, and the posterior pituitary is essentially an extension of the hypothalamus, so that  hypothalamus and pituitary gland may be regarded as a functional unit.
+HP:0000866|Euthyroid multinodular goiter|甲状腺功能正常结节性甲状腺肿|#####|#####
+HP:0000867|Secondary hyperparathyroidism|继发性甲状旁腺功能亢进症|继发性甲状旁腺亢进症指在甲状旁腺激素过量产生的同时伴有低血钙症。|Secondary hyperparathyroidism refers to the production of higher than normal levels of parathyroid hormone in the presence of hypocalcemia.
+HP:0000868|Decreased fertility in females|女性生育能力降低|#####|#####
+HP:0000869|Secondary amenorrhea|继发性闭经|#####|#####
+HP:0000870|Prolactin excess|泌乳激素过多|指泌乳素血中水平异常升高。泌乳素是一种由垂体前叶分泌的蛋白质激素，影响乳腺发育及怀孕期的泌乳。|The presence of abnormally increased levels of prolactin in the blood. Prolactin is a peptide hormone produced by the anterior pituitary gland that plays a role in breast development and lactation during pregnancy.
+HP:0000871|Panhypopituitarism|全垂体功能减退|垂体功能缺损影响所有垂体前叶激素（生长激素，促甲状腺激素，卵泡刺激素，黄体生成素，促肾上腺皮质激素，和泌乳素）。|A pituitary functional deficit affecting all the anterior pituitary hormones (growth hormone, thyroid-stimulating hormone, follicle-stimulating hormone, luteinizing hormone, adrenocorticotropic hormone, and prolactin).
+HP:0000872|Hashimoto thyroiditis|桥本甲状腺炎|一种慢性的与甲状腺功能减退(HP:0000821)相关的自身免疫性甲状腺炎HP:0100646。|A chronic, autoimmune type of "thyroiditis" (HP:0100646) associated with "hypothyroidism" (HP:0000821).
+HP:0000873|Diabetes insipidus|尿崩症|一种过量饮水伴多尿，低渗尿（稀释性）的状态。尿崩症可能是由于血管加压素（AVP）分泌缺陷（中枢或神经性尿崩症）或肾脏对AVP的反应缺陷（肾性尿崩症）造成。|A state of excessive water intake and hypotonic (dilute) polyuria. Diabetes insipidus may be due to failure of vasopressin (AVP) release (central or neurogenic diabetes insipidus) or to a failure of the kidney to respond to AVP (nephrogenic diabetes insipidus).
+HP:0000875|Episodic hypertension|阵发性高血压|非持续性的高血压，只是偶尔发作，自发终止|Not persistently high arterial blood pressure
+HP:0000876|Oligomenorrhea|月经稀发|月经期频率减少（每年少于6次）。|Infrequent periods (less than 6 per year).
+HP:0000877|Insulin-resistant diabetes mellitus at puberty|青春期胰岛素抵抗性糖尿病|#####|#####
+HP:0000878|11 pairs of ribs|11对肋骨|只有11对肋骨。|Presence of only 11 pairs of ribs.
+HP:0000879|Short sternum|短胸骨|胸骨上下径长度减小。|Decreased inferosuperior length of the sternum.
+HP:0000882|Hypoplastic scapulae|肩胛骨发育不全|#####|Underdeveloped `scapula` (FMA:13394).
+HP:0000883|Thin ribs|肋骨变薄|肋骨直径减小。|Ribs with a reduced diameter.
+HP:0000884|Prominent sternum|胸骨突出|胸骨突出。|A protrusion of the sternum
+HP:0000885|Broad ribs|宽肋骨|肋骨宽度增加。|Increased width of ribs.
+HP:0000886|Deformed rib cage|胸廓变形|胸腔的畸形（FMA:7480）。|Malformation of the `rib cage` (FMA:7480).
+HP:0000887|Cupped ribs|杯状肋骨|宽，凹肋端。|Wide, concave rib end.
+HP:0000888|Horizontal ribs|横位肋骨|一个水平（平）构象的肋骨（即形成胸腔的长而弯曲的骨头），正常情况下从1-9肋逐渐倾斜，然后到12肋倾斜更少。|A horizontal (flat) conformation of the ribs, the long curved bones that form the rib cage and normally  progressively oblique (slanted) from ribs 1 through 9, then less slanted through rib 12.
+HP:0000889|Abnormality of the clavicles|锁骨异常|锁骨的任何异常。|Any abnormality of the clavicles (collar bones).
+HP:0000890|Long clavicles|长锁骨|#####|Increased length of the clavicles.
+HP:0000891|Cervical ribs|颈肋|#####|A supernumerary rib developing from an abnormal enlargement of the costal element of the C7 vertebra.
+HP:0000892|Bifid ribs|#####|分叉肋骨指肋骨的胸骨端（通常为单侧）的切割。分支肋骨通常无症状，往往是由胸部X光偶然发现。|A bifid rib refers to cleavage of the sternal end of a rib, usually unilateral. Bifid ribs are usually asymptomatic, and are often discovered incidentally by chest x-ray.
+HP:0000893|Bulging of the costochondral junction|肋软骨交界处隆起|肋骨和肋软骨交界处的异常向外弯曲（凸起）。|Abnormal outward curving (protuberance) of the junction of ribs and costal cartilage.
+HP:0000894|Short clavicles|短锁骨|#####|Reduced length of the clavicles.
+HP:0000895|Hooked clavicles|钩状锁骨|像钩子样的锁骨。|Clavicles are shaped like hooks.
+HP:0000896|Rib exostoses|肋骨外生骨疣|多个位于肋骨的外切骨性赘生物。|Multiple circumscribed bony excrescences located in the ribs.
+HP:0000897|Rachitic rosary|串珠肋|#####|A row of beadlike prominences at the junction of a rib and its cartilage, resembling a rosary.
+HP:0000900|Thickened ribs|肋骨增厚|肋骨的厚度（直径）增加。|Increased thickness (diameter) of ribs.
+HP:0000902|Rib fusion|肋骨融合|相邻肋骨全部或部分合并。|Complete or partial merging of adjacent ribs.
+HP:0000904|Flaring of rib cage|喇叭状胸廓|由于前肋末端宽，凹，故胸廓呈喇叭状。|The presence of wide, concave anterior rib ends.
+HP:0000905|Progressive clavicular acroosteolysis|进行性锁骨肢端骨质溶解|#####|Progressive bone resorption in the distal part of the clavicle.
+HP:0000907|Anterior rib cupping|杯状前肋|#####|Wide, concave anterior rib end.
+HP:0000910|Wide-cupped costochondral junctions|宽杯状的肋软骨交界处|肋骨胸骨端与肋软骨外侧端交界处呈宽杯状。|The cartilaginous joints between the sternal end of ribs and the lateral ends of costal cartilages are shaped like wide cup.
+HP:0000911|Flat glenoid fossa|关节窝浅平|`关节窝`（FMA:23275）也被称为关节盂腔，即与肱骨头铰接肩胛骨的关节面，其结构异常浅平。|Abnormally flat configuration of the `glenoid fossa` (FMA:23275), also known as the glenoid cavity, which is the articular surface of the scapula that articulates with the head of the humerus.
+HP:0000912|Sprengel anomaly|先天性肩部抬高畸形（Sprengel畸形）|一种先天性骨骼变形，特征是一侧肩胛骨升高（因此，一侧肩胛骨比另一侧高）。|A congenital skeletal deformity characterized by the elevation of one scapula (thus, one scapula is located superior to the other).
+HP:0000913|Posterior rib fusion|后肋融合|相邻后肋完全或部分合并。|Complete or partial merging of the posterior part of adjacent ribs.
+HP:0000914|Shield chest|盾状胸|一个宽阔的胸膛。|A broad chest.
+HP:0000915|Pectus excavatum of inferior sternum|下胸骨漏斗胸|漏斗胸（以胸骨凹陷为特征的胸壁缺陷）主要影响胸骨的下部区域。|Pectus excavatum (defect of the chest wall characterized by depression of the sternum) affecting primarily the inferior region of the sternum.
+HP:0000916|Broad clavicles|锁骨增宽|#####|Increased width (cross-sectional diameter) of the clavicles.
+HP:0000917|Superior pectus carinatum|高位鸡胸|鸡胸主要累及胸骨上段。|Pectus carinatum affecting primarily the superior part of the sternum.
+HP:0000918|Scapular exostoses|肩胛外生骨疣|上肩胛骨存在多发性外生骨疣。外生骨疣是从骨表面上向外突出的良性生长。它是由软骨包被。|The presence of multiple exostoses on the scapula. An exostosis is a benign growth the projects outward from the bone surface. It is cappped by cartilage.
+HP:0000919|Abnormality of the costochondral junction|肋软骨交界处异常|肋软骨交界处的任何异常。肋软骨交界处位于肋骨的远端和肋软骨之间，连接肋骨和胸骨的杆状透明软骨。|Any anomaly of the `costochondral junction` (FMA:7956). The costochondral junctions are located between the distal part of the ribs and the costal cartilages, which are bars of hyaline cartilage that connect the ribs to the sternum.
+HP:0000920|Enlargement of the costochondral junction|肋软骨交界处膨大|#####|Abnormally increased size of the costochondral junctions, which are located between the distal part of the ribs and the costal cartilages, which are bars of hyaline cartilage that connect the ribs to the sternum.
+HP:0000921|Missing ribs|肋骨缺失|发展畸形致缺乏一个或多个肋。|A developmental anomaly with absence of one or more ribs.
+HP:0000922|Posterior rib cupping|杯状后肋|#####|Wide, concave posterior rib end.
+HP:0000923|Beaded ribs|串珠肋|#####|The presence of a row of beadlike prominences at the junction of a rib and its cartilag.
+HP:0000924|Abnormality of the skeletal system|骨骼系统异常|骨骼系统的异常。|An abnormality of the `skeletal system` (FMA:23881).
+HP:0000925|Abnormality of the vertebral column|脊柱异常|脊柱的任何异常。|Any abnormality of the `vertebral column` (FMA:13478).
+HP:0000926|Platyspondyly|扁平椎|扁平椎体形态伴椎体终板间距离缩短。|A flattened vertebral body shape with reduced distance between the vertebral endplates.
+HP:0000927|Abnormality of skeletal maturation|骨骼成熟异常|自胎儿至青春期，骨架的骨头的大小、形状和钙化发生一系列特征性改变。这个过程中的异常包括骨骼成熟的延迟或加速，或一部分而非所有骨头偏离预期的成熟模式。|The bones of the skeleton undergo a series of characteristic changes in size, shape, and calcification from fetal life until puberty. An abnormality of this process can include delayed or accelerated skeletal maturation, or deviation of some, but not all bones from the expected patterns of maturation.
+HP:0000929|Abnormality of the skull|颅骨异常|颅骨的异常。颅骨是由八块颅部和14块面部骨骼构成的头部骨架。|An abnormality of the `skull` (FMA:46565), the bony framework of the head which is comprised of eight cranial and fourteen facial bones.
+HP:0000930|Elevated imprint of the transverse sinuses|横窦压迹抬高|横窦也称硬脑膜左、右侧窦，其压迹抬高。|The transverse sinuses,also called left and right lateral sinuses of the dura mater,which imprint is elevated.
+HP:0000931|Thinning and bulging of the posterior fossa bones|后颅窝変薄膨出|从颅底观可见颅脑后部异常突出且窄长。|The presence of an abnormally thin and bulge of posterior part of the head from a underside view
+HP:0000932|Abnormality of the posterior cranial fossa|后颅窝异常|后颅窝的异常，后颅窝主要是由枕骨构成，围绕枕骨大孔。|An abnormality of the fossa cranii posterior (the posterior fossa), which is made up primarily of the occipital bone and which surrounds to the foramen magnum.
+HP:0000933|Posterior fossa cyst at the fourth ventricle|后颅窝第四脑室囊肿|出现在后颅窝第四脑室的囊肿|#####
+HP:0000934|Chondrocalcinosis|软骨钙质沉着症|关节钙化的影像学证据表明，关节周围软组织及近关节处肌腱附着点有焦磷酸钙沉积。|Radiographic evidence of articular calcification that represent calcium pyrophosphate depositions in soft tissue surrounding joints and at the insertions of tendons near joints (Entheses/Sharpey fibers) .
+HP:0000935|Thickened cortex of long bones|长骨骨皮质增厚|长骨的骨皮质异常增厚。|Abnormal thickening of the cortex of long bones.
+HP:0000938|Osteopenia|骨质减少|骨质减少是指在骨矿物质密度的（BMD）低于正常峰骨密度但不低到足以被归类为骨质疏松症。根据世界卫生组织，骨质减少的特征在于骨密度值比年轻成年人平均值低1个标准差以上，但差距小于2个标准偏差。|Osteopenia refers to a reduction in bone mineral density (BMD) below normal peak BMD but not low enough to be classified as osteoporosis. According to the WHO, osteopenia is characterized by a value of BMD more than 1 standard deviation below the young adult mean, but less than 2 standard deviations below this value.
+HP:0000939|Osteoporosis|骨质疏松|骨质疏松症是一种全身骨骼疾病，其特征为低骨密度和骨组织的微结构退化与骨脆性随之增加。根据世界卫生组织，骨质疏松症的特征在于骨密度值比年轻成年人平均值低2.5个标准差以上。|Osteoporosis is a systemic skeletal disease characterized by low bone density and microarchitectural deterioration of bone tissue with a consequent increase in bone fragility. According to the WHO, osteoporosis is characterized by a value of BMD 2.5 standard deviations or more below the young adult mean.
+HP:0000940|Abnormal diaphysis morphology|骨干形态异常|骨干（长骨主要中轴部分）的结构异常。|An abnormalstructure of the diaphysis（the main shaft of a long bone）.
+HP:0000941|Short diaphyses|短骨干|骨干长度缩短|Shortening length of diaphyses
+HP:0000943|Dysostosis multiplex|多发性成骨不全|多发骨和软骨发育异常|Abnormalities in development of skeletal cartilage and bones
+HP:0000944|Abnormality of the metaphyses|干骺端异常|一个或多个干骺端异常，干骺端是长骨末端略宽的部分，它连接骨骺生长板，在儿童期增长。|An abnormality of one or more metaphysis, i.e., of the somewhat wider portion of a long bone that is adjacent to the epiphyseal growth plate and grows during childhood.
+HP:0000946|Hypoplastic ilia|髂骨发育不全|#####|Underdevelopment of the `ilium` (FMA:16589).
+HP:0000947|Dumbbell-shaped long bone|哑铃状长骨|长骨的不正常外观，形似哑铃，即质量集中在两端的短棒。长骨缩短并显示喇叭状（扩大）的干骺端。|An abnormal appearance of the long bones with resemblance to a dumbbell, a short bar with a weight at each end. That is, the long bone is shortened and displays flaring (widening) of the metaphyses.
+HP:0000951|Abnormality of the skin|皮肤异常|皮肤的异常。|An abnormality of the `skin` (FMA:7163).
+HP:0000952|Jaundice|黄疸|胆红素导致的皮肤或巩膜黄染，此为血液中胆红素浓度增加的结果。|Yellow pigmentation of the skin or sclera due to bilirubin, which in turn is the result of increased bilirubin concentration in the bloodstream.
+HP:0000953|Hyperpigmentation of the skin|皮肤色素沉着|黑素生成和沉积增加导致皮肤颜色加深。|A darkening of the skin related to an increase in melanin production and deposition.
+HP:0000954|Single transverse palmar crease|单独掌横纹|远端和近端掌横纹融合成一条掌横纹折痕。|The distal and proximal transverse palmar creases are merged into a single transverse palmar crease.
+HP:0000956|Acanthosis nigricans|黑棘皮病|该病的皮损特点是局部皮肤增厚和过度色素沉着斑，主要发生在颈部和皮肤易褶皱处。|A dermatosis characterized by thickened, hyperpigmented plaques, typically on the intertriginous surfaces and neck.
+HP:0000957|Cafe-au-lait spot|牛奶咖啡斑|牛奶咖啡斑指的是边缘光滑，颜色介于浅棕色至深棕色之间的色素过度沉着性病变，大小因年龄而异，成年人的皮损直径在1.5厘米以上，儿童则在0.5厘米以上。|Cafe-au-lait spots are hyperpigmented lesions that can vary in color from light brown to dark brown with smooth borders and having a size of 1.5 cm or more in adults and 0.5 cm or more in children.
+HP:0000958|Dry skin|干性皮肤|皮肤缺乏足够的水分。|Skin characterized by the lack of natural or normal moisture.
+HP:0000960|Sacral dimple|骶骨酒窝|`皮肤酒窝`（0010781 HP）的亚型，为臀沟的皮肤压痕|A subtype of `skin dimples` (HP:0010781) presenting as an indentation in the skin of the intergluteal cleft .
+HP:0000961|Cyanosis|紫绀|因血液中还原型血红蛋白的含量增加或血红蛋白分子的结构缺陷而表现出皮肤或粘膜的颜色变蓝或变紫。|A bluish or purplish discoloration of the skin and mucous membranes due to an increase in the amount of deoxygenated hemoglobin in the blood or a structural defect in the hemoglobin molecule.
+HP:0000962|Hyperkeratosis|角化过度|角化过度是由皮肤最外层的角质层异常增厚所致，角质层是由大量从颗粒层退化的充满角蛋白的多面扁平状角质细胞构成。|Hyperkeratosis is thickening of the outer layer of the skin, the stratum corneum, which is composed of large, polyhedral, plate-like envelopes filled with keratin which are the dead cells that have migrated up from the stratum granulosum.
+HP:0000963|Thin skin|皮肤变薄|皮肤的厚度降低，通常和皮肤的弹性和柔软度缺失有关。|Reduction in thickness of the skin, generally associated with a loss of suppleness and elasticity of the skin.
+HP:0000964|Eczema|湿疹|湿疹是皮炎的一种表现，这个术语可用于很多皮肤病变，且可能与大量潜在因素相关。湿疹的皮损呈多形性，可包括干燥伴反复发生的红色皮疹、水肿、干燥伴瘙痒、结痂、剥落、水泡、裂隙、渗血或出血。|Eczema is a form of dermatitis. The term eczema is broadly applied to a range of persistent skin conditions and can be related to a number of underlying conditions. Manifestations of eczema can include dryness and recurring skin rashes with redness, skin edema, itching and dryness, crusting, flaking, blistering, cracking, oozing, or bleeding.
+HP:0000965|Cutis marmorata|大理石样皮肤|因皮肤毛细血管扩张和静脉淤血，皮肤出现紫色（表现为红蓝色）围绕中央苍白区呈网状改变，大理石样皮肤又称网状青斑，常发生在下肢、手臂和躯干，在冬季病情加重。|A reticular discoloration of the skin with cyanotic (reddish-blue appearing) areas surrounding pale central areas due to dilation of capillary blood vessels and stagnation of blood within the vessels. Cutis marmorata, also called livedo reticularis, generally occurs on the legs, arms and trunk and is often more severe in cold weather.
+HP:0000966|Hypohidrosis|少汗症|汗腺分泌能力异常减弱。|Abnormally diminished capacity to sweat.
+HP:0000967|Petechiae|瘀点|瘀点是针尖大小的红色或紫色的斑点，类似红疹，是皮肤或粘膜下毛细血管破裂浅表出血的表现。瘀点一般有发生出血的倾向。|Petechiae are pinpoint-sized reddish/purple spots, resembling a rash, that appear just under the skin or a mucous membrane when capillaries have ruptured and some superficial bleeding into the skin has happened. This term refers to an abnormally increased susceptibility to developing petechiae.
+HP:0000968|Ectodermal dysplasia|外胚层发育不良|外胚层发育不良是一组累及皮肤、头发、指甲、牙齿以及汗腺发育异常的先天性疾病。|Ectodermal dysplasia is a group of conditions in which there is abnormal development of the skin, hair, nails, teeth, or sweat glands.
+HP:0000969|Edema|水肿|液体在皮下或者在身体的一个或多个腔内异常积聚。|An abnormal accumulation of fluid beneath the skin, or in one or more cavities of the body.
+HP:0000970|Anhidrosis|无汗症|身体无法出汗。|Inability to sweat.
+HP:0000971|Abnormality of the sweat gland|汗腺异常|汗腺的异常。|An abnormality of the `sweat gland` (FMA:59152).
+HP:0000972|Palmoplantar hyperkeratosis|掌跖角化|掌跖角化（HP:0000962）累及手掌和脚底。|`Hyperkeratosis` (HP:0000962) affecting the palm of the hand and the sole of the foot.
+HP:0000973|Cutis laxa|皮肤松弛症|皮肤松弛、弹性减少且出现皱褶和赘肉。|Wrinkled, redundant, inelastic and sagging skin.
+HP:0000974|Hyperextensible skin|皮肤过度伸展|患处皮肤弹力过度伸展，之后复原。|A condition in which the skin can be stretched beyond normal, and then returns to its initial position.
+HP:0000975|Hyperhidrosis|多汗症|出汗异常增多。|Abnormal excessive perspiration (sweating).
+HP:0000976|Eczematoid dermatitis|湿疹样皮炎|#####|#####
+HP:0000977|Soft skin|皮肤柔软|主观感觉上的皮肤柔软度增加。|Subjective impression of increased softness upon palpitation of the skin.
+HP:0000978|Bruising susceptibility|瘀斑易感性|瘀斑（青肿）指的是由于血液从破裂的血管逸入组织而引起的皮肤变色。瘀斑易感性指的是瘀伤易感性的异常增加。病例报道中发现其相应的表型异常通常表现为无外伤但出现频繁的青紫和瘀斑。|An ecchymosis (bruise) refers to the skin discoloration caused by the escape of blood into the tissues from ruptured blood vessels. This term refers to an abnormally increased susceptibility to bruising. The corresponding phenotypic abnormality is generally elicited on medical history as a report of frequent ecchymoses or bruising without adequate trauma.
+HP:0000979|Purpura|紫癜|紫癜（源自拉丁语:purpura，意为“紫色”）是一种触压不褪色的皮肤紫红色斑。通常由皮下出血引起。由于毛细血管脆性增加而发展成紫癜。紫癜比瘀点大。|Purpura (from Latin: purpura, meaning "purple") is the appearance of red or purple discolorations on the skin that do not blanch on applying pressure. They are caused by bleeding underneath the skin. This term refers to an abnormally increased susceptibility to developing purpura. Purpura are larger than petechiae.
+HP:0000980|Pallor|苍白圈|皮肤的异常苍白。|Abnormally `pale` (PATO:0000328) `skin` (FMA:7163).
+HP:0000982|Palmoplantar keratoderma|掌跖角化症|手掌和足跖皮肤异常肥厚。|Abnormal thickening of the skin of the palms of the hands and the soles of the feet.
+HP:0000987|Atypical scarring of skin|非典型皮肤瘢痕|非典型的疤痕(PATO:0001850)性皮肤(FMA:7163)。|Atypically `scarred` (PATO:0001850) `skin` (FMA:7163) .
+HP:0000988|Skin rash|皮疹|#####|#####
+HP:0000989|Pruritus|瘙痒|瘙痒是一种想去搔抓的自觉症状。这个术语指的是异常增加的瘙痒体验。|Pruritus is an itch or a sensation that makes a person want to scratch. This term refers to an abnormally increased disposition to experience pruritus.
+HP:0000991|Xanthomatosis|黄瘤病|指发生于皮肤的多个黄瘤。黄瘤是发生在皮肤的暗黄色，实性的脂质结节。|The presence of multiple xanthomas (xanthomata) in the skin. Xanthomas are yellowish, firm, lipid-laden nodules in the skin.
+HP:0000992|Cutaneous photosensitivity|光感性皮肤|指皮肤对日光的敏感性增加，可在光照后引起暴露部位红斑（称光感性皮炎）。可以通过局部皮肤暴露光照后的光斑试验来诊断。|An increased sensitivity of the skin to light. Photosensitivity may result in a rash upon exposure to the sun (which is known as photodermatosis). Photosensitivity can be diagnosed by phototests in which light is shone on small areas of skin.
+HP:0000993|Molluscoid pseudotumors|软假瘤|呈蓝灰色，海绵状结节，常伴有受压部位、易外伤处（如肘部、膝）的疤痕。|Bluish-grey, spongy nodules associated with scars over pressure points and easily traumatized areas like the elbows and knees.
+HP:0000995|Melanocytic nevus|黑素细胞痣|黑素细胞痣呈圆形或椭圆形，颜色常接近深褐色、红褐色或肉色，直径一般小于6毫米，也可以更小或更大。|A oval and round, colored (usually medium-to dark brown, reddish brown, or flesh colored) lesion. Typically, a melanocytic nevus is less than 6 mm in diameter, but may be much smaller or larger.
+HP:0000996|Facial capillary hemangioma|面部毛细血管瘤|面部毛细血管的异常团块。|An abnormal mass of capillaries on the face.
+HP:0000997|Axillary freckling|腋窝雀斑|#####|#####
+HP:0000998|Hypertrichosis|多毛症|多毛症是指毛发的数量或在某部位上的过度生长。|Hypertrichosis is increased hair growth that is abnormal in quantity or location.
+HP:0000999|Pyoderma|脓皮病|一种临床表现与脓液产生相关的皮肤疾病。|Any manifestation of a skin disease associated with the production of pus.
+HP:0001000|Abnormality of skin pigmentation|皮肤着色异常|皮肤着色的异常。|An abnormality of the `pigmentation` (GO:0043473) of the `skin` (FMA:7163).
+HP:0001001|Abnormality of subcutaneous fat tissue|皮下脂肪组织异常|#####|#####
+HP:0001002|Decreased subcutaneous fat|皮下脂肪减少|#####|#####
+HP:0001003|Multiple lentigines|多发性雀斑样痣|椭圆形雀斑样痣数量的异常增多，痣表面扁平，呈棕褐色或褐色。|Presence of an unusually high number of lentigines (singular: lentigo), which are flat, tan to brown oval spots.
+HP:0001004|Lymphedema|淋巴水肿|#####|Localized fluid retention and tissue swelling caused by a compromised `lymphatic system` (FMA:7162).
+HP:0001005|Dermatological manifestations of systemic disorders|系统性疾病的皮肤表现|#####|#####
+HP:0001006|Hypotrichosis|少毛症|先天性毛发生长不良。|Congenital lack of hair growth.
+HP:0001007|Hirsutism|多毛症；女性多毛症|女性终毛过多，并呈明显男性化分布。|Abnormally increased hair growth referring to a male pattern of body hair (androgenic hair).
+HP:0001008|Accumulation of melanosomes in melanocytes|黑素细胞中黑素小体聚集|#####|#####
+HP:0001009|Telangiectasia|毛细血管扩张|毛细血管扩张指位于皮肤或粘膜表面的小血管扩张，直径在0.5~1mm之间。毛细血管扩张主要位于舌部，唇部，上腭，手指，面部，结膜，躯干，甲床和指尖。|Telangiectasias refer to small dilated blood vessels located near the surface of the skin or mucous membranes, measuring between 0.5 and 1 millimeter in diameter. Telangiectasia are located especially on the tongue, lips, palate, fingers, face, conjunctiva, trunk, nail beds, and fingertips.
+HP:0001010|Hypopigmentation of the skin|皮肤色素减退|黑素生成和（或）沉积减少引起皮肤颜色变浅。|A reduction of skin color related to a decrease in melanin production and deposition.
+HP:0001011|Diaphoresis (with pheochromocytoma)|多汗症（伴发嗜铬细胞瘤）|#####|#####
+HP:0001012|Multiple lipomas|多发性脂肪瘤|多发性脂肪瘤（一种由脂肪组织构成的的良性组织）。|The presence of multiple lipomas (a type of benign tissue made of fatty tissue).
+HP:0001013|Eruptive xanthomas|发疹性黄瘤|发疹性黄瘤表现为橙黄色到红褐色的丘疹，周围有红晕。常突然成批发生于臀部、四肢伸侧及皱褶部位，严重者可伴不同程度的瘙痒和疼痛。|Eruptive xanthomas are yellow-orange-to-red-brown papules that are often surrounded by an erythematous halo. They appear in crops on the buttocks, extensor surfaces of the extremities, and flexural creases. Acutely, variable amounts of pruritus and pain occur.
+HP:0001014|Angiokeratoma|血管角皮瘤|血管角皮瘤是一种血管病变，在组织学上表现为一个或多个直接位于表皮下的血管扩张以及表皮的增生性反应。临床表现为凸起的,深红色的小斑点。|A vascular lesion defined histologically as one or more dilated blood vessels lying directly subepidermal and showing an epidermal proliferative reaction. Clinically, angiokeratoma presents as a small, raised, dark-red spot.
+HP:0001015|Prominent superficial veins|浅表静脉隆凸|静脉从皮肤表面凸起。|Veins raised up from the skin.
+HP:0001017|Anemic pallor|贫血性白斑|继发于贫血的色素脱失。|A type of `pallor` (HP:0000980) that is secondary to the presence of `anemia` (HP:0001903).
+HP:0001018|Abnormal palmar dermatoglyphics|手掌皮纹异常|手掌皮肤的皮纹、线条、凸起和形状异常。|An abnormal fingerprints, lines, mounts, and shapes of skin of palm of hands.
+HP:0001019|Erythroderma|剥脱性皮炎|剥脱性皮炎是一种几乎累及全身皮肤的炎症性剥脱性皮肤病，往往起病较急，通常表现为片状红斑并泛发扩散至全身， 2-6天后开始脱屑并伴有皮肤发热潮红、干燥不适和体温升高。|An inflammatory exfoliative dermatosis involving nearly all of the surface of the skin. Erythroderma develops suddenly. A patchy erythema may generalize and spread to affect most of the skin. Scaling may appear in 2-6 days and be accompanied by hot, red, dry skin, malaise, and fever.
+HP:0001022|Albinism|白化病|皮肤、毛发和眼睛（虹膜和视网膜）等部位着色量的异常减少（或完全缺失）。|An abnormal reduction in the amount of pigmentation (reduced or absent) of skin, hair and eye (iris and retina).
+HP:0001024|Skin dimple over apex of long bone angulation|长骨角顶点处的皮肤酒窝征|#####|#####
+HP:0001025|Urticaria|荨麻疹|荨麻疹主要表现为累及真皮和表皮的边界清楚的隆起性红斑及水肿。常伴有剧烈的瘙痒，按压之后红斑完全变白。|Raised, well-circumscribed areas of erythema and edema involving the dermis and epidermis. Urticaria is intensely pruritic, and blanches completely with pressure.
+HP:0001026|Penetrating foot ulcers|足部穿通性溃疡|#####|#####
+HP:0001027|Soft, doughy skin|面团样柔性皮肤|#####|#####
+HP:0001028|Hemangioma|血管瘤|血管瘤是一种良性肿瘤，其特征为由良性血管内皮细胞衬覆的血管腔。以大内皮腔（海绵体腔）为特征的血管瘤被称为海绵状血管瘤（与被称为毛细管血管瘤的小内皮腔不同）。|A hemangioma is a benign tumor characterized by blood-filled spaces lined by benign endothelial cells. A hemangioma characterized by large endothelial spaces (caverns) is called a cavernous hemangioma (in contrast to a hemangioma with small endothelial spaces, which is called capillary hemangioma).
+HP:0001029|Poikiloderma|皮肤异色症|皮肤异色指皮肤表面出现（1）网状色素减退和色素沉着；（2）继发于表皮萎缩的皱褶，及（3）毛细血管扩张形成的斑片。|Poikiloderma refers to a patch of skin with (1) reticulated hypopigmentation and hyperpigmentation, (2) wrinkling secondary to epidermal atrophy, and (3) telangiectasias.
+HP:0001030|Fragile skin|敏感性皮肤|#####|#####
+HP:0001031|Subcutaneous lipoma|皮下脂肪瘤|存在于皮下的`脂肪瘤`（的mpath:417）。|The presence of subcutaneous `lipoma` (MPATH:417).
+HP:0001032|Absent distal interphalangeal creases|远侧指间皮肤皱褶缺如|手指的远端指间没有屈曲折痕。|Absence of the distal interphalangeal flexion creases of the fingers.
+HP:0001033|Facial flushing after alcohol intake|酒后面部潮红|#####|#####
+HP:0001034|Hypermelanotic macule|色素沉着斑|正常皮肤上发生的黑素沉着，不伴局部的隆起或凹陷。|A hyperpigmented circumscribed area of change in normal skin color without elevation or depression of any size.
+HP:0001036|Parakeratosis|角化不全|表皮角质细胞形成异常，表现为残留的细胞核，角蛋白形成不全，伴细胞水肿。|Abnormal formation of the keratinocytes of the epidermis characterized by persistence of nuclei, incomplete formation of keratin, and moistness and swelling of the keratinocytes.
+HP:0001038|Warfarin-induced skin necrosis|华法林诱导性皮肤坏死|#####|#####
+HP:0001039|Atheroeruptive xanthoma|粥样发疹性黄瘤|#####|#####
+HP:0001040|Multiple pterygia|多发翼状胬肉|在颈部或指间发现多发异常组织皮肤赘生物|Mutiple abnormal mass of tissue found on the neck or between digits
+HP:0001041|Facial erythema|面部红斑|皮下毛细血管充血引起的面部潮红斑。|Redness of the skin of the face, caused by hyperemia of the capillaries in the lower layers of the skin.
+HP:0001042|High axial triradius|高位轴三角掌纹|#####|#####
+HP:0001043|Prominent scalp veins|头皮静脉隆凸|静脉从头皮表面凸起。|Veins raised up from the scalp.
+HP:0001045|Vitiligo|白癜风|#####|#####
+HP:0001046|Intermittent jaundice|间歇性黄疸|黄疸症状时有时无。|Jaundice that is sometimes present, sometimes not.
+HP:0001047|Atopic dermatitis|特应性皮炎|一种主要表现为苔藓样变、脱屑和结痂的慢性炎性遗传性疾病，主要发生在肘部和膝盖的弯曲面。|A chronic inflammatory genetically determined disease of the skin manifested by lichenification, excoriation, and crusting, mainly on the flexural surfaces of the elbow and knee.
+HP:0001048|Cavernous hemangioma|海绵状血管瘤|存在海绵状血管瘤。以大内皮腔（海绵体腔）为特征的的血管瘤被称为海绵状血管瘤。|The presence of a cavernous hemangioma. A hemangioma characterized by large endothelial spaces (caverns) is called a cavernous hemangioma.
+HP:0001049|Absent dorsal skin creases over affected joints|受累关节背面皮肤皱褶缺如|#####|#####
+HP:0001050|Plethora|多血症（红细胞增多症）|#####|#####
+HP:0001051|Seborrheic dermatitis|脂溢性皮炎|脂溢性皮炎是湿疹的一种类型，和皮屑密切相关。它可以导致头皮、眉部、面部，甚至躯干的干燥或油腻性脱屑。|Seborrheic dermatitis is a form of eczema which is closely related to dandruff. It causes dry or greasy peeling of the scalp, eyebrows, and face, and sometimes trunk.
+HP:0001052|Nevus flammeus|鲜红斑痣|一种先天性血管畸形，包括在皮肤表层和深层扩张的毛细血管使皮肤变色呈现微红到紫色。|A congenital vascular malformation consisting of superficial and deep dilated capillaries in the skin which produce a reddish to purplish discolouration of the skin.
+HP:0001053|Hypopigmented skin patches|皮肤色素减退斑|#####|#####
+HP:0001054|Numerous nevi|多发性色素痣|#####|#####
+HP:0001055|Erysipelas|丹毒|丹毒是一种皮肤浅层的细菌感染，常常累及淋巴系统。如反复发作则可能说明丹毒的易感性增加。|Increased susceptibility to erysipelas, as manifested by a medical history of repeated episodes of erysipelas, which is a superficial infection of the skin, typically involving the lymphatic system.
+HP:0001056|Milia|粟丘疹|皮下的多个呈细小白色珠状的丘疹，内含角蛋白（皮肤蛋白）。|Presence of multiple small cysts containing keratin (skin protein) and presenting as tiny pearly-white bumps just under the surface of the skin.
+HP:0001057|aplasia cutis congenita|先天性表皮发育不全|发育缺陷导致的多个或单独的非炎症性的,边界清楚，直径约1 - 2厘米的椭圆形或圆形溃疡，是一种先天性皮肤缺损。这种先天性表皮发育不全最常发生在头皮上,但也可能出现在面部、躯干或四肢。|A developmental defect resulting in the congenital absence of skin in multiple or solitary non-inflammatory, well-demarcated, oval or circular ulcers with a diameter of about 1 to 2 cm. Aplasia cutis congenita most commonly occurs on the scalp, but may present in the face, trunk, or limbs.
+HP:0001058|Poor wound healing|伤口愈合不良|皮肤伤口愈合能力下降。|A reduced ability to heal cutaneous wounds.
+HP:0001059|Pterygium|翼状胬肉|翼状胬肉是发生在脖子，眼睛，膝盖，手肘，脚踝或数字“翼状”的三角膜。|Pterygia are 'winglike' triangular membranes occurring in the neck, eyes, knees, elbows, ankles or digits.
+HP:0001060|Axillary pterygia|腋窝翼状胬肉|腋窝处的异常组织皮肤赘生物|Abnormal mass of tissue found on the axillary
+HP:0001061|Acne|痤疮|主要表现为皮脂分泌增加，根据毛囊皮脂腺的状态分为开放性粉刺（黑头）、闭合性粉刺（白头）和脓疱结节（丘疹，脓疱，和囊肿）。|A skin condition in which there is an increase in sebum secretion by the pilosebaceous apparatus associated with  open comedones (blackheads), closed comedones (whiteheads), and pustular nodules (papules, pustules, and cysts).
+HP:0001062|Atypical nevi (>5mm with irregular edge and pigmentation)|非典型痣（>5毫米且有不规则的边缘及色素沉着）|#####|#####
+HP:0001063|Acrocyanosis|手足发绀|#####|#####
+HP:0001065|Striae distensae|萎缩纹|皮肤表现为红色、较薄的凹陷性萎缩带。初起为粉红色的线状萎缩，接着，线状拉长且颜色变为淡红或略带紫色，最后，表现为白色的与皮纹方向平行的凹陷性萎缩带。萎缩纹最常发生在弹性较大的部位，如腰部、臀部、大腿、胸部、腹部和肩部。|Thinned, erythematous, depressed bands of atrophic skin. Initially, striae appear as flattened and thinned, pinkish linear regions of the skin. Striae tend to enlarge in length and become reddish or purplish. Later, striae tend to appear as white, depressed bands that are parallel to the lines of skin tension. Striae distensae occur most often in areas that have been subject to distension such as the lower back, buttocks, thighs, breast, abdomen, and shoulders.
+HP:0001067|Neurofibromas|神经纤维瘤|#####|The presence of multiple cutaneous neurofibromas.
+HP:0001069|Episodic hyperhidrosis|发作性多汗症|间歇性发作的排汗增多。|Intermittent episodes of abnormally increased perspiration.
+HP:0001070|Mottled pigmentation|斑驳病|皮肤片状、不规则的色素沉着。|Patchy and irregular skin pigmentation.
+HP:0001071|Angiokeratoma corporis diffusum|弥漫性血管角皮瘤|#####|#####
+HP:0001072|Thickened skin|皮肤增厚|皮肤呈层状增厚。|Laminar thickening of skin.
+HP:0001073|Cigarette-paper scars|卷烟纸样瘢痕|#####|#####
+HP:0001074|Atypical nevi in non-sun exposed areas|非曝露部位不典型痣|#####|#####
+HP:0001075|Atrophic scars|萎缩性瘢痕|#####|#####
+HP:0001076|Glabellar hemangioma|眉间血管瘤|血管瘤是一种良性的、通常能够自行消退的内皮细胞肿瘤（膨大或者生长），以正常或异常的充满血液的血管数量增多为特征。发生在眉间的血管瘤即眉间血管瘤。|Glabellar hemangioma,which is a benign and usually self-involuting tumor (swelling or growth) of the endothelial cells that line blood vessels that is characterised by increased number of normal or abnormal vessels filled with blood.
+HP:0001080|Biliary tract abnormality|胆道异常|“胆管树”的异常。|An abnormality of the `biliary tree` (FMA:14665).
+HP:0001081|Cholelithiasis|胆石症|形成于胆囊内的坚硬的、鹅卵石状的沉积物。|Hard, pebble-like deposits that form within the `gallbladder` (FMA:7202).
+HP:0001082|Cholecystitis|胆囊炎|胆囊存在炎症改变。|The presence of `inflammatory` (PATO:0002104) changes in the `gallbladder` (FMA:7202).
+HP:0001083|Ectopia lentis|晶状体异位|晶状体的错位。晶状体的局部位移（或错位）被称为晶状体的半脱位，而一个完整的位移被称为晶状体的脱位。晶状体脱位是晶状体完全脱出晶状体窝，位于前房，玻璃体或视网膜上。如果晶状体部分错位，但仍然包含在晶体空间内，则它被称为半脱位。|Dislocation or malposition of the crystalline lens of the eye. A partial displacement (or dislocation) of the lens is described as a subluxation of the lens, while a complete displacement is termed luxation of the lens. A complete displacement occurs if the lens is completely outside the patellar fossa of the lens, either in the anterior chamber, in the vitreous, or directly on the retina. If the lens is partially displaced but still contained within the lens space, then it is termed subluxation.
+HP:0001084|Corneal arcus|角膜环|角膜缘（角巩膜交界处）的朦胧的，灰白色的约2毫米宽的环形带。角膜环一般在双侧均发生，并与角膜脂质沉积相关。角膜环可发生于老年人，是衰老过程的一部分，也可发生于50岁以下患有高胆固醇血症的人。|A hazy, grayish-white ring about 2 mm in width located close to but separated from the limbus (the corneoscleral junction). Corneal arcus generally occurs bilaterally, and is related to lipid deposition in the cornea. Corneal arcus can occur in elderly persons as a part of the aging process but may be associated with hypercholesterolemia in people under the age of 50 years.
+HP:0001085|Papilledema|视乳头水肿|乳头水肿指继发于任何导致脑脊髓液压力增高的因素，视盘发生水肿（肿胀）。|Papilledema refers to edema (swelling) of the optic disc secondary to any factor which increases cerebral spinal fluid pressure.
+HP:0001087|Congenital glaucoma|先天性青光眼|出生后即发生的青光眼。|Congenital glaucoma
+HP:0001088|Brushfield spots|Brushfield点|发生于虹膜外周的环状排列的白色小点。|The presence of whitish spots in a ring-like arrangement at the periphery of the iris.
+HP:0001089|Iris atrophy|虹膜萎缩|虹膜的萎缩（FMA:58235）。|Atrophy of the `iris` (FMA:58235).
+HP:0001090|Large eyes|大眼睛|眼球的尺寸增加。|Increased size of the  ocular globe (eyeball).
+HP:0001092|Absent lacrimal punctum|泪小点缺损|没有明确的上和/或下泪点。|No identifiable superior and/or inferior lacrimal punctum.
+HP:0001093|Optic nerve dysplasia|视神经发育异常|视神经的发育异常。|The presence of `developmental dysplasia` (MPATH:64) of the `optic nerve` (FMA:50863).
+HP:0001094|Iridocyclitis|虹膜睫状体炎|前葡萄膜炎的一种，累及虹膜和睫状体。|A type of anterior uveitis, in which there is Inflammation of the iris and the ciliary body.
+HP:0001095|Hypertensive retinopathy|高血压性视网膜病变|高血压所致的视网膜病变|retinopathy caused by Hypertensive
+HP:0001096|Keratoconjunctivitis|角膜结膜炎|角膜和结膜的炎症。|Inflammation of the cornea and conjunctiva.
+HP:0001097|Keratoconjunctivitis sicca|干燥性角结膜炎|干眼可由相关的泪膜成分（水，粘蛋白，或脂质）缺乏，眼睑异常，或上皮异常所致。干燥性角结膜炎通常导致眼睛内出现划痕或砂砾样的感觉（异物感），可同时伴有瘙痒，泪少，对光敏感，发红，疼痛和眼睑移动困难。|Dryness of the eye related to deficiency of the tear film components (aqueous, mucin, or lipid), lid surface abnormalities, or epithelial abnormalities. Keratoconjunctivitis sicca often results in a scratchy or sandy sensation (foreign body sensation) in the eyes, and may also be associated with itching, inability to produce tears, photosensitivity, redness, pain, and difficulty in moving the eyelids.
+HP:0001098|Abnormality of the fundus|眼底异常|眼底的异常。|Abnormality of the fundus
+HP:0001099|Fundus atrophy|眼底萎缩|眼底的萎缩。|Fundus atrophy
+HP:0001100|Heterochromia iridis|虹膜异色|虹膜异色是两只眼睛虹膜上`（FMA:58235）的颜色存在差异。|Heterochromia iridis is a difference in the color of the `iris` (FMA:58235) in the two eyes.
+HP:0001101|Iritis|虹膜炎|虹膜的炎症（FMA:58235）。|Inflammation of the `iris` (FMA:58235).
+HP:0001102|Angioid streaks of the retina|视网膜血管样纹|双侧视网膜下出现窄、不规则线条，从视盘呈辐射状发出。|Bilateral, narrow, irregular lines inferior to the retina and emanating in a radiating fashion from the optic disc.
+HP:0001103|Abnormality of the macula|黄斑异常|在黄斑部的异常（FMA:58637），黄斑是靠近视网膜中心的椭圆形的暗黄色区域。|An abnormality of the `macula lutea` (FMA:58637) is an oval-shaped highly pigmented yellow spot near the center of the retina.
+HP:0001104|Macular hypoplasia|黄斑发育不良|黄斑中心凹的发育不良（FMA:58637）。|Underdevelopment of the `macula lutea` (FMA:58637).
+HP:0001105|Retinal atrophy|视网膜萎缩|全视网膜的萎缩|atrophy of the whole Retina
+HP:0001106|Periorbital hyperpigmentation|眼眶周围色素沉着|在眼眶周围区域的皮肤色素沉着增加。|Increased pigmentation of the skin in the region surrounding the orbit of the eye.
+HP:0001107|Ocular albinism|眼部白化病|视网膜和虹膜色素沉着量异常减少（减少或不存在）（FMA:58235）。|An abnormal reduction in the amount of pigmentation (reduced or absent) of the `iris` (FMA:58235) and retina.
+HP:0001112|Leber optic atrophy|Leber视神经萎缩|视网膜神经节细胞及其轴突的变性。|Degeneration of retinal ganglion cells and their axons.
+HP:0001113
+HP:0001114|Xanthelasma|睑黄瘤|眼睑皮肤表面的黄色斑块沉着。|The presence of xanthomata in the skin of the eyelid.
+HP:0001115|Posterior polar cataract|后极性白内障|一种极性的白内障，主要影响晶状体的后极部。|A `polar cataract` (HP:0010696) that affects the `posterior pole of the lens` (FMA:58898).
+HP:0001116|Macular coloboma|黄斑缺损|遗传性黄斑部缺损，与视神经裂闭合缺陷相关的缺损不同。|A congenital defect of the macula distinct from coloboma associated with optic fissure closure defects.
+HP:0001117|Sudden central visual loss|突如性的中心视力丧失|突如性的中心视力丧失。|Sudden central visual loss
+HP:0001118|Juvenile cataract|青少年白内障|白内障在出生时不明显，但在儿童期或青春期发病。|A type of cataract that is not apparent at birth but that arises in childhood or adolescence.
+HP:0001119|Keratoglobus|球形角膜|角膜缘到角膜缘的角膜变薄，周边部变薄最为显著，常有角膜的球形突出。|Limbus-to-limbus corneal thinning, often greatest in the periphery, with globular protrusion of the cornea.
+HP:0001120|Abnormality of corneal size|角膜大小异常|角膜的任何大小或形态的异常。|Any abnormality of the size or morphology of the cornea.
+HP:0001122|aplasia/Hypoplasia of the choroid|脉络膜发育缺陷/不全|脉络膜发育缺陷或缺如（FMA:58298）。|Absence or underdevelopment of the `choroid` (FMA:58298).
+HP:0001123|Visual field defect|视野缺损|部分或全部视野的缺损。|Visual field defect
+HP:0001125|Hemianopic blurring of vision|视力偏盲|与偏头痛先兆阶段相关的瞬态偏盲。|Transient hemianopsia associated with the aura phase of migraine.
+HP:0001126|Cryptophthalmos|隐眼|隐眼是指完全没有眼睑，前额皮肤与脸颊相连，眼球被越过眼眶的皮肤完全掩盖的一种情况。|Cryptophthalmos is a condition of total absence of eyelids and the skin of forehead is continuous with that of cheek, in which the eyeball is completely concealed by the skin, which is stretched over the orbital cavity.
+HP:0001128|Trichiasis|倒睫|睫毛反向生长且与眼球摩擦。|Inversion and rubbing of the eyelashes against the globe of the eye.
+HP:0001129|Large central visual field defect|中央大视野缺损|#####|Large central visual field defect
+HP:0001131|Corneal dystrophy|角膜营养不良|角膜异常的一种（HP:0000481），特征为一侧角膜或部分角膜不透明。|An `abnormality of the cornea` (HP:0000481) that is characterized by opacity of one or parts of the cornea.
+HP:0001132|Lens subluxation|晶状体半脱位|眼睛的晶状体部分脱位。|Partial dislocation of the lens of the eye.
+HP:0001133|Constricted visual fields|狭窄视野|外周视野缺损导致视野狭窄。|Constricted visual fields
+HP:0001134|Anterior polar cataract|前极白内障|一种极性白内障`（HP:0010696），影响晶状体`（FMA:58897）的前极。|A `polar cataract` (HP:0010696) that affects the `anterior pole of the lens` (FMA:58897).
+HP:0001135|Chorioretinal dystrophy|脉络膜视网膜营养不良|脉络膜和视网膜变性。|Chorioretinal dystrophy
+HP:0001136|Retinal arteriolar tortuosity|视网膜小动脉迂曲|视网膜小动脉的曲折和转折数目增加。|The presence of an increased number of twists and turns of the retinal arterioles.
+HP:0001137|Alternating esotropia|交替性内斜视|两只眼睛交替性向内斜视。|Alternating esotropia
+HP:0001138|Optic neuropathy|视神经病变|视神经上发生的病变。|Neuropathy of Optic nerve
+HP:0001139|Choroideremia|无脉络膜症|视网膜脉络膜疾病中的一种。|Choroideremia
+HP:0001140|Epibulbar dermoid|眼球外层皮样囊肿|眼球表面的皮样囊肿是一种良性肿瘤，通常出现在角膜和巩膜的交界处（眼球表面的角膜缘皮样瘤）。|An epibulbar dermoid is a benign tumor typically found at the junction of the cornea and sclera (limbal epibullar dermoid).
+HP:0001141|Severe visual impairment|严重的视力障碍|严重的视力障碍。|Severe visual impairment
+HP:0001142|Lenticonus|圆锥形晶状体|晶状体的前部或后部表面的锥形突起，是一种发育异常。|A conical projection of the anterior or posterior surface of the lens, occurring as a developmental anomaly.
+HP:0001144|Orbital cyst|眼眶囊肿|眼眶区域的囊肿。眼眶囊肿可从眼眶内或周围的上皮或腺组织（泪腺，唾液腺，结膜，口腔，鼻腔，鼻窦或上皮）衍生。|Presence of a cyst in the region of the orbita. Orbital cysts can be derived from epithelial or glandular tissue within or surrounding the orbit (lacrimal glands, salivary glands, conjunctival, oral, nasal, or sinus epithelium).
+HP:0001145|Chorioretinopathy|脉络膜视网膜病变|发生于脉络膜视网膜的病变|Chorioretinopathy
+HP:0001146|Pigmentary retinal degeneration|色素性视网膜变性|色素性视网膜变性。|Pigmentary retinal degeneration
+HP:0001147|Retinal exudate|视网膜渗出|视网膜血管中含有高浓度脂质，蛋白质和细胞碎片的液体渗出，视网膜表面呈现典型的反射性、明亮、白色或乳白色的彩色外观。|Fluid which has escaped from retinal bllod vessels with a high concentration of lipid, protein, and cellular debris with a typically bright, reflective, white or cream colored appearance on the surface of the retina.
+HP:0001149|Lattice corneal dystrophy|格子样角膜营养不良|角膜上Bowman层出现细小分枝状的浑浊，随病程进展可能从中央部扩散到周边。病变可能累及深角膜基质，但不会影响Descemet膜，可能会经常性出现角膜糜烂。组织学检查显示在角膜中出现胶原纤维淀粉样蛋白沉积物。|The presence of fine, branching linear opacities in Bowman's layer in the central area that may spread to the periphery in the clinical course. The deep corneal stroma may be involved but the process does not reach Descemet's membrane. Recurrent corneal erosion may occur. Histologic examination reveals amyloid deposits in the collagen fibers of the cornea.
+HP:0001150|Choroidal sclerosis|脉络膜硬化|脉络膜硬化是一种描述性术语，用于描述眼底检查中不能看到脉络膜血管或脉络膜血管有白线护套。|Choroidal sclerosis is a descriptive term applied to the ophthalmoscopic appearance of prominent white choroidal vessels in which the blood columns are not seen or are sheathed by white lines.
+HP:0001151|Impaired horizontal smooth pursuit|水平平滑追随眼动受损|眼部平滑追踪功能出现异常（HP:0000617），其特征为追踪水平移动物体的能力发生损害。|An `abnormality of ocular smooth pursuit` (HP:0000617) characterized by an impairment of the ability to track horizontally moving objects.
+HP:0001152|Saccadic smooth pursuit|扫视追求平稳运动异常|#####|An abnormality of tracking eye movements in which smooth pursuit is interrupted by an abnormally high number of saccadic movements.
+HP:0001153|Septate vagina|阴道纵膈|阴道存在隔膜，在大多数病例隔膜是纵向的，故产生了两个阴道。|The presence of a vaginal septum, thereby creating a vaginal duplication. The septum is longitudinal in the majority of cases.
+HP:0001155|Abnormality of the hand|手异常|影响到一只手或双手的异常。|An abnormality affecting one or both hands.
+HP:0001156|Brachydactyly syndrome|短指畸形综合征|指（趾）与手/脚不成比例的短小。短指用来描述了一系列具有明显缩短的指（趾）模式（短指类型A-E）的孟德尔疾病，也是这里使用的释义。但是它更适合精确描述所观察到的表型异常。|Digits that appear disproportionately short compared to the hand/foot. The word brachydactyly is used to describe a series of Mendelian diseases characterized by distinct patterns of shortened digits (brachydactyly types A-E). This is the sense used here, however, it is preferable to described the observed phenotypic abnormalities precisely.
+HP:0001159|Syndactyly|并指（趾）畸形|手指或脚趾间出现蹼或融合，可以仅涉及软组织或包括骨结构。发生在桡尺轴线的骨性融合被称为“骨性并指”。手指或脚趾在近-远轴的骨头融合称为“关节粘连”。|Webbing or fusion of the fingers or toes, involving soft parts only or including bone structure. Bony fusions are revered to as "bony" syndactyly if the fusion occurs in a radio-ulnar axis. Fusions of bones of the fingers or toes in a proximo-distal axis are refered to as "symphalangism".
+HP:0001161|Hand polydactyly|多指|一种多指（趾）类型（HP:0010442），特点是存在额外的手指。|A kind of `polydactyly` (HP:0010442) characterized by the presence of a supernumerary finger or fingers.
+HP:0001162|Postaxial hand polydactyly|轴后多指畸形|额外的手指位于手尺侧（即第五指的一侧）。|Supernumerary digits located at the ulnar side of the hand (that is, on the side with the fifth finger).
+HP:0001163|Abnormality of the metacarpal bones|掌骨异常|掌骨的异常(FMA:71336)。|An abnormality of the `metacarpal bones`(FMA:71336).
+HP:0001166|Arachnodactyly|细长指(趾)|异常修长的手指（“蜘蛛指”）。|Abnormally long and slender fingers ("spider fingers").
+HP:0001167|Abnormality of finger|手指异常|手指的运动异常。|An abnormal movement of any finger.
+HP:0001169|Broad palm|宽掌|儿童从出生至4岁的手掌宽度大于平均值2个标准差；4至16岁儿童的手掌宽度大于第95百分位数;或者手掌过宽，与长度不成比例。|For children from birth to 4 years of age the palm width is more than 2 SD above the mean; for children from 4 to 16 years of age the palm width is above the 95th centile; or, the width of the palm appears disproportionately wide for the length.
+HP:0001171|Split hand|手劈裂|手的中间部分（手指和掌骨）丢失，给人一种劈裂的外观。其严重程度是变化很大，从中指略微发育不良、中指缺如，以至寡指或单指手。|A condition in which middle parts of the hand (fingers and metacarpals) are missing giving a cleft appearance. The severity is very variable ranging from slightly hypoplastic middle fingers over absent middel fingers as far as oligo- or monodactyl hands.
+HP:0001172|Abnormality of the thumb|拇指异常|拇指的异常(FMA:24938)。|An anomaly of the `thumb`(FMA:24938).
+HP:0001176|Large hands|巨手|#####|#####
+HP:0001177|Preaxial hand polydactyly|轴前多指急性|额外的手指位于手的桡侧。（桡侧）多指的形式和严重程度变异性大，甚至涉及部分重复/分叉、完全重复、三倍重复的拇指，或者在内侧（手的桡侧）出现多指。|Supernumerary digits located at the radial side of the hand. Polydactyly (supernumerary digits) involving the thumb occurs in many distinct forms of high variability and severity. Ranging from fleshy nubbins over varying degrees of partial duplication/splitting to completely duplicated or even triplicated thumbs or preaxial (on the radial side of the hand) supernumerary digits.
+HP:0001178|Ulnar claw|尺侧爪形手|手的姿态异常，特征是无名指和小手指掌指关节的过伸，同时发生指间关节弯曲，向掌心屈曲。|An abnormal hand position characterized by hyperextension of the fourth and fifth fingers at the metacarpophalangeal joints and flexion of the interphalangeal joints of the same fingers such that they are curled towards the palm.
+HP:0001180|Oligodactyly (hands)|少指（趾）畸形|发育缺陷造成手指数量较正常少。|A developmental defect resulting in the presence of fewer than the normal number of fingers.
+HP:0001181|Adducted thumb|拇指内收|在静止位时，拇指尖端靠近或位于手掌、第四或第五指根部。|In the resting position, the tip of the thumb is on, or near, the palm, close to the base of the fourth or fifth finger.
+HP:0001182|Tapered finger|锥形指|手指的指围从近端向末端逐渐减少。|The gradual reduction in girth of the digit from proximal to distal.
+HP:0001187|Hyperextensibility of the finger joints|指间关节过伸|指间关节的活动能力超过其运动正常范围。|The ability of the finger joints to move beyond their normal range of motion.
+HP:0001188|Hand clenching|攥拳手|不正常的手姿势，双手攥紧成拳。所有手指的掌指及指间关节完全屈曲。|An abnormal hand posture in which the hands are clenched to fists. All digits held completely flexed at the metacarpophalangeal and interphalangeal joints.
+HP:0001191|Abnormality of the carpal bones|腕骨异常|影响手腕骨骼的异常，组成手腕的骨骼有舟骨、月骨、三角骨、豆状骨、大多角骨、小多角骨、头状骨和钩骨。|An abnormality affecting the carpal bones of the wrist (scaphoid, lunate, triquetral, pisiform, trapezium, trapezoid, capitate, hamate).
+HP:0001193|Ulnar deviation of the hand or of fingers of the hand|手或手指尺侧偏斜|#####|#####
+HP:0001194|Abnormalities of placenta and umbilical cord|胎盘和脐带的异常|胎盘（发育中的胎儿子宫壁连接的器官）或脐带的（胎儿与胎盘的连接）中的异常。|An abnormality of the placenta (the organ that connects the developing fetus to the uterine wall) or of the umbilical cord (the cord that connects the fetus to the placenta).
+HP:0001195|Single umbilical artery|单脐动脉|单脐动脉（SUA）是指在超声影像下缺乏脐带中两条脐动脉围绕胎儿膀胱的正常声像特征，而仅见其中一条。|Single umbilical artery (SUA) is the absence of one of the two umbilical arteries surrounding the fetal bladder and in the fetal umbilical cord.
+HP:0001196|Short umbilical cord|脐带过短|脐带长度缩短。|Decreased length of the `umbilical cord` (FMA:85541).
+HP:0001197|Abnormality of prenatal development or birth|胎儿产前发育或出生异常|胎儿的异常或胎儿出生异常，不含结构异常。|An abnormality of the fetus or the birth of the fetus, excluding structural abnormalities.
+HP:0001199|Triphalangeal thumb|三指节拇指|拇指在近-远轴上有三节指骨。该术语用于描述拇指有一个额外的指骨，拇指变成与其他手指一样的外观。|A thumb with three phalanges in a single, proximo-distal axis. Thus, this term applies if the thumb has an accessory phalanx, leading to a digit like appearance of the thumb.
+HP:0001204|Distal symphalangism (hands)|远端指间关节粘连|术语远端指间关节粘连指手指远节指骨和中节指骨的骨融合，即在X线下可见远端指间关节（DIJ）缺如或指远侧纹缺如，。|The term distal symphalangism refers to a bony fusion of the distal and middle phalanges of the digits of the hand, in other words the distal interphalangeal joint (DIJ) is missing which can be seen either on x-rays or as an absence of the distal interphalangeal finger creases.
+HP:0001211|Abnormality of the fingertips|指尖异常|指尖异常|#####
+HP:0001212|Prominent fingertip pads|指尖垫突出|指尖的腹侧方面的软组织突出。术语“持续胎儿指尖垫”经常被用作同义词，但是最好不要使用，因为它暗示病人有不存在的病史。|A soft tissue prominence of the ventral aspects of the fingertips. The term "persistent fetal fingertip pads" is often used as a synonym, but should better not be used because it implies knowledge of history of the patient which often does not exist.
+HP:0001215|Camptodactyly of 2nd-5th fingers|第2-5指全屈曲|远端指间关节和/或第2-5手指的近端指间关节无法通过主动或被动的伸展，伸直到180度。|The distal interphalangeal joint and/or the proximal interphalangeal joint of the second to fifth fingers cannot be extended to 180 degrees by either active or passive extension.
+HP:0001216|Delayed ossification of carpal bones|腕骨骨化延迟|腕骨骨化发生比相应年龄阶段迟。|Ossification of carpal bones occurs later than age-adjusted norms.
+HP:0001217|Clubbing|杵状指|指端软组织增宽（软组织无肿胀水肿）合并指甲的纵向和横向弧度增加。|Broadening of the soft tissues (non-edematous swelling of soft tissues) of the digital tips in all dimensions associated with an increased longitudinal and lateral curvature of the nails.
+HP:0001218|Autoamputation|自发性肢体离断|身体的附肢自发断肢（截肢）。|Spontaneous detachment (amputation) of an appendage from the body.
+HP:0001220|Interphalangeal joint contracture of finger|手指指间关节挛缩|由于非骨组织结构变化，手指指间关节的运动能力慢性受损。|Chronic loss of joint motion in an interphalangeal joint of a finger due to structural changes in non-bony tissue.
+HP:0001222|Spatulate thumbs|匙状拇指|匙状的宽拇指。|Spoon-shaped, broad thumbs.
+HP:0001223|Pointed proximal second through fifth metacarpals|第2-5掌骨近端尖|所有掌骨具有近侧尖端的外观。|All of the metacarpal bones of the hand have a pointed proximal appearance.
+HP:0001225|Wrist swelling|腕肿胀|#####|#####
+HP:0001226|Acral ulceration and osteomyelitis leading to autoamputation of digits|肢端溃疡和骨髓炎导致手指自发性离断|肢体远端出现溃疡和骨髓炎，与手指坏死和手指或部分手指从四肢的前端部自发性离断有关。|Ulceration and osteomyelitis of the distal parts of the limbs associated with necrosis and spontaneous detachment of digits or parts of digits.
+HP:0001227|Abnormality of the thenar eminence|大鱼际异常|大鱼际的异常，大鱼际是拇指下方的手掌肌肉。|An abnormality of the thenar eminence, i.e., of the muscle on the palm of the human hand just beneath the thumb.
+HP:0001230|Broad metacarpals|掌骨变宽|#####|Abnormally broad metacarpal bones.
+HP:0001231|Abnormality of the fingernails|指甲异常|指甲的异常。|An abnormality of the `fingernails` (FMA:54327).
+HP:0001232|Nail bed telangiectasia|甲床毛细血管扩张|指甲基底部毛细血管扩张。|Telangiectases in the area of the `nails` (FMA:54326).
+HP:0001233|2-3 finger syndactyly|第2-3指并指|第2-3个手指融合。|2-3 finger syndactyly means the fusion of 2nd to 3rd finger.
+HP:0001234|Hitchhiker thumb|“打车手势”拇指|手放松且拇指位于掌平面时，拇指的轴线与手的长轴形成至少90度角。|With the hand relaxed and the thumb in the plane of the palm, the axis of the thumb forms an angle of at least 90 degrees with the long axis of the hand.
+HP:0001238|Slender finger|手指细长|手/足指/趾不成比例的狭窄（周长减少）。|Digits are disproportionately narrow (reduced girth) for the hand/foot size or build of the individual.
+HP:0001239|Wrist flexion contracture|腕关节屈曲挛缩|由于肌肉、肌腱、韧带或皮肤的结构性变化，使腕关节活动度慢性丧失，妨碍了手腕关节的正常运动。|A chronic loss of wrist joint motion due to structural changes in muscle, tendons, ligaments, or skin that prevent normal movement of the joints of the wrist.
+HP:0001241|Capitate-hamate fusion|头钩骨融合|#####|#####
+HP:0001245|Small thenar eminence|小鱼际小|小鱼际发育不好，拇指根部手掌软组织减少。|Underdevelopment of the thenar eminence with reduced palmar soft tissue mass surrounding the base of the thumb.
+HP:0001248|Short tubular bones (hand)|短管状骨（手）|#####|#####
+HP:0001249|Intellectual disability|智力残疾|源于发育阶段的智力功能低于正常。智力残疾，以前被称为精神发育迟滞，定义为智商得分低于70。|Subnormal intellectual functioning which originates during the developmental period. Intellectual disability, previously referred to as mental retardation, has been defined as an IQ score below 70.
+HP:0001250|Seizures|癫痫发作|癫痫发作是中枢神经系统（FMA:HP:0002011）因突然，过度，无序大脑神经元放电而产生的间歇性异常；临床特点由感觉障碍、意识丧失、精神功能受损、或抽搐的动作为特征。术语“癫痫”用于描述慢性，复发性癫痫发作。|Seizures are an intermittent `abnormality of the central nervous system` (FMA:HP:0002011) due to a sudden, excessive, disorderly discharge of cerebral neurons and characterized clinically by some combination of disturbance of sensation, loss of consciousness, impairment of psychic function, or convulsive movements. The term epilepsy is used to describe chronic, recurrent seizures.
+HP:0001251|Ataxia|共济失调|小脑共济失调是指由于小脑功能障碍导致的共济失调。这引起了各种基本的神经缺陷，包括协调不能（缺乏肌肉，四肢和关节之间的协调），辨距障碍（缺乏判断距离能力，可导致抓握运动时不能达到或超过目标），和轮替运动障碍（不能进行需要拮抗肌群反复切换开关的快速运动）。|Cerebellar ataxia refers to ataxia due to dysfunction of the cerebellum. This causes a variety of elementary neurological deficits including asynergy (lack of coordination between muscles, limbs and joints), dysmetria (lack of ability to judge distances that can lead to under- oder overshoot in grasping movements), and dysdiadochokinesia (inability to perform rapid movements requiring antagonizing muscle groups to be switched on and off repeatedly).
+HP:0001252|Muscular hypotonia|肌张力减退|肌张力减退是指肌张力异常低下（张力运动或拮抗运动肌肉量），常累及肌力减退。张力减退的特征在于拮抗运动减少，以被动伸展为主。|Muscular hypotonia is an abnormally low muscle tone (the amount of tension or resistance to movement in a muscle), often involving reduced muscle strength. Hypotonia is characterized by a diminished resistance to passive stretching.
+HP:0001254|Lethargy|嗜睡|一种漠不关心，精神萎靡，无欲的状态，导致难以执行简单任务或集中注意力。|A state of  disinterestedness, listlessness, and indifference, resulting in difficulty performing simple tasks or concentrating.
+HP:0001256|Intellectual disability, mild|轻度智力残疾|轻度智力残疾定义为智商（IQ）在50-69的范围内。|Mild intellectual disability is defined as an intelligence quotient (IQ) in the range of 50-69.
+HP:0001257|Spasticity|痉挛|一种运动系统疾病，特征是速度依赖性牵张反射伴与肌张力增高，腱反射亢进（过度兴奋）。|A motor disorder characterized by a velocity-dependent increase in tonic stretch reflexes with increased muscle tone, exaggerated (hyperexcitable) tendon reflexes.
+HP:0001258|Spastic paraplegia|痉挛性截瘫|痉挛状态和小腿和臀部的肌肉无力。|Spasticity and weakness of the leg and hip muscles.
+HP:0001259|Coma|昏迷|完全没有觉醒和意识内容，表现为对任何外部刺激没有反应。|Complete absence of wakefulness and content of conscience, which manifests itself as a lack of response to any kind of external stimuli.
+HP:0001260|Dysarthria|构音障碍|构音障碍一般用于描述语言清晰度降低的神经言语障碍。根据受损的神经结构不同，可分为痉挛性、弛缓性、共济失调性、运动过度性、运动减弱性或混合性构音障碍。|Dysarthric speech is a general description referring to a neurological speech disorder characterized by poor articulation. Depending on the involved neurological structures, dysarthria may be further classified as spastic, flaccid, ataxic, hyperkinetic and hypokinetic, or mixed.
+HP:0001262|Somnolence|嗜睡|#####|#####
+HP:0001263|Global developmental delay|全面发育迟缓|儿童重要的运动功能和精神发育迟缓，包括运动技能，言语和语言能力，认知能力和社会情感能力。此术语应仅用于描述的年龄小于五岁儿童。|A delay in the achievement of motor or mental milestones in the domains of development of a child, including motor skills, speech and language, cognitive skills, and social and emotional skills. This term should only be used to describe children younger than five years of age.
+HP:0001264|Spastic diplegia|痉挛性双侧瘫痪|痉挛（神经肌肉张力增高）主要集中在腿部，臀部和骨盆的肌肉。|Spasticity (neuromuscular hypertonia) primarily in the muscles of the legs, hips, and pelvis.
+HP:0001265|Hyporeflexia|腱反射减弱|神经反射减弱，如膝腱反射。|Reduction of neurologic reflexes such as the knee-jerk reaction.
+HP:0001266|Choreoathetosis|舞蹈手足徐动|以手足徐动（无法维持肌肉在固定位置）和舞蹈样运动（广泛无节奏的不自主强行运动）为特征的不自主运动。|Involuntary movements characterized by both athetosis (inability to sustain muscles in a fixed position) and chorea (widespread jerky arrhythmic movements).
+HP:0001268|Mental deterioration|智能衰退|既往存在的智能丧失，一般指成人。|Loss of previously present mental abilities, generally in adults.
+HP:0001269|Hemiparesis|轻偏瘫|一侧上下肢相对较轻的无力，有时累及面部。|Relatively mild weakness in the arm, leg, and in some cases the face on one side of the body.
+HP:0001270|Motor delay|运动延迟|一种主要表现为运动技能学习能力延迟的发育迟滞。|A type of `Developmental delay` (HP:0001263) characterized by a delay in acquiring motor skills.
+HP:0001271|Polyneuropathy|多发性神经病|周围神经的广泛疾病|A generalized disorder of peripheral nerves.
+HP:0001272|Cerebellar atrophy|小脑萎缩|小脑萎缩（缩小）（FMA:67944）。|Atrophy (wasting) of the cerebellum`(FMA:67944).
+HP:0001273|Abnormality of the corpus callosum|胼胝体异常|`胼胝体`的异常（FMA:86464）。|Abnormality of the `corpus callosum` (FMA:86464).
+HP:0001274|Agenesis of corpus callosum|胼胝体发育不全|胼胝体发育障碍导致的胼胝体缺如，它可以由发育过程中的多个步骤的障碍引起，包括在中线的细胞增殖和迁移，轴突生长或神经胶质细胞生长。|Absence of the corpus callosum as a result of the failure of the corpus callosum to develop, which can be the result of a failure in any one of the multiple steps of callosal development including cellular proliferation and migration, axonal growth or glial patterning at the midline.
+HP:0001276|Hypertonia|肌张力增高|一种肌张力增高的状态，以至于手臂和腿部僵硬无法运动。|#####
+HP:0001278|Orthostatic hypotension|体位性低血压|当一个人变换为站立位时血压突然下降的一种低血压。|A form of hypotension characterized by a sudden fall in blood pressure that occurs when a person assumes a standing position.
+HP:0001279|Syncope|晕厥|晕厥是指暂时性意识丧失和肌肉无力，特点是发作迅速，持续时间短，能自然恢复。|Syncope is defined as a short loss of consciousness and muscle strength, characterized by a fast onset, short duration, and spontaneous recovery.
+HP:0001281|Tetany|手足抽搐|一个疾病的特点是肌肉抽搐，痉挛，及手足痉挛，严重时，出现喉痉挛和癫痫发作。这种病症与轴突膜不稳定去极化相关联，主要在周围神经系统。|A disorder characterized by muscle twitches, cramps, and carpopedal spasm, and when severe, laryngospasm and seizures. This condition is associated with unstable depolarization of axonal membranes, primarily in the peripheral nervous system.
+HP:0001283|Bulbar palsy|球麻痹|球麻痹（或延髓麻痹）是指后组颅神经（九、十、十一和十二）双侧功能损害。延髓核或束水平的下运动神经元病变或者发自脑干的后组颅神经双侧病变时出现球麻痹。球麻痹往往与咀嚼困难，面部肌肉无力，构音障碍，软腭无力和呛咳，吞咽困难，发音困难相关。|Bulbar weakness (or bulbar palsy) refers to bilateral impairment of function of the lower cranial nerves IX, X, XI and XII, which occurs due to lower motor neuron lesion either at nuclear or fascicular level in the medulla or from bilateral lesions of the lower cranial nerves outside the brain-stem. Bulbar weakness is often associated with difficulty in chewing, weakness of the facial muscles, dysarthria, palatal weakness and regurgitation of fluids, dysphagia, and dysphonia.
+HP:0001284|Areflexia|神经反射消失|没有神经反射，如膝腱反应。|Absence of neurologic reflexes such as the knee-jerk reaction.
+HP:0001285|Spastic tetraparesis|痉挛性四肢瘫|痉挛性无力影响到四肢。|Spastic weakness affecting all four limbs.
+HP:0001287|Meningitis|脑膜炎|`脑膜（FMA:231572）的炎症 (MPATH:212)。|`Inflammation` (MPATH:212) of the `meninges` (FMA:231572).
+HP:0001288|Gait disturbance|步态不稳|步态不稳可以用于描述任何形式的行走能力受损。广义上，指因神经系统病变影响行走，但是也可以是骨折或其他原因的疼痛。目前步态不稳指因神经或肌肉病变导致的行走困难。|The term gait disturbance can refer to any disruption of the ability to walk. In general, this can refer to neurological diseases but also fractures or other sources of pain that is triggered upon walking. However, in the current context gait disturbance refers to difficulty walking on the basis of a neurological or muscular disease.
+HP:0001289|Confusion|意识模糊|缺乏明确、连贯的思维、感知、理解或行动。|Lack of clarity and coherence of thought, perception, understanding, or action.
+HP:0001290|Generalized hypotonia|全身性肌张力减低|广泛的肌张力减退（异常低肌张力）。|Generalized muscular hypotonia (abnormally low muscle tone).
+HP:0001291|Abnormality of the cranial nerves|颅神经异常|一支或多支颅神经（FMA:5865）的异常，颅神经是直接从脑干发出的神经。|Abnormality affecting one or more of the `cranial nerves` (FMA:5865), which emerge directly from the brain stem.
+HP:0001293|Cranial nerve compression|颅神经受压|颅内占位性病变，如颅内肿瘤、脑脓肿等，以及颅脑外伤导致的颅内血肿、凹陷性颅骨骨折，均可以出现压迫大脑神经的症状。|Intracranial space-occupying lesions, such as intracranial tumors, brain abscess, as well as craniocerebral trauma caused by intracranial hematoma, depressed skull fractures, can lead to the symptoms of oppression of the brain.
+HP:0001297|Stroke|卒中|由于大脑动脉闭塞或破裂，导致供应部分大脑的血流突然受损。|Sudden impairment of blood flow to a part of the brain due to occlusion or rupture of an artery to the brain.
+HP:0001298|Encephalopathy|脑病|脑病是用于描述脑部疾病、损伤或故障的术语。一般情况下，脑病可表现为精神状态改变。|Encephalopathy is a term that means brain disease, damage, or malfunction. In general, encephalopathy is manifested by an altered mental state.
+HP:0001300|Parkinsonism|帕金森症|由于中脑黑质产生多巴胺的神经元变性而导致以震颤、强直、行动迟缓和步态异常为特征的神经系统异常|Characteristic neurologic anomaly resulting form degeneration of dopamine-generating cells in the substantia nigra, a region of the midbrain, characterized clinically by shaking, rigidity, slowness of movement and difficulty with walking and gait.
+HP:0001301|Chronic sensorineural polyneuropathy|慢性多发性感觉神经病|#####|#####
+HP:0001302|Pachygyria|巨脑回|一种表现为大脑半球皮层脑回异常增厚的一种先天性畸形。|A congenital abnormality of the cerebral hemisphere chacterized by unusually thick gyrations (convolutions) of the cerebral cortex.
+HP:0001304|Torsion dystonia|扭转性肌张力障碍|持续不自主的肌肉收缩引起身体的扭曲和重复的动作。|Sustained involuntary  muscle contractions that produce twisting and repetitive movements of the body.
+HP:0001305|Dandy-Walker malformation|第四脑室孔闭塞综合征（Dandy-Walker畸形）|先天性脑畸形典型特征是小脑蚓部形成不完整，第四脑室扩张，以及后颅窝扩大。通俗地说，丹迪•沃克畸形是小脑和第四脑室相关的囊肿（通常是对称的）。这可能会干扰到脑脊液从脑流出的能力，导致脑积水。丹迪•沃克囊肿是在早期胚胎发育大脑形成时形成的。小脑的囊肿通常有几条血管贯穿其连接到大脑，因而无法手术切除。|A congenital brain malformation typically characterized by incomplete formation of the cerebellar vermis, dilation of the fourth ventricle, and enlargement of the posterior fossa. In layman's terms, Dandy Walker malformation is a cyst in the cerebellum (typically symmetrical) that is involved with the fourth ventricle. This may interfere with the ability to drain cerebrospinal fluid from the brain, resulting in hydrocephalus. Dandy Walker cysts are formed during early embryonic development, while the brain forms. The cyst in the cerebellum typically has several blood vessels running through it connecting to the brain, thereby prohibiting surgical removal.
+HP:0001308|Tongue fasciculations|舌肌束震颤|舌肌肌束颤动或震动。|Fasciculations or fibrillation affecting the tongue muscle.
+HP:0001310|Dysmetria|辨距不良|`共济失调`（HP:0001251）的一种，表现为因对完成目标动作需要的距离估计错误，导致不能在正确的范围内执行运动。|A type of `ataxia` (HP:0001251) characterized by the inability to carry out movements with the correct range and motion across the plane of more than one joint related to incorrect estimation of the distances required for targeted movements.
+HP:0001311|Abnormal nervous system electrophysiology|神经系统电生理检查异常|神经细胞之间或神经细胞与肌肉之间联系的电信号异常。|An abnormality of the function of the electrical signals with which nerve cells communicate with each other or with muscles.
+HP:0001312|Giant somatosensory evoked potentials|巨大的体感诱发电位|一种异常增大的（如波幅增高）体感诱发电位。|An abnormal enlargement (i.e. increase in measured voltage) of somatosensory evoked potentials.
+HP:0001315|Reduced tendon reflexes|腱反射减低|腱反射的降低，多为周围神经疾病较恒定的体征。|Diminution of tendon reflexes, which is an invariable sign of peripheral nerve disease.
+HP:0001317|Abnormality of the cerebellum|小脑异常|在`小脑`的异常（FMA:67944）。|An abnormality of the `cerebellum` (FMA:67944).
+HP:0001319|Neonatal hypotonia|新生儿肌张力减退|发生在新生儿期的肌张力减退（异常低肌张力）。|Muscular hypotonia (abnormally low muscle tone) manifesting in the neonatal period.
+HP:0001320|Cerebellar vermis hypoplasia|小脑蚓部发育不全|小脑（FMA:76928）的蚓部不发达。|Underdevelopment of the `vermis of cerebellum` (FMA:76928).
+HP:0001321|Cerebellar hypoplasia|小脑发育不全|小脑（FMA:67944）不发达。|Underdevelopment of the `cerebellum` (FMA:67944).
+HP:0001322|Brain very small|大脑非常小|#####|#####
+HP:0001324|Muscle weakness|肌无力|肌肉强度降低。|Reduced strength of muscles.
+HP:0001325|Hypoglycemic coma|低血糖昏迷|由低血糖导致的昏迷，静脉血浆葡萄糖浓度低于2.8mmol/L可引起。|Coma caused by low blood sugar, when venous plasma glucose concentration below 2.8mmol / L.
+HP:0001326|EEG with irregular generalized spike and wave complexes|脑电图，不规则的全面性棘慢复合波|脑电图显示的棘慢复合波（棘波时限小于80ms），整个头皮均可记录到，不具有特定的频率。|EEG shows spikes (<80 ms) and waves, which are recorded over the entire scalp and do not have a specific frequency.
+HP:0001327|Photomyoclonic seizures|光肌阵挛|#####|#####
+HP:0001328|Specific learning disability|特定的学习障碍|某些技能，如阅读或写作、协调、自我控制、或注意力受损，影响学习能力。该损害是全面性智力障碍无关。|Impairment of certain skills such as reading or writing, coordination, self-control, or attention that interfere with the ability to learn. The impairment is not related to a global deficiency of intelligence.
+HP:0001331|Absent septum pellucidum|透明隔缺如|`透明隔`缺如（FMA:61844）。|Absence of the `septum pellucidum` (FMA:61844).
+HP:0001332|Dystonia|肌张力障碍|肌张力异常增加导致固定的异常姿势。因为缓慢和间歇的扭转运动导致四肢和躯干的夸张旋转和姿势。|An abnormally increased muscular tone that causes fixed abnormal postures. There is a slow, intermittent twisting motion that leads to exaggerated turning and posture of the extremities and trunk.
+HP:0001334|Communicating hydrocephalus|交通性脑积水|一种脑积水（HP:0000238）类型，在脑室和蛛网膜下腔之间的脑脊液流动中没有可见的梗阻。|A form of `hydrocephalus` (HP:0000238) in which there is no visible obstruction to the flow of the cerebrospinal fluid between the ventricles and subarachnoid space.
+HP:0001335|Bimanual synkinesia|双手联带运动|镜像手部协同运动。|Mirror hand movements.
+HP:0001336|Myoclonus|肌阵挛|很简短，随意不自主的肌肉收缩发生在休息，以应对感官刺激，或陪同随意运动。|Very brief, involuntary random muscular contractions occurring at rest, in response to sensory stimuli, or accompanying voluntary movements.
+HP:0001337|Tremor|震颤|一种无意的，振荡的肌肉往复运动。|An unintentional, oscillating to-and-fro muscle movement.
+HP:0001338|Partial agenesis of the corpus callosum|局部胼胝体发育不全|部分胼胝体发育不足|A partial failure of the development of the corpus callosum.
+HP:0001339|Lissencephaly|无脑回畸形|先天性大脑皮层的脑回缺乏和外侧裂形成不良。|A congenital absence of the convolutions of the cerebral cortex and a poorly formed sylvian fissure.
+HP:0001340|Enhancement of the C-reflex|C-反射增强|体感诱发电位长环路反应的波幅增高，代表一种电诱发的肌阵挛反应。|Increase in amplitude of a long-loop response upon somatosensory evoked potential testing, representing an electrically evoked myoclonic response.
+HP:0001341|Olfactory lobe agenesis|嗅觉减退|嗅觉减退是指部分或全部嗅觉功能下降、丧失或异常。|An olfactory disorder is the partial or complete loss, abnormality of the olfactory functions.
+HP:0001342|Cerebral hemorrhage|脑出血|脑实质（FMA:50801）的出血(MPATH:119)。|`Hemorrhage` (MPATH:119) into the parenchyma of the `brain` (FMA:50801).
+HP:0001343|Kernicterus|核黄疸|间接胆红素水平极度升高导致的婴儿大脑核团损害。死于核黄疸的婴儿组织学上显示基底节和脑干黄染，也就是说，核黄疸严格来说是一个病理诊断。婴儿存在核黄疸意味着特征性急性或慢性胆红素引起的神经功能障碍。|Damage to cerebral nuclei caused in infants by highly increased levels of unconjugated bilirubin. The basal ganglia and brainstem nuclei could be shown to have a yellow staining historically in infants who died of kernicterus, that is, kernicterus is strictly speaking a pathological diagnosis. The presence of kernicterus may be inferred in infants with characteristic acute or chronic bilirubin-induced neurological dysfunction.
+HP:0001344|Absent speech|失语|完全没有言语和语言能力的发育。|Complete lack of development of speech and language abilities.
+HP:0001345|Psychotic mentation|精神心理状态|人的思想意识和心理情况的临时定位。|Temporary mind Orientation and psychological situation of Human 's ideology.
+HP:0001347|Hyperreflexia|反射亢进|反射的过度活动或过度反应。|The presence of overactive or overresponsive reflexes.
+HP:0001348|Brisk reflexes|反射活跃|#####|#####
+HP:0001349|Facial diplegia|双侧面瘫|双侧面瘫指双侧面部神经麻痹（双侧面部麻痹比单侧面部麻痹更罕见许多）。|Facial diplegia refers to bilateral facial palsy (bilateral facial palsy is much rarer than unilateral facial palsy).
+HP:0001350|Slurred speech|言语不清|参与发声肌肉的异常共济失调。|Abnormal coordination of muscles involved in speech.
+HP:0001351|Jerk-locked premyoclonus spikes|抽动锁时的肌阵挛前棘波|#####|#####
+HP:0001355|Megalencephaly|巨脑|大脑半球全部或部分增大。|Enlargement of all or parts of the cerebral hemispheres.
+HP:0001357|Plagiocephaly|斜头畸形|非对称的头部形状，这通常是单侧枕骨平坦化合并同侧额叶突出，从而导致菱形颅骨形态。|Asymmetric head shape, which is usually a combination of unilateral occipital flattening with ipsilateral frontal prominence, leading to rhomboid cranial shape.
+HP:0001360|Holoprosencephaly|前脑无裂畸形|前脑无裂畸形是一种发育时前脑未能分成两个单独的半球和脑室的脑结构异常。|Holoprosencephaly is a structural anomaly of the brain in which the developing forebrain fails to divide into two separate hemispheres and ventricles.
+HP:0001361|Nystagmus-induced head nodding|眼球震颤诱导点头运动|头的活动与眼球震颤相联系，这可能是企图以头颅的运动代偿眼球不自主运动，提高视力。|Head movements associated with nystagmus, that may represent an attempt to compensate for the involuntary eye movements and to improve vision.
+HP:0001362|Skull defect|颅骨缺损|由胚胎期发育异常所导致的颅骨部分缺损。缺损的部位覆盖正常的皮肤。在某些病例，头颅的X射线表明潜在的溶骨性病变在一岁之前已停止。|A localized defect in the bone of the skull resulting from abnormal embryological development. The defect is covered by normal skin. In some cases, skull x-rays have shown underlying lytic bone lesions which have closed before the age of one year.
+HP:0001363|Craniosynostosis|颅缝早闭|颅缝早闭指颅缝的过早闭合。原发性颅缝早闭指由于头骨发育异常而导致的一个或多个颅骨缝合线闭合过早，而继发性颅缝早闭指由于大脑发育失败导致的结果。|Craniosynostosis refers to the premature closure of the cranial sutures. Primary craniosynostosis refers to the closure of one or more sutures due to abnormalities in skull development, and secondary craniosynostosis results from failure of brain growth.
+HP:0001367|Abnormal joint morphology|关节形态异常|关节结构或形态异常。|An abnormal structure or form of any joints.
+HP:0001369|Arthritis|关节炎|关节的炎症。|Inflammation of a joint.
+HP:0001370|Rheumatoid arthritis|类风湿关节炎|#####|Inflammatory changes in the synovial membranes and articular structures with widespread fibrinoid degeneration of the collagen fibers in mesenchymal tissues, as well as atrophy and rarefaction of bony structures.
+HP:0001371|Flexion contracture|屈曲挛缩|屈曲挛缩指关节弯曲，不能主动或被动伸直。因此它是由于肌肉、肌腱、韧带或皮肤的结构变化导致的关节运动慢性损失，阻碍关节的正常运动。|A flexion contracture is a bent (flexed) joint that cannot be straightened actively or passively. It is thus a chronic loss of joint motion due to structural changes in muscle, tendons, ligaments, or skin that prevents normal movement of joints.
+HP:0001373|Joint dislocation|关节脱位|#####|Displacement or malalignment of joints.
+HP:0001374|Congenital hip dislocation|先天性髋关节脱位|#####|#####
+HP:0001376|Limitation of joint mobility|关节活动受限|一个或多个关节自由移动减少。|A reduction in the freedom of movement of one or more joints.
+HP:0001377|Limited elbow extension|伸肘受限|在肘关节处无法伸直手臂。|Limited ability to straighten the arm at the elbow joint.
+HP:0001379|Degenerative joint disease|退行性骨关节病|一种以关节软骨退变为特征的非炎症性退行性关节病，。|A noninflammatory degenerative joint disease marked by degeneration of the articular cartilage
+HP:0001380|Ligamentous laxity|韧带松弛|一种以韧带松弛为特征的慢性躯体疼痛。影响全身关节时，被称为广泛关节过度活动|A cause of chronic body pain characterized by loose ligaments. When this condition affects joints in the entire body, it is called generalized joint hypermobility
+HP:0001382|Joint hypermobility|关节过度活动|关节的活动能力超越正常范围。|The ability of a joint to move beyond its normal range of motion.
+HP:0001384|Abnormality of the hip joint|髋关节异常|髋关节的异常。|An abnormality of the `hip joint` (FMA:35178).
+HP:0001385|Hip dysplasia|髋关节发育不良|髋关节存在发育不良。|The presence of `developmental dysplasia` (MPATH:64) of the `hip` (FMA:24964).
+HP:0001386|Joint swelling|关节肿胀|关节肿胀|Joint swelling
+HP:0001387|Joint stiffness|关节僵硬|在静止一段时间后活动时感到关节持续性僵硬感，通常可随着时间推移而消退。|Joint stiffness is a perceived sensation of tightness in a joint or joints when attempting to move them after a period of inactivity. Joint stiffness typically subsides over time.
+HP:0001388|Joint laxity|关节松弛|关节缺乏稳定性。|Lack of stability of a joint.
+HP:0001392|Abnormality of the liver|肝脏异常|肝脏的异常。|An abnormality of the `liver` (FMA:7197).
+HP:0001394|Cirrhosis|肝硬化|肝脏的一种慢性疾病，其肝组织变得“瘢痕累累”，并且部分被再生结节和纤维组织取代，进而导致肝功能的丧失。|A chronic disorder of the `liver` (FMA:7197) in which liver tissue becomes `scarred` (PATO:0001850) and is partially replaced by regenerative nodules and fibrotic tissue resulting in loss of liver function.
+HP:0001395|Hepatic fibrosis|肝纤维化|存在于肝组织的纤维化。|The presence of `fibrosis` (MPATH:181) of the `liver` (FMA:7197) tissue.
+HP:0001396|Cholestasis|胆汁淤积|由于胆管堵塞导致的胆汁流出障碍。|Impairment of bile flow due to obstruction in bile ducts.
+HP:0001397|Hepatic steatosis|肝脂肪变性|存在于肝脏的脂肪变性。|The presence of `steatosis` (MPATH:622) in the `liver` (FMA:7197).
+HP:0001399|Hepatic failure|肝功能衰竭|#####|#####
+HP:0001400|Hepatic abscesses due to immunodeficiency|免疫缺陷性肝脓肿|#####|#####
+HP:0001401|Intrahepatic biliary dysgenesis|肝内胆管发育不良|#####|#####
+HP:0001402|Hepatocellular carcinoma|肝细胞癌|一种起源于肝细胞的肝脏肿瘤，大体上表现为肝脏中柔软、易出血的黄褐色团块。|A kind of `neoplasm of the liver` (HP:0002896) that originates in hepatocytes and presents macroscopically as a soft and hemorrhagic tan mass in the liver.
+HP:0001403|Macrovesicular hepatic steatosis|大泡性肝脂肪变性|肝脂肪变性的一种，其特征为受累的肝细胞具有大的、充满脂质的囊泡。|A form of `hepatic steatosis` (HP:0001397) characterized by the presence of large, lipid-laden vesicles in the affected hepatocytes.
+HP:0001404|Hepatocellular necrosis|肝细胞坏死|#####|#####
+HP:0001405|Periportal fibrosis|门静脉周围纤维化|累及肝小叶间质的纤维化。|The presence of `fibrosis` (MPATH:181) affecting the `interlobular stroma of liver` (FMA:17525).
+HP:0001406|Intrahepatic cholestasis|肝内胆汁淤积|由肝内小胆管阻塞引起的胆汁流动障碍。|Impairment of bile flow due to obstruction in the small bile ducts within the liver.
+HP:0001407|Hepatic cysts|肝囊肿|#####|#####
+HP:0001408|Bile duct proliferation|胆管增生|胆管的增生性改变。|Proliferative changes of the `bile ducts` (FMA:9706).
+HP:0001409|Portal hypertension|门脉高压|`门静脉压力增高。|`Increased pressure` (PATO:0001576) in the `portal vein` (FMA:66645).
+HP:0001410|Decreased liver function|肝功能下降|肝脏行使其功能的能力降低。|Reduced ability of the liver to perform its functions.
+HP:0001412|Enteroviral hepatitis|肠道病毒性肝炎|#####|#####
+HP:0001413|Micronodular cirrhosis|小结节性肝硬化|肝硬化的一种，其特征为具有小的再生性结节。|A type of `cirrhosis` (HP:0001394) characterized by the presence of small regenerative nodules.
+HP:0001414|Microvesicular hepatic steatosis|小泡性肝脂肪变性|肝脂肪变性的一种，其特征为受累肝细胞具有小的、充满脂质的囊泡。|A form of `hepatic steatosis` (HP:0001397) characterized by the presence of small, lipid-laden vesicles in the affected hepatocytes.
+HP:0001417|X-linked inheritance|X-连锁遗传|#####|A mode of inheritance that is observed for traits related to a gene encoded on the X chromosome.
+HP:0001419|X-linked recessive inheritance|X-连锁隐性遗传|#####|A mode of inheritance that is observed for recessive traits related to a gene encoded on the X chromosome. In the context of medical genetics, X-linked recessive disorders manifest in males (who have one copy of the X chromosome and are thus hemizygotes), but generally not in female heterozygotes who have one mutant and one normal allele.
+HP:0001421|Abnormality of the musculature of the hand|手部肌肉异常|#####|#####
+HP:0001423|X-linked dominant inheritance|X-连锁显性遗传|#####|A mode of inheritance that is observed for dominant traits related to a gene encoded on the X chromosome. In the context of medical genetics, X-linked dominant disorders tend to manifest very severely in affected males. The severity of manifestation in females may depend on the degree of skewed X inactivation.
+HP:0001425|Heterogeneous|异质性的|#####|#####
+HP:0001426|Multifactorial inheritance|多因素遗传|#####|A mode of inheritance that depends on a mixture of major and minor genetic determinants possibly together with environmental factors. Diseases inherited in this manner are termed complex diseases.
+HP:0001427|Mitochondrial inheritance|线粒体遗传|#####|A mode of inheritance that is observed for traits related to a gene encoded on the mitochondrial genome. Because the mitochondrial genome is essentially always maternally inherited, a mitochondrial condition can only be transmitted by females, although the condition can affect both sexes. The proportion of mutant mitochondria can vary (heteroplasmy).
+HP:0001428|Somatic mutation|体细胞突变|#####|#####
+HP:0001430|Abnormality of the calf musculature|小腿肌肉异常|#####|#####
+HP:0001433|Hepatosplenomegaly|肝脾肿大|肝脏和脾脏同时增大。|Simultaneous `enlargement` (PATO:0000586) of the `liver` (FMA:7197) and `spleen` (FMA:7196).
+HP:0001435|Abnormality of the shoulder girdle musculature|肩胛带肌肉异常|#####|#####
+HP:0001436|Abnormality of the foot musculature|足部肌肉异常|足部肌肉的异常。|An anomaly of the `musculature of foot` (FMA:50214).
+HP:0001437|Abnormality of the musculature of the lower limbs|下肢肌肉异常|#####|#####
+HP:0001438|Abnormality of the abdomen|腹部异常|腹部（肚子）的异常，即位于骨盆和胸部之间的身体部位的异常。|Abnormality of the `abdomen` (FMA:9577) ('belly'), that is, the part of the body between the pelvis and the thorax.
+HP:0001440|Synostosis involving metatarsal bones|累及跖骨的骨性融合|#####|#####
+HP:0001441|Abnormality of the musculature of the thigh|大腿肌肉异常|#####|#####
+HP:0001442|Somatic mosaicism|体细胞嵌合体|#####|The presence of genetically distinct populations of somatic cells in a given organism caused by DNA mutations, epigenetic alterations of DNA, chromosomal abnormalities or the spontaneous reversion of inherited mutations.
+HP:0001443|Abnormality of the gluteal musculature|臀肌异常|目前我们没有这一类词汇的文本定义。|Currently we do not have textual definition for this class.
+HP:0001444|Autosomal dominant somatic cell mutation|常染色体显性体细胞突变|#####|#####
+HP:0001445|Abnormality of the hip-girdle musculature|骨盆带肌异常|目前我们没有这一类词汇的文本定义。|Currently we do not have textual definition for this class.
+HP:0001446|Abnormality of the musculature of the upper limbs|上肢肌肉异常|#####|#####
+HP:0001449|Duplication of metatarsal bones|跖骨重复|#####|#####
+HP:0001450|Y-linked inheritance|#####|#####|A mode of inheritance that is observed for traits related to a gene encoded on the Y chromosome.
+HP:0001452|Autosomal dominant contiguous gene syndrome|常染色体显性邻近基因综合征|#####|#####
+HP:0001454|Abnormality of the upper arm|上臂异常|#####|#####
+HP:0001457|Abnormality of the musculature of the upper arm|上臂肌肉异常|#####|#####
+HP:0001459|1-3 toe syndactyly|第1-3趾并趾|第1-3趾融合型并趾。|`1-3 toe syndactyly means the fusion of 1st to 3rd toe.
+HP:0001460|aplasia/Hypoplasia involving the musculature|肌肉发育不全|肌肉组织缺失或发育不良。|Absence or underdevelopment of the musculature.
+HP:0001464|aplasia/Hypoplasia involving the shoulder musculature|肩部肌肉发育不全或发育低下|肩部的肌肉不发达或缺如。|Absence or underdevelopment of the muscles of the shoulder.
+HP:0001465|Amyotrophy involving the shoulder musculature|肩部肌肉萎缩|#####|#####
+HP:0001466|Contiguous gene syndrome|邻近基因综合征|#####|#####
+HP:0001467|aplasia/Hypoplasia involving the musculature of the upper limbs|上肢肌肉发育不全或发育低下|上肢的肌肉不发达或缺如。|Absence or underdevelopment of the musculature of the upper limbs.
+HP:0001468|aplasia/Hypoplasia involving the musculature of the upper arm|上臂肌肉发育不全或发育低下|上臂的肌肉不发达或缺如。|Absence or underdevelopment of the muscles of the upper arm.
+HP:0001469|Abnormality of the musculature of the pelvis|骨盆肌异常|目前我们没有这一类词汇的文本定义。|Currently we do not have textual definition for this class.
+HP:0001470|Sex-limited autosomal dominant|限性常染色体显性|#####|#####
+HP:0001471|aplasia/Hypoplasia of the musculature of the pelvis|骨盆肌肉发育不全|目前我们没有这一类词汇的文本定义。|Currently we do not have textual definition for this class.
+HP:0001472|Familial predisposition|家族倾向性|#####|#####
+HP:0001473|Metatarsal osteolysis|跖骨溶骨|溶骨累及跖骨。|Osteolysis involving metatarsal bones.
+HP:0001474|Sclerotic scapulae|肩胛骨硬化|肩胛骨的骨组织密度增加。|Increased density of the bony tissue of the scapula.
+HP:0001475|Male-limited autosomal dominant|限男性常染色体显性|#####|#####
+HP:0001476|Delayed closure of the anterior fontanelle|前囟闭合延迟|前囟闭合（骨化）延迟，一般出生后18个月闭合|A delay in closure (ossification) of the anterior fontanelle, which generally undergoes closure around the 18th month of life.
+HP:0001477|Compensatory chin elevation|补偿的下巴抬高|由于眼球运动受限，患者下巴抬高约20至30度以补偿眼睛运动的限制。|A tendency to hold the child elevated by about 20 to 30 degrees to compensate for a limitation of eye movement.
+HP:0001480|Freckling|雀斑|#####|#####
+HP:0001482|Subcutaneous nodule|皮下结节|直径大于5mm的皮肤轻度隆起。|Slightly elevated lesions on or in the skin with a diameter of over 5 mm.
+HP:0001483|Eye poking|戳眼|重复按压，戳，和/或揉眼睛。|Repetitive pressing, poking, and/or rubbing in the eyes.
+HP:0001487|Hypopigmented fundi|眼底色素减退|眼底色素减少|Hypopigmented fundi
+HP:0001488|Bilateral ptosis|双侧眼睑下垂|双侧眼睑的下垂。|Bilateral ptosis
+HP:0001489|Vitreous detachment|玻璃体脱离|玻璃体后部的脱离。|Vitreous detachment
+HP:0001491|Congenital fibrosis of extraocular muscles|先天性眼外肌纤维化|先天性非进行性多条眼外肌麻痹。通常情况下，有下垂和不同程度的水平和垂直眼球运动的限制。|Congenital non-progressive ophthalmoplegia with multiple extraocular muscle restrictions. Typically, there is ptosis and variable degrees of restriction of horizontal and vertical eye movements.
+HP:0001492|Axenfeld anomaly|Axenfeld 综合征|Axenfeld 综合征主要表现为双眼Schwalbe线及周边虹膜线前移，虹膜线跨越前房角附着到Schwalbe线。|Axenfeld's anomaly is a bilateral disorder characterized by a prominent, anteriorly displaced Schwalbe's line (posterior embryotoxon) and peripheral iris strands which span the anterior chamber angle to attach to Schwalbe's line.
+HP:0001493|Falciform retinal fold|镰状视网膜皱襞|视网膜的局部区域皱褶，使得一个扇形片的视网膜位于正常视网膜的前面。属于先天性疾病。|An area of the retina that is buckled so that a sector-shaped sheet of retina lies in front of the normal retina. This feature is of congenital onset.
+HP:0001495|Carpal osteolysis|腕骨溶骨|溶骨累及腕骨。|Osteolysis affecting carpal bones.
+HP:0001498|Carpal bone hypoplasia|腕骨骨发育低下|一个或多个腕骨（FMA:23889）的发育不全。|Underdevelopment of one or more `carpal bones`  (FMA:23889).
+HP:0001500|Broad finger|宽指|非拇指的手指宽度增大。|Increased width of a non-thumb digit of the hand.
+HP:0001501|6 metacarpals|6掌骨畸形|在手腕与手指间有6块掌骨。|6 metacarpals means there are 6 bones of the hand between the wrist and fingers totally .
+HP:0001504|Metacarpal osteolysis|掌骨溶骨|#####|#####
+HP:0001507|Growth abnormality|生长异常|#####|#####
+HP:0001508|Failure to thrive|不能生长发育|不能生长发育（FTT）是指孩子的身体生长明显低于正常。|Failure to thrive (FTT) refers to a child whose physical growth is substantially below the norm.
+HP:0001510|Growth delay|生长延迟|长前和出生后生长缓慢或缺乏。|A deficiency or slowing down of growth pre- and postnatally.
+HP:0001511|Intrauterine growth retardation|胎儿宫内发育迟缓|胎儿生长异常受限，胎儿体重低于该孕龄体重第十百分位以下。|An abnormal restriction of fetal growth with fetal weight below the tenth percentile for gestational age.
+HP:0001513|Obesity|肥胖|体重严重高于可接受或期望重量，通常是由于过量的脂肪在体内蓄积。该标准可能随年龄、性别、遗传或文化背景不同而变化。就身体质量指数（BMI）而言，当BMI大于30.0kg/m2被认为是肥胖，BMI大于40.0kg/m2被认为是病态肥胖。|Body weight that is grossly above the acceptable or desirable weight, usually due to accumulation of excess fats in the body. The standards may vary with age, sex, genetic or cultural background. In the body mass index (BMI), a BMI greater than 30.0 kg/m2 is considered obese, and a BMI greater than 40.0 kg/m2 is considered morbidly obese.
+HP:0001518|Small for gestational age|小于胎龄儿|体型小于该性别该孕龄相关标准体型，定义为重量位于该孕龄重量第十百分位以下。|Smaller than normal size according to sex and gestational age related norms, defined as a weight below the 10th percentile for the gestational age.
+HP:0001519|Disproportionate tall stature|不成比例的高身材|一个高大苗条的身材，伴随臂展与身高比增加（> 1.05）和上半身与下半身比降低（<0.85），即，超长的胳膊和腿。四肢及手脚都异常苗条。|A tall and slim body build with increased arm span to height ratio (>1.05) and a reduced upper-to-lower segment ratio (<0.85), i.e., unusually long arms and legs. The extremities as well as the hands and feet are unusually slim.
+HP:0001520|Large for gestational age|大于胎龄儿|大于胎龄儿指婴儿出生时体重大于该孕龄体重90百分位以上。|The term large for gestational age applies to babies whose birth weight lies above the 90th percentile for that gestational age.
+HP:0001522|Death in infancy|婴儿期夭折|#####|Death within the first 24 months of life.
+HP:0001525|Severe failure to thrive|严重生长不旺|#####|#####
+HP:0001528|Hemihypertrophy|偏身肥大|一侧身体过度生长。|Overgrowth of only one side of the body.
+HP:0001530|Mild postnatal growth retardation|轻度产后发育迟缓|轻微程度的产后生长迟缓或受限，程度在该年龄和性别平均水平负2标准差到负3标准差之间。|A mild degree of slow or limited growth after birth, being between two and three standard deviations below age- and sex-related norms.
+HP:0001531|Failure to thrive in infancy|婴儿期生长不旺|#####|#####
+HP:0001533|Slender build|修长的身材|瘦长体型指伴有长四肢，消瘦外形和突出的肌肉或骨骼的修长身材。|Asthenic habitus refers to a slender build with long limbs, an angular profile, and prominent muscles or bones.
+HP:0001537|Umbilical hernia|脐疝|腹腔脏器经由脐周围腹壁肌肉之缺口而突出。皮肤和皮下组织覆盖这一缺口。|Protrusion of abdominal contents through a defect in the abdominal wall musculature around the umbilicus. Skin and subcutaneous tissue overlie the defect.
+HP:0001538|Protuberant abdomen|腹部隆凸|#####|A thrusting or bulging out of the abdomen.
+HP:0001539|Omphalocele|脐膨出|腹部脏器经由腹壁前部中线的不完全闭合而疝入脐带基部。|A midline anterior `incomplete closure` (PATO:0000609) of the `abdominal wall` (FMA:259054) in which there is herniation of the abdominal viscera into the base of the abdominal cord.
+HP:0001540|Diastasis recti|腹直肌分离|腹直肌分离为左右两部分（它们通常在腹白线中线处连接）。|A separation of the rectus abdominis muscle into right and left halves (which are normally joined at the midline at the linea alba).
+HP:0001541|Ascites|腹水|腹腔中的液体积聚。|Accumulation of fluid in the peritoneal cavity.

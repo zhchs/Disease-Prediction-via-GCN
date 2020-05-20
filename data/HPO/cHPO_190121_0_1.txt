@@ -1,0 +1,306 @@
+HP:0002058|Myopathic facies|肌病性面容|面容呈现肌病状态。由于肌肉无力，面部呈现双颊凹陷，双侧上睑下垂，以及嘴角下垂状态。|A facial appearance characteristic of myopathic conditions. The face appears expressionless with sunken cheeks, bilateral ptosis, and inability to elevate the corners of the mouth, due to muscle weakness.
+HP:0002059|Cerebral atrophy|脑萎缩|大脑萎缩（缩小，细胞数量或组织体积减少）。|Atrophy (wasting, decrease in size of cells or tissue) affecting the cerebrum.
+HP:0002060|Abnormality of the cerebrum|大脑异常|大脑，也被称为`端脑`（FMA:62000）的异常。|An abnormality of the `telencephalon` (FMA:62000), which is also known as the cerebrum.
+HP:0002061|Lower limb spasticity|下肢痉挛|特点是随着肌张力增高速度依赖的下肢牵张反射增加、腱反射亢进（高兴奋性）的运动障碍。|A motor disorder characterized by a velocity-dependent increase in tonic stretch reflexes with increased muscle tone, exaggerated (hyperexcitable) tendon reflexes in the lower limbs.
+HP:0002062|Morphological abnormality of the pyramidal tract|锥体束的形态异常|所有锥体束（FMA:72634）的结构异常，其主要成分，皮质脊髓束，是脑和脊髓之间唯一的直接连接。除了皮质脊髓束，锥体系统包括皮质延髓束，皮质中脑束，皮质脑桥束。|Any structural abnormality of the `pyramidal tract` (FMA:72634), whose chief element, the corticospinal tract, is the only direct connection between the brain and the spinal cord. In addition to the corticospinal tract, the pyramidal system includes the corticobulbar, corticomesencephalic, and corticopontine tracts.
+HP:0002063|Rigidity|强直|连续持续性不自主的肌肉收缩。当受影响的肌肉被动拉伸，无论肌肉的受牵拉稠度怎样，拮抗的程度保持恒定。此功能有助于区分肌肉痉挛还是强直。|Continuous involuntary sustained muscle contraction. When an affected muscle is passively stretched, the degree of resistance remains constant regardless of the rate at which the muscle is stretched. This feature helps to distinguish rigidity from muscle spasticity.
+HP:0002064|Spastic gait|痉挛步态|#####|#####
+HP:0002066|Gait ataxia|步态共济失调|`共济失调`(HP:0001251)的一种类型，表现为正常行走时所需的协同运动能力受损。|A type of `ataxia` (HP:0001251) characterized by the impairment of the ability to coordinate the movements required for normal walking.
+HP:0002067|Bradykinesia|运动迟缓|运动迟缓的字面意思是缓慢运动，临床上用于表示运动执行缓慢（相对于运动减少，这是用来指运动的起始缓慢）。|Bradykinesia literally means slow movement, and is used clinically to denote a slowness in the execution of movement (in contrast to hypokinesia, which is used to refer to slowness in the initiation of movement).
+HP:0002068|Neuromuscular dysphagia|神经肌肉源性吞咽困难|#####|#####
+HP:0002069|Generalized tonic-clonic seizures|全面性强直-阵挛发作|全面性强直-阵挛发作是全面性发作（HP:0002197），躯体肌肉双侧对称性强直收缩，然后阵挛性收缩，通常伴有自主神经症状。|Generalized tonic-clonic seizures are `generalized seizures` (HP:0002197) with bilateral symmetrical tonic contraction then bilateral clonic contractions of somatic muscles usually associated with autonomic phenomena.
+HP:0002070|Limb ataxia|肢体共济失调|影响肢体运动的一种共济失调（HP:0001251）。|A kind of `ataxia` (HP:0001251) that affects movements of the extremities.
+HP:0002071|Abnormality of extrapyramidal motor function|锥体外系功能障碍|与基底节病变导致神经状态异常，典型的表现包括运动不能（无法启动动作，或不能迅速和容易地进行随意运动），肌强直（广泛的无节律的肌肉快速持续收缩），舞蹈症（普遍一个强制，快速，干，和不宁性质）的心律失常的动作，手足徐动症（不能维持手指，脚趾，或其他组的肌肉中的固定位置的肌肉），和静坐不能（不能保持不动）。|A neurological condition related to lesions of the basal ganglia leading to typical abnormalities including akinesia (inability to initiate changes in activity and perform volitional movements rapidly and easily), muscular rigidity (continuous contraction of muscles with constant resistance to passive movement), chorea (widespread arrhythmic movements of a forcible, rapid, jerky, and restless nature), athetosis (inability to sustain the muscles of the fingers, toes, or other group of muscles in a fixed position), and akathisia (inability to remain motionless).
+HP:0002072|Chorea|舞蹈样运动|舞蹈样运动（希腊文“跳舞”），指的是广泛无节奏的不自主强行运动，表现为抽动样，坐立不安。|Chorea (Greek for 'dance') refers to widespread arrhythmic involuntary movements of a forcible, jerky and restless fashion.
+HP:0002073|Progressive cerebellar ataxia|进行性小脑共济失调|#####|#####
+HP:0002074|Increased neuronal autofluorescent lipopigment|神经元自体荧光脂褐素增加|脂褐素，自体荧光脂褐素的专业术语，是积聚在最衰老细胞的蛋白质和脂质混合物，尤其是涉及高脂质转换（例如，肾上腺髓质）或吞噬的其他类型细胞（例如视网膜色素上皮细胞或RPE；巨噬细胞）。此术语适用于神经元脂褐素（也称为自身荧光脂蛋白）的积聚增加是否超过患者预期的年龄。|Lipofuscin, a generic term applied to autofluorescent lipopigment, is a mixture of protein and lipid that accumulates in most aging cells, particularly those involved in high lipid turnover (e.g., the adrenal medulla) or phagocytosis of other cell types (e g., the retinal pigment epithelium or RPE; macrophage). This term pertains if there is an increase in the neuronal accumulation of lipofuscin (also known as autofluorescent lipoprotein) more than expected for the age of the patient.
+HP:0002075|Dysdiadochokinesis|轮替运动障碍|`共济失调`（HP:0001251）的表现之一，表现为进行快速交替运动的功能受损，比如不能有节奏地用手拍打膝盖，一般为小脑病变所致。|A type of `ataxia` (HP:0001251) characterized by the impairment of the ability to perform rapidly alternating movements, such as rhythmically tapping the fingers on the knee, generally related to a cerebellar lesion.
+HP:0002076|Migraine|偏头痛|偏头痛是一种慢性神经系统疾病，特点是发作性头痛及相关症状。|Migraine is a chronic neurological disorder characterized by episodic attacks of headache and associated symptoms.
+HP:0002077|Migraine with aura|有先兆偏头痛|偏头痛（HP:0002076）的一种类型，先兆的特点为局灶性神经现象，通常进行性的，可伴有或不伴有头痛。先兆的症状可以包括完全可逆的视觉，感觉，和言语症状，但没有运动无力。视觉症状可能包括闪光、点、线和/或视觉缺失，和/或单侧感觉症状诸如感觉异常或麻木。至少一个的先兆症状逐渐发展超过5分钟或更长时间，和/或不同的症状连续发生。|A type of `migraine` (HP:0002076) in which there is an aura characterized by focal neurological phenomena that usually proceed, but may accompany or occur in the absence of, the headache. The symptoms of an aura may include fully reversible visual, sensory, and speech symptoms but not motor weakness. Visual symptoms may include flickering lights, spots and lines and/or loss of vision and/or unilateral sensory symptoms such as paresthesias or numbness. At least one of the symptoms of an aura develops gradually over 5 or more minutes and/or different symptoms occur in succession.
+HP:0002078|Truncal ataxia|躯干性共济失调|一种影响近端肌肉的共济失调（HP:0001251），尤其是那些参与步态稳定的肌肉。|A kind of `ataxia` (HP:0001251) that affects the proximal musculature, especially that involved in gait stability.
+HP:0002079|Hypoplasia of the corpus callosum|胼胝体发育不良|胼胝体发育不完全。|Underdevelopment of the corpus callosum.
+HP:0002080|Intention tremor|意向性震颤|摆动性小脑性共济失调，肢体静止或刚开始随意运动时消失，持续运动和需要更加精准时加重（例如，触摸目标如患者的鼻子或医生的手指） 。|An oscillatory cerebellar ataxia that tends to be absent when the limbs are inactive and during the first part of voluntary movement but worsening as the movement continues and greater precision is required (e.g., in touching a target such as the patient's nose or a physician's finger).
+HP:0002083|Migraine without aura|无先兆偏头痛|反复的头痛发作持续4-72小时，符合至少下列两个的标准:1）单侧，2）搏动性，3）中度或重度疼痛，和4）日常体力活动可加重，避免日常活动避免如爬楼梯。头痛发作通常伴有恶心，呕吐，畏光，或畏声。|Repeated headache attacks lasting 4-72 h fulfilling at least two of the following criteria: 1) unilateral location, 2) pulsating quality, 3) moderate or severe pain intensity, and 4) aggravation by or causing avoidance of routine physical activity such as climbing stairs. Headache attacks are commonly accompanied by nausea, vomiting, photophobia, or phonophobia.
+HP:0002084|Encephalocele|脑膨出|一种神经管缺陷，其特征为脑的囊样突起，以及颅骨开口处覆盖脑的膜上的囊样突起。|A neural tube defect characterized by sac-like protrusions of the brain and the membranes that cover it through openings in the skull.
+HP:0002085|Occipital encephalocele|枕部脑膨出|一种发生在颅骨的枕骨区域的脑膨出（即，颅内容物包括脑组织从通常覆盖有皮肤或粘膜的头盖骨上的先天性开口突出去）。枕叶脑膨出表现为枕骨中线肿胀，通常有正常厚度的头皮覆盖。|A type of encephalocele (that is, a a protrusion of part of the cranial contents including brain tissue through a congenital opening in the cranium, typically covered with skin or mucous membrane) in the occipital region of the skull. Occipital encephalocele presents as a midline swelling over the occipital bone. It is usually covered with normal full-thickness scalp.
+HP:0002086|Abnormality of the respiratory system|呼吸系统异常|呼吸系统（FMA:7158）的异常，包括呼吸道，肺部和呼吸肌。|An abnormality of the `respiratory system` (FMA:7158), which include the airways, lungs, and the respiratory muscles.
+HP:0002087|Abnormality of the upper respiratory tract|上呼吸道异常|`上呼吸道`（FMA:45661）的异常。|An abnormality of the `upper respiratory tract` (FMA:45661).
+HP:0002088|Abnormality of the lung|肺部异常|肺部（FMA:7195）的异常。|An abnormality of the `lung` (FMA:7195).
+HP:0002089|Pulmonary hypoplasia|肺发育不良|#####|#####
+HP:0002090|Pneumonia|肺炎|肺实质任何部分的炎症。|Inflammation of any part of the lung parenchyma.
+HP:0002091|Restrictive lung disease|限制性肺疾病|#####|#####
+HP:0002092|Pulmonary hypertension|肺动脉高压|肺动脉高血压被定义为在休息平均肺动脉压大于25毫米汞柱（正常水平10毫米汞柱），或在锻炼期间大于30毫米汞柱（正常水平15毫米汞柱）。肺动脉压力通过右心脏导管检查来确定。|Pulmonary hypertension is defined as a mean pulmonary artery pressure greater than 25 mm Hg during rest (normal level, 10 mm Hg) or greater than 30 mm Hg during exercise (normal level, 15 mm Hg), as determined with right heart catheterization.
+HP:0002093|Respiratory insufficiency|呼吸功能不全|不能为机体细胞提供充足的氧气和除去过量的二氧化碳。|Failure to adequately provide oxygen to cells of the body and to remove excess carbon dioxide.
+HP:0002094|Dyspnea|呼吸困难|呼吸费力或劳力性呼吸困难。|Difficult or labored breathing.
+HP:0002097|Emphysema|肺气肿|#####|#####
+HP:0002098|Respiratory distress|呼吸窘迫|#####|#####
+HP:0002099|Asthma|哮喘|哮喘患者的气管支气管树因多种应激因素导致气道狭窄，引起呼吸困难、咳嗽、喘息等表现。|Asthma is characterized by increased responsiveness of the tracheobronchial tree to multiple stimuli, leading to narrowing of the air passages with resultant dyspnea, cough, and wheezing.
+HP:0002100|Recurrent aspiration pneumonia|反复吸入性肺炎|由吸入性肺炎易感性增加导致。反复吸入性肺炎是由于吸入异物导致的肺炎，表现为吸入性肺炎反复性发作。|Increased susceptibility to aspiration pneumonia, defined as pneumonia due to breathing in foreign material, as manifested by a medical history of repeated episodes of aspiration pneumonia.
+HP:0002101|Abnormal lung lobation|肺分叶异常|肺叶形成时的缺陷。|Defects in the formation of pulmonary lobules.
+HP:0002102|Pleuritis|胸膜炎|胸膜炎症。|Inflammation of the pleura.
+HP:0002103|Abnormality of the pleura|胸膜异常|是胸膜的异常。胸膜(FMA:9734)是覆盖在肺与内侧胸壁的薄而透明的膜。|An abnormality of the `pulmonary pleura` (FMA:9734), the thin, transparent membrane which covers the lungs and lines the inside of the chest walls.
+HP:0002104|Apnea|呼吸暂停|呼吸肌无运动，肺中无气体交换。这个术语指呼吸暂停反复发作，而不是一个单一的事件。|Lack of breathing with no movement of the respiratory muscles and no exchange of air in the lungs. This term refers to a disposition to have recurrent episodes of apnea rather than to a single event.
+HP:0002105|Hemoptysis|咯血|从喉、气管、支气管或肺部咳出血或血丝痰。|Coughing up (expectoration) of blood or blood-streaked sputum from the larynx, trachea, bronchi, or lungs.
+HP:0002107|Pneumothorax|气胸|胸腔内气体积聚，导致肺部分或完全萎陷。|Accumulation of air in the pleural cavity leading to a partially or completely collapsed lung.
+HP:0002108|Spontaneous pneumothorax|自发性气胸|胸部或肺无外伤时发生的气胸。|Pneumothorax occurring without traumatic injury to the chest or lung.
+HP:0002109|Abnormality of the bronchi|支气管异常|支气管（FMA:70774）的结构异常。|An abnormality of the `set of bronchi`(FMA:70774).
+HP:0002110|Bronchiectasis|支气管扩张|由于局部不可逆转的结构破坏和大气道的扩张，导致支气管的持续异常扩张。|Persistent abnormal dilatation of the bronchi owing to localized and irreversible destruction and widening of the large airways.
+HP:0002111|Restrictive respiratory insufficiency|限制性呼吸功能不全|#####|#####
+HP:0002113|Pulmonary infiltrates|肺浸润|#####|#####
+HP:0002118|Abnormality of the cerebral ventricles|脑室异常|在`脑室`的异常（FMA:275917）。|Abnormality of the `cerebral ventricles` (FMA:275917).
+HP:0002119|Ventriculomegaly|巨脑室|脑的脑室系统容积增大。|An increase in size of the ventricular system of the brain.
+HP:0002120|Cerebral cortical atrophy|大脑皮层萎缩|萎缩的大脑皮质。|Atrophy of the cortex of the cerebrum.
+HP:0002121|Absence seizures|失神发作|复发性失神发作是种全面性癫痫发作（HP:0002197），其特点是意识丧失，因此，是一种`呆滞性癫痫发作`形式（HP:0011146）。|Recurrent absence seizures are `generalized seizures` (HP:0002197) and are characterized by a loss of consciousness, thus, are a form of `dialeptic seizures` (HP:0011146).
+HP:0002123|Generalized myoclonic seizures|全身性肌阵挛发作|癫痫发作，突然、短暂的（<100毫秒）的单块肌肉或肌群不自主地单次或多次不规则收缩（轴性，四肢近端，远端）。|Seizures with sudden, brief (< 100 msec) involuntary single or multiple contraction(s) of muscles(s) or muscle groups of variable topography (axial, proximal limb, distal).
+HP:0002126|Polymicrogyria|多小脑回|大脑半球的特征在于小脑回（卷积）数量过多的大脑的表面上的先天性异常。|A congenital abnormality of the cerebral hemisphere characterized by an excessive number of small gyri (convolutions) on the surface of the brain.
+HP:0002127|Upper motor neuron abnormality|上运动神经元异常|#####|#####
+HP:0002131|Episodic ataxia|发作性共济失调|周期性发作的不协调和不平衡。|Periodic spells of incoordination and imbalance.
+HP:0002132|Porencephaly|脑穿通畸形|大脑中有充满脑脊液的囊性结构或空腔。|A disorder of the brain in which a cyst or cavity filled with cerebrospinal fluid develops in the cerebral hemisphere.
+HP:0002133|Status epilepticus|癫痫持续状态|发作持续时间超过30分钟或更长时间或多次癫痫频繁重复发作，发作之间未恢复知觉。|Seizures lasting for more than 30 minutes or longer or multiple seizures repeated frequently without regaining consciousness between seizures.
+HP:0002134|Abnormality of the basal ganglia|基底节异常|`基底节`的异常（FMA:84013）。|Abnormality of the `basal ganglia` (FMA:84013).
+HP:0002135|Basal ganglia calcification|基底节钙化|出现在基底节区（FMA:84013）的钙沉积(MPATH:36)，可累及一个或多个基底节区核团。|The presence of `calcium deposition` (MPATH:36) affecting one or more structures of the `basal ganglia` (FMA:84013).
+HP:0002136|Broad-based gait|宽基步态|是一种异常的步态模式，站立和行走时双脚距离很宽。这往往是小脑性共济失调的组成部分。|An abnormal gait pattern in which persons stand and walk with their feet spaced widely apart. This is often a component of cerebellar ataxia.
+HP:0002138|Subarachnoid hemorrhage|蛛网膜下腔出血|发生在蛛网膜（FMA:9591）和软脑膜（FMA:9590）之间的出血（MPATH:119）。|`Hemorrhage` (MPATH:119) occurring between the `arachnoid mater` (FMA:9591) and the `pia mater` (FMA:9590).
+HP:0002139|Arrhinencephaly|无鼻无脑畸形|#####|#####
+HP:0002140|Ischemic stroke|缺血性脑卒中|脑局部区域丧失血液循环，导致相应的神经系统功能缺陷。|#####
+HP:0002141|Gait imbalance|步态失衡|#####|#####
+HP:0002143|Abnormality of the spinal cord|脊髓异常|在`脊髓`的异常（FMA:7647）。|An abnormality of the `spinal cord` (FMA:7647) (myelon).
+HP:0002144|Tethered cord|脊髓栓系|在正常的胚胎发育中，脊髓最初占据整个脊柱的长度，但随着脊髓圆锥和椎体的分化、生长，最终位于L1水平的位置。终丝是远侧胚胎脊髓退缩之后形成的一种细长的线状结构并将脊髓附着在尾骨上。如果有一根粗大的绳子样的终丝将脊髓固定在L2水平或以下就会导致脊髓栓系，并且可能会因为脊髓收到的异常张力而导致神经系统体征。|During normal embryological development, the spinal cord first occupies the entire length of the vertebral column but goes on to assume a position at the level of L1 due to differential growth of the conus medullaris and the vertebral column. The filum terminale is a slender, threadlike structure that remains after the normal regression of the distal embryonic spinal cord and attaches the spinal cord to the coccyx. A tethered cord results if there is a thickened rope-like filum terminale which anchors the cord at the level of L2 or below, potentially causing neurologic signs owing to abnormal tension on the spinal cord.
+HP:0002145|Frontotemporal dementia|额颞叶痴呆|额颞叶功能退变引起的痴呆类型，临床表现为个性和行为改变，如脱抑制行为，冷漠和自知力缺乏。|A dementia associated with degeneration of the frontotemporal lobe and clinically associated with personality and behavioral changes such as disinhibition, apathy, and lack of insight.
+HP:0002148|Hypophosphatemia|低磷血症|`血`（FMA:9670）中`磷酸盐 `（CHEBI：18367）的浓度异常降低 。|An abnormally decreased `phosphate` (CHEBI:18367) concentration in the `blood` (FMA:9670).
+HP:0002149|Hyperuricemia|高尿酸血症|`血`（FMA：9670）中`尿酸`（27226 CHEBI）的水平异常增高。|An abnormally high level of `uric acid` (CHEBI:27226) in the `blood` (FMA:9670).
+HP:0002150|Hypercalciuria|高钙尿症|#####|#####
+HP:0002151|Increased serum lactate|血清乳酸增高|血液`乳酸 `（CHEBI：24996)（2-羟基丙酸）的异常增加。乳酸是在正常代谢过程中由乳酸脱氢酶代谢产生的丙酮酸而来。|Abnormally increased level of blood `lactate` (CHEBI:24996)  (2-hydroxypropanoic acid). Lactate is produced from pyruvate by lactate dehydrogenase during normal metabolism.
+HP:0002152|Hyperproteinemia|高蛋白血症|`血 `（FMA：9670）中的`蛋白`（CHEBI：36080）的`浓度增加 `（0001162 PATO）。|An `increased concentration` (PATO:0001162) of `proteins` (CHEBI:36080) in the `blood` (FMA:9670).
+HP:0002153|Hyperkalemia|高钾血症|血液中`钾`（CHEBI：29103） 的浓度异常增加 。|An abnormally increased `potassium` (CHEBI:29103) concentration in the blood.
+HP:0002154|Hyperglycinemia|高甘氨酸血症|#####|An elevated concentration of `glycine` (CHEBI:15428) in the `blood` (FMA:9670).
+HP:0002155|Hypertriglyceridemia|高甘油三酯血症|`血`（FMA：9670）中'甘油三酯 `（17855 CHEBI）水平的异常增加。|An abnormal increase in the level of `triglycerides` (CHEBI:17855) in the `blood` (FMA:9670).
+HP:0002156|Homocystinuria|高胱氨酸尿症|#####|An increased concentration of `homocystine` (CHEBI:17485) in the `urine` (FMA:12274).
+HP:0002157|Azotemia|氮质血症|`血液`（FMA：9670）中'氮化合物`(CHEBI:51143)的浓度增加。|An increased concentration of `nitrogen compounds` (CHEBI:51143) in the `blood` (FMA:9670).
+HP:0002159|Heparan sulfate excretion in urine|尿中硫酸乙酰肝素排泄|#####|An `increased concentration` (PATO:0001162) of `heparan sulfates` (CHEBI:35721) in the `urine` (FMA:12274).
+HP:0002160|Hyperhomocystinemia|高同型半胱氨酸血症|#####|An increased concentration of `homocystine` (CHEBI:17485) in the `blood` (FMA:9670).
+HP:0002161|Hyperlysinemia|高赖氨酸血症|`血`（FMA：9670）中`赖氨酸`（25094 CHEBI）的浓度增加。|An increased concentration of `lysine` (CHEBI:25094) in the `blood` (FMA:9670).
+HP:0002162|Low posterior hairline|后发际低|脖子上的头发延伸异常。|Hair on the neck extends more inferiorly than usual.
+HP:0002164|Nail dysplasia|甲发育不良|甲的发育不良。|The presence of `developmental dysplasia` (MPATH:64) of the `nail` (FMA:54326).
+HP:0002165|Pterygium formation (nails)|甲胬肉|#####|#####
+HP:0002166|Impaired vibration sensation in the lower limbs|下肢振动觉障碍|腿感知振动的能力下降。|A decrease in the ability to perceive vibration in the legs.
+HP:0002167|Neurological speech impairment|神经语言障碍|#####|#####
+HP:0002168|Scanning speech|断续言语|#####|#####
+HP:0002169|Clonus|阵挛|对一个突然施加并持续拉伸的外力做出的回应，出现一系列有节律、不自主的肌肉收缩（频率约为5-7赫兹）。|A series of rhythmic and involuntary muscle contractions (at a frequency of about 5 to 7 Hz) that occur in response to an abruptly applied and sustained stretch.
+HP:0002170|Intracranial hemorrhage|颅内出血|发生在颅内（FMA:46565）的出血（MPATH:119）。|`Hemorrhage` (MPATH:119) occurring within the `skull` (FMA:46565).
+HP:0002171|Gliosis|胶质细胞增生|存在于'中枢神经系统`（FMA:55675）的`胶质细胞增生` (MPATH:182)。|The presence of `gliosis` (MPATH:182) in the `central nervous system` (FMA:55675).
+HP:0002172|Postural instability|姿势不稳|由于平衡系统、脊柱或下肢骨骼、肌肉异常，引起下肢行走不利，步态异常。|As the balance system, spine or lower limb skeletal, muscle abnormalities, causing lower limb walking adverse and gait abnormalities.
+HP:0002173|Hypoglycemic seizures|低血糖发作|由多种原因引起的血糖浓度过低所致。一般以血浆血糖浓度<2.8mmol/L，可引起交感神经兴奋症群，如激动不安、饥饿、软弱、出汗、心动过速、收缩压升高、舒张压降低、震颤，一过性黑蒙，意识障碍，甚至昏迷。|Due to a variety of reasons caused by low blood sugar concentration, usually with plasma glucose concentration <2.8mmol / L, which can cause sympathetic excitability , such as agitation, hunger, weakness, sweating, tachycardia, systolic blood pressure, diastolic blood pressure, tremor, disturbance of consciousness, and even coma.
+HP:0002174|Postural tremor|体位性震颤|当固定肢体在一个位置时诱发的震颤。|A type of tremors that is triggered by holding a limb in a fixed position.
+HP:0002176|Spinal cord compression|脊髓受压|脊髓受到外部机械压缩。|External mechanical compression of the spinal cord.
+HP:0002179|Opisthotonus|角弓反张|#####|Ankylosing spasticity of the back muscles that causes the head and lower limbs to bend back and the torso forward into an arcuate state,which can be found in a variety of causes of encephalitis, meningitis.
+HP:0002180|Neurodegeneration|神经退行性疾病|逐渐丢失的神经元细胞和神经组织。|Progressive loss of neural cells and tissue.
+HP:0002181|Cerebral edema|脑水肿|大脑内液体异常蓄积。|Abnormal accumulation of fluid in the brain.
+HP:0002183|Phonophobia|声音恐惧|对高分贝声音异常敏感。|An abnormally heightened sensitivity to loud sounds.
+HP:0002185|Neurofibrillary tangles|神经原纤维缠结|称为tau蛋白的微管相关蛋白过度磷酸化之后形成病理性蛋白，聚合形成不溶性形式|Pathological protein aggregates formed by hyperphosphorylation of a microtubule-associated protein known as tau, causing it to aggregate in an insoluble form.
+HP:0002186|Apraxia|失用|在复杂运动指令的理解和在某些已学习动作的执行方面的缺陷，如在认知已学习运动的成分的缺陷。|A defect in the understanding of complex motor commands and in the execution of certain learned movements, i.e., deficits in the cognitive components of learned movements.
+HP:0002187|Intellectual disability, profound|极重度智力残疾|极重度精神发育迟滞定义为智商（IQ）低于20。|Profound mental retardation is defined as an intelligence quotient (IQ) below 20.
+HP:0002188|Delayed CNS myelination|中枢神经系统的髓鞘化延迟|中枢神经系统的髓鞘形成（GO:0042552）延迟（PATO:0000502）。|`Delayed` (PATO:0000502) `myelination` (GO:0042552) in the central nervous system.
+HP:0002189|Excessive daytime sleepiness|白天过度睡眠|#####|#####
+HP:0002190|Choroid plexus cyst|脉络丛囊肿|脑室脉络丛（FMA:61934）内出现的囊肿。|A cyst occurring within the `choroid plexus` (FMA:61934) within a cerebral ventricle.
+HP:0002191|Progressive spasticity|进行性痉挛|随着时间进行性加重的痉挛。|Spasticity that increases in degree with time.
+HP:0002193|Pseudobulbar behavioral symptoms|假性延髓行为症状|有假性球麻痹症状的患者，也常表现出异常行为症状，如不加控制的笑声或哭泣等不适当的情绪爆发|Individuals with `Pseudobulbar signs` (HP:0002200) often also demonstrate abnormal behavioral symptoms such as inappropriate emotional outbursts of uncontrolled laughter or weeping etc.
+HP:0002194|Delayed gross motor development|粗大运动发育迟缓|以习得控制身体大肌肉进行走、跑、坐及爬的能力延迟为特点的运动发育迟缓（HP:0001270）。|A type of `motor delay` (HP:0001270) characterized by an delay in acquiring the ability to control the large muscles of the body for walking, running, sitting, and crawling.
+HP:0002195|Dysgenesis of the cerebellar vermis|小脑蚓部发育不全|`小脑蚓部`(FMA:76928)发育不良。|Defective development of the `vermis of cerebellum` (FMA:76928).
+HP:0002196|Myelopathy|脊髓病|#####|#####
+HP:0002197|Generalized seizures|全面性发作|癫痫发作起始时双侧大脑半球均受累。|Seizures of with initial involvement of both cerebral hemispheres.
+HP:0002198|Dilated fourth ventricle|第四脑室扩张|第四脑室（FMA:78469）的异常扩张。|An abnormal dilatation of the `fourth cerebral ventricle` (FMA:78469).
+HP:0002199|Hypocalcemic seizures|低钙发作|#####|#####
+HP:0002200|Pseudobulbar signs|假性球麻痹症状|假性球麻痹症状是由于锥体束通路上皮层延髓束受损而出现的一种上运动神经元病变。表现为咀嚼、吞咽困难和表达不清（通常为最初表现）。还有不受控制的强哭强笑等症状。|Pseudobulbar signs result from injury to an upper motor neuron lesion to the corticobulbar pathways in the pyramidal tract. Patients have difficulty chewing, swallowing and demonstrate slurred speech (often initial presentation) as well as abnormal behavioral symptoms such as inappropriate emotional outbursts of uncontrolled laughter or weeping etc.
+HP:0002202|Pleural effusion|胸腔积液|#####|The presence of an excessive amount of fluid in the `pleural cavity` (FMA:9740).
+HP:0002203|Respiratory paralysis|呼吸肌麻痹|呼吸肌无法运动。|Inability to move the muscles of respiration.
+HP:0002204|Pulmonary embolism|肺栓塞|物质通过体循环运输到肺中，堵塞肺部动脉。|#####
+HP:0002205|Recurrent respiratory infections|反复呼吸道感染|呼吸道感染的易感性增加，表现为呼吸道的反复感染。|An increased susceptibility to respiratory infections as manifested by a history of recurrent respiratory infections.
+HP:0002206|Pulmonary fibrosis|肺纤维化|正常肺组织逐步被成纤维细胞和胶原蛋白所取代。|Replacement of normal lung tissues are progressively replaced by fibroblasts and collagen.
+HP:0002207|Diffuse reticular or finely nodular infiltrations|弥漫性网状或细结节状浸润|#####|#####
+HP:0002208|Coarse hair|毛发粗糙|发干质地粗糙。|Hair shafts are rough in texture.
+HP:0002209|Sparse scalp hair|脱发|单位面积的头发数量减少。|Decreased number of `head hairs` (FMA:54241) per unit area.
+HP:0002211|White forelock|额发变白|位于头皮的前正中线三角形区域的毛发变白。|A triangular depigmented region of white hairs located in the anterior midline of the scalp.
+HP:0002212|Curly hair|卷曲样发|#####|#####
+HP:0002213|Fine hair|绒毛|细短、柔软的毛。|Hair that is fine or thin to the touch.
+HP:0002215|Sparse axillary hair|腋毛稀疏|腋毛数量或密度的减少。|Reduced number or density of `axillary hair` (FMA:54253).
+HP:0002216|Premature graying of hair|少白头|较正常年龄提前出现白发。|Development of gray hair at a younger than normal age.
+HP:0002217|Slow-growing hair|毛发生长缓慢|毛发的生长比正常情况下慢。|Hair whose growth is slower than normal.
+HP:0002218|Silver-gray hair|银灰色毛发|毛发色素减退呈银灰色。|Hypopigmented hair that appears silver-gray.
+HP:0002219|Facial hypertrichosis|面部多毛症（先天性）|#####|#####
+HP:0002220|Melanin pigment aggregation in hair shafts|发干部位色素沉积|#####|#####
+HP:0002221|Absent axillary hair|腋毛稀疏|腋毛的缺失。|Absence of `axillary hair` (FMA:54253).
+HP:0002223|Absent eyebrow|无眉|眉毛缺失。|Absence of the `eyebrow` (FMA:54237).
+HP:0002224|Woolly hair|羊毛状发|#####|#####
+HP:0002225|Sparse pubic hair|阴毛稀疏|阴毛数量或密度的减少。|Reduced number or density of `pubic hair`(FMA:54319).
+HP:0002226|White eyebrow|白眉|眉毛呈白色（无色素沉着）。|White color (lack of pigmentation) of the eyebrow.
+HP:0002227|White eyelashes|白睫|睫毛呈白色（无色素沉着）。|White color (lack of pigmentation) of the eyelashes.
+HP:0002229|Alopecia areata|斑秃|头发呈圆形斑片样脱失。|Loss of round patches of scalp hair.
+HP:0002230|Generalized hirsutism|全身性多毛症|全身性毛发异常增多。|Abnormally increased hair growth over much of the entire body.
+HP:0002231|Sparse body hair|体毛稀疏|稀疏的体毛。|Sparseness of the body hair.
+HP:0002232|Patchy alopecia|片形脱发，鬼剃头|#####|#####
+HP:0002234|Early balding|男性脱发、家族性秃发、脂溢性脱发、遗传性脱发、雄激素性脱发|头皮脱落年龄早于正常脱发年龄。|Loss of scalp hair at an earlier than normal age.
+HP:0002235|Pili canaliculi|隧道毛发|蓬乱的毛发。|Uncombable hair.
+HP:0002236|Frontal upsweep of hair|前额卷发|前额头发向上和（或）向侧方生长。|Upward and/or sideward growth of anterior hair.
+HP:0002239|Gastrointestinal hemorrhage|胃肠道出血|累及胃肠道的出血。|`Hemorrhage` (MPATH:119) affecting the `gastrointestinal tract` (FMA:71132).
+HP:0002240|Hepatomegaly|肝脏肿大|肝脏尺寸异常增大。|Abnormally `increased size` (PATO:0000586) of the `liver` (FMA:7197).
+HP:0002242|Abnormality of the intestine|肠道异常|肠道的异常。与其密切相关的术语，肠病，被用于指肠道的任何疾病。|An abnormality of the `intestine` (FMA:7199). The closely related term enteropathy is used to refer to any disease of the intestine.
+HP:0002243|Protein-losing enteropathy|蛋白丢失性肠病|血浆蛋白过量渗漏入消化道内引起的蛋白从消化道异常丢失。|Abnormal loss of protein from the digestive tract related to excessive leakage of plasma proteins into the lumen of the gastrointestinal tract.
+HP:0002244|Abnormality of the small intestine|小肠异常|小肠的异常。|An abnormality of the `small intestine` (FMA:7200).
+HP:0002245|Meckel diverticulum|Meckel憩室|Meckel憩室是位于回肠远端的先天性憩室。|Meckel's diverticulum is a congenital diverticulum located in the distal ileum.
+HP:0002246|Abnormality of the duodenum|十二指肠异常|十二指肠（即小肠第一部分）的异常。|An abnormality of the duodenum, i.e., the first section of the small intestine.
+HP:0002247|Duodenal atresia|十二指肠闭锁|一种导致十二指肠腔完全闭锁的发育缺陷，即，十二指肠的异常闭合。|A developmental defect resulting in complete obliteration of the duodenal lumen, that is, an abnormal closure of the duodenum.
+HP:0002248|Hematemesis|呕血|呕出血液。|The vomiting of blood.
+HP:0002249|Melena|黑便|与消化道出血相关的黑色、柏油样粪便的排泄。当血在结肠停留的时间足够长时，结肠细菌可将其降解而产生黑便。血红素是一种降解产物，可将粪便染为黑色。因此，黑便通常伴随上消化道出血（例如，胃溃疡或十二指肠溃疡），因血液在肠道中停留的时间通常较下消化道出血更长。|The passage of blackish, tarry feces associated with gastrointestinal hemorrhage. Melena occurs if the blood remains in the colon long enough for it to be broken down by colonic bacteria. One degradation product, hematin, imbues the stool with a blackish color. Thus, melena generally occurs with bleeding from the upper gastrointestinal tract (e.g., sotmach ulcers or duodenal ulcers), since the blood usually remains in the gut for a longer period of time than with lower gastrointestinal bleeding.
+HP:0002250|Abnormality of the large intestine|大肠异常|大肠的任何异常。|Any abnormality of the `large intestine` (FMA:7201).
+HP:0002251|Aganglionic megacolon|无神经节性巨结肠|由于缺乏肠神经节细胞引起的异常（即肠道的无神经节节段），导致肠梗阻伴结肠扩张。|An abnormality resulting from a lack of intestinal ganglion cells (i.e., an aganglionic section of bowel) that results in bowel obstruction with enlargement of the colon.
+HP:0002253|Colonic diverticulosis|结肠憩室|结肠存在多个憩室。|The presence of `multiple` (PATO:0002118) `diverticula` (MPATH:68) of the colon.
+HP:0002254|Intermittent diarrhea|间歇性腹泻|#####|#####
+HP:0002256|Small bowel diverticula|小肠憩室|#####|#####
+HP:0002257|Chronic rhinitis|慢性鼻炎|鼻粘膜的慢性炎症。|Chronic inflammation of the nasal mucosa.
+HP:0002263|Exaggerated cupid's bow|夸张的丘比特唇弓|丘比特弓（唇弓）的更显著的正中两侧的双峰和正中切口。|More pronounced paramedian peaks and median notch of the Cupid's bow.
+HP:0002265|Large fleshy ears|大肉耳|#####|#####
+HP:0002266|Focal clonic seizures|局灶性阵挛性发作|#####|#####
+HP:0002267|Exaggerated startle response|过度惊跳反射|突然且意外的视觉、听觉或面部周围快速的移动引发的过度地惊跳反射。|An exaggerated startle reaction in response to a sudden unexpected visual or acoustic stimulus, or a quick movement near the face.
+HP:0002268|Paroxysmal dystonia|阵发性肌张力障碍|肌张力障碍的一种形式特征是肌张力障碍（通常偏身或全身），从几分钟到几个小时持续发作。有发作之间没有肌张力障碍的症状。|A form of dystonia characterized by episodes of dystonia (often hemidystonia or generalized) lasting from minutes to hours. There are no dystonic symptoms between episodes.
+HP:0002269|Abnormality of neuronal migration|神经细胞迁移异常|神经细胞迁移异常，如神经元从他们的起源迁移至其在大脑中的最终位置的过程中的异常。|An abnormality resulting from an anomaly of neuronal migration, i.e., of the process by which neurons travel from their origin to their final position in the brain.
+HP:0002270|Abnormality of the autonomic nervous system|自主神经系统异常|`自主神经系统`的异常（FMA:9905）。|An abnormality of the `autonomic nervous system` (FMA:9905).
+HP:0002271|Autonomic dysregulation|自主神经失调|`自主神经系统调节异常（FMA:9905）。|An abnormality of the regulation of the `autonomic nervous system` (FMA:9905).
+HP:0002273|Tetraparesis|四肢轻瘫|四肢虚弱。|Weakness of all four limbs.
+HP:0002275|Poor motor coordination|运动不协调|#####|#####
+HP:0002277|Horner syndrome|霍纳综合征|异常特征由交感神经系统的损伤而引起，表现为单方面上睑下垂，瞳孔缩小，并经常同侧少汗和结膜下注射。|An abnormality resulting from a lesion of the sympathetic nervous system characterized by a combination of unilateral ptosis, miosis, and often ipsilateral hypohidrosis and conjunctival injection.
+HP:0002280|Enlarged cisterna magna|小脑延髓池扩大|位于小脑和延髓背面之间的小脑延髓池大小增加。|Increase in size of the cisterna magna, one of three principal openings in the subarachnoid space between the arachnoid and pia mater, located between the cerebellum and the dorsal surface of the medulla oblongata.
+HP:0002281|Gray matter heterotopias|灰质异位|灰质异位是指因灰质团块位于脑内错误的位置导致的神经功能障碍，是皮质畸形的一种。除了位置，异位的神经元可能是正常的；且葡萄糖代谢水平与正常位置的灰质一致。这种情况可以造成的多种不同症状，但通常包含一定程度的癫痫或反复痫性发作，常会影响大脑更高水平的能力。其表现可以无症状，也可以引起严重症状，比如严重的癫痫，运动能力丧失，智力低下。|Gray matter heterotopia is a neurological disorder caused by clumps of grey matter being located in the wrong part of the brain. It is characterized as a type of cortical malformation. The neurons in heterotopia may appear to be normal, except for their mislocation; nuclear studies have shown glucose metabolism equal to that of normally positioned gray matter. The condition causes a variety of symptoms, but usually includes some degree of epilepsy or recurring seizures, and often affects the brain's ability to function on higher levels. Symptoms range from nonexistent to profound, in which case heterotopia can result in severe seizure disorder, loss of motor skills, and mental retardation.
+HP:0002282|Heterotopia|异位|#####|#####
+HP:0002283|Global brain atrophy|全脑萎缩|大脑整体灰质体积减少，而非特定部位萎缩，伴脑池扩大。|Unlocalized atrophy of the brain with decreased total brain matter volume and increased ventricular size.
+HP:0002286|Fair hair|金发|毛发色素沉着与正常状态相比较减少。|A lesser degree of hair pigmentation than would otherwise be expected.
+HP:0002287|Progressive alopecia|进行性脱发|进行性毛发脱失。|Progressive loss of hair.
+HP:0002289|Alopecia universalis|全身毛发脱失|全身的毛发全部脱失。|Loss of all hair on the entire body.
+HP:0002290|Poliosis|白发|头发或睫毛局限性色素脱失。|Circumscribed depigmentation of the hair of the head or the eyelashes.
+HP:0002292|Frontal balding|前额秃发|前额中线部位和（或）头顶的秃发。|Absence of hair in the anterior midline and/or parietal areas.
+HP:0002293|Alopecia of scalp|头皮脱发|#####|#####
+HP:0002296|Progressive hypotrichosis|进行性少毛症|毛发生长呈进行性减慢或停滞。|Progressively reduced or lacking hair growth.
+HP:0002297|Red hair|红发|#####|#####
+HP:0002298|Absent hair|毛发缺失|#####|#####
+HP:0002299|Brittle hair|毛发干枯|毛发抗拉强度降低并且脆弱易断裂。|Fragile, easily breakable hair, i.e., with reduced tensile strength.
+HP:0002300|Mutism|缄默症|#####|#####
+HP:0002301|Hemiplegia|偏瘫|一侧上下肢瘫痪（肌肉功能完全丧失），有时累及面部。|Paralysis (complete loss of muscle function) in the arm, leg, and in some cases the face on one side of the body.
+HP:0002304|Akinesia|运动不能|没有发起自主活动或运动并能快速、轻松地执行日常的自主运动的能力。|Inability to initiate changes in activity or movement and to perform ordinary volitional movements rapidly and easily.
+HP:0002305|Athetosis|手足徐动症|手足徐动症（来自希腊字为'可变“或”不固定“）是指无法维持手指、脚趾、舌头或任何其他组的肌肉在固定位置。相反，姿势被缓慢、无目的的不自主运动中断。|Athetosis (from the Greek word for 'changeable' or 'unfixed') refers to an inability to sustain the muscles of the fingers, toes, tongue, or any other group of muscles in a fixed position. Instead, posture is interrupted by slow, purposeless involuntary movements.
+HP:0002307|Drooling|流涎|从嘴里习惯性地流出口水。|Habitual flow of saliva out of the mouth.
+HP:0002308|Arnold-Chiari malformation|小脑扁桃体下疝畸形|Arnold-Chiari 畸形包括小脑扁桃体向下移位，并且延髓通过枕骨大孔，有时会由于阻塞脑脊液外流造成脑积水。|Arnold-Chiari malformation consists of a downward displacement of the cerebellar tonsils and the medulla through the foramen magnum, sometimes causing hydrocephalus as a result of obstruction of CSF outflow.
+HP:0002310|Orofacial dyskinesia|口面运动障碍|#####|#####
+HP:0002311|Incoordination|不协调|#####|#####
+HP:0002312|Clumsiness|笨拙|缺乏身体的协调性，导致不正常的倾向，容易掉落物品或者撞到物体。|Lack of physical coordination resulting in an abnormal tendency to drop items or bump into objects.
+HP:0002313|Spastic paraparesis|痉挛性双下肢瘫|#####|#####
+HP:0002314|Degeneration of the lateral corticospinal tracts|皮质脊髓侧束变性|皮质脊髓侧束（FMA:72635）退行性变。|Deterioration of the tissues of the `lateral corticospinal tracts` (FMA:72635).
+HP:0002315|Headache|头痛|不局限于任何神经的分布区域，头的不同部位感知的疼痛。|Cephalgia, or pain sensed in various parts of the head, not confined to the area of distribution of any nerve.
+HP:0002317|Unsteady gait|步态不稳|#####|#####
+HP:0002318|Cervical myelopathy|脊髓型颈椎病|#####|#####
+HP:0002321|Vertigo|眩晕|身体静止不动却自觉旋转的异常感觉。|An abnormal sensation of spinning while the body is actually stationary.
+HP:0002322|Resting tremor|静止性震颤|静止性震颤发生在肌肉静息时，当受累肌肉活动时变得很轻或消失，是缓慢的粗大的震颤。|A resting tremor occurs when muscles are at rest and becomes less noticeable or disappears when the affected muscles are moved. Resting tremors are often slow and coarse.
+HP:0002323|Anencephaly|无脑畸形|#####|#####
+HP:0002324|Hydranencephaly|积水型无脑畸形|脑脊液和胶质组织替代大部分大脑半球和胼胝体为特征的一种脑发育缺陷。|A defect of development of the brain characterized by replacement of greater portions of the cerebral hemispheres and the corpus striatum by cerebrospinal fluid (CSF) and glial tissue.
+HP:0002326|Transient ischemic attack|短暂性脑缺血发作|缺血导致的一过性神经系统功能障碍。|#####
+HP:0002329|Drowsiness|困倦|白天睡眠过多。|Excessive daytime sleepiness.
+HP:0002330|Paroxysmal drowsiness|阵发性嗜睡|不能控制的白天困倦及低警醒度|Attacks of disabling daytime drowsiness and low alertness.
+HP:0002331|Headache (with pheochromocytoma)|头痛（伴发嗜铬细胞瘤）|#####|#####
+HP:0002332|Lack of peer relationships|同伴关系缺乏|#####|#####
+HP:0002333|Motor deterioration|运动发育迟缓|既有的运动能力的损失。|Loss of previously present motor (i.e., movement) abilities.
+HP:0002334|Abnormality of the cerebellar vermis|小脑蚓部异常|在`小脑`的蚓部的异常（FMA:76928）。|An anomaly of the `vermis of cerebellum` (FMA:76928).
+HP:0002335|Agenesis of cerebellar vermis|小脑蚓部发育不全|先天性`小脑`的蚓部（FMA:76928）缺如。|Congenital absence of the `vermis of cerebellum` (FMA:76928).
+HP:0002339|Abnormality of the caudate nucleus|尾状核异常|在`尾状核`的异常（FMA:61833）。|An abnormality of the `caudate nucleus` (FMA:61833).
+HP:0002340|Caudate atrophy|尾状核萎缩|#####|#####
+HP:0002341|Cervical cord compression|颈脊髓压迫症|颈部脊髓压迫，一般表现为感觉异常、麻木、无力、行走困难、协调性障碍、颈部疼痛或僵硬。|Compression of the spinal cord in the cervical region, generally manifested by paresthesias and numbness, weakness, difficulty walking, abnormalities of coordination, and neck pain or stiffness.
+HP:0002342|Intellectual disability, moderate|中度智力残疾|中度精神发育迟滞定义为智商（IQ）在35-49的范围内。|Moderate mental retardation is defined as an intelligence quotient (IQ) in the range of 35-49.
+HP:0002343|Normal pressure hydrocephalus|正常压力性脑积水|伴有腰穿检测脑脊液压力正常的脑室系统扩大的一种脑积水|A form of `hydrocephalus` (HP:0000238) characterized by enlarged cerebral ventricles and normal cerebrospinal fluid (CSF) pressure upon lumbar puncture.
+HP:0002344|Progressive neurologic deterioration|进行性神经功能恶化|#####|#####
+HP:0002345|Action tremor|动作性震颤|当肢体处于活动状态，或者当肢体伸出在某个位置或在自主运动过程中出现的震颤。|A tremor present when the limbs are active, either when outstretched in a certain position or throughout a voluntary movement.
+HP:0002346|Head tremor|头部震颤|无意识的，影响头部运动的反复的肌肉振荡运动。|An unintentional, oscillating to-and-fro muscle movement affecting head movement.
+HP:0002349|Focal seizures without impairment of consciousness or awareness|局灶性发作不伴有意识障碍|一个`部分性癫痫发作`（HP:0007359），其中意识得以保持。|A `partial seizure` (HP:0007359) in which consciousness is maintained.
+HP:0002350|Cerebellar cyst|小脑囊肿|小脑囊肿即位于小脑的囊状的良性包块，其内容物的性质是液态的.|Cerebellar cyst is located in the cerebellar cystic benign mass, the nature of the contents is liquid
+HP:0002352|Leukoencephalopathy|白质脑病|该术语描述源于神经细胞的髓鞘损害所致的大脑白质异常。|This term describes abnormality of the white matter of the cerebrum resulting from damage to the myelin sheaths of nerve cells.
+HP:0002353|EEG abnormality|脑电图异常|通过头皮电极记录大脑的自发电活动的脑电图（EEG）观察到的异常。|Abnormality observed by electroencephalogram (EEG), which is used to record of the brain's spontaneous electrical activity from multiple electrodes placed on the scalp.
+HP:0002354|Memory impairment|记忆障碍|记忆障碍，表现为记住事情的能力下降和遗忘增加，如日期、名称。|An impairment of memory as manifested by a reduced ability to remember things such as dates and names, and increased forgetfulness.
+HP:0002355|Difficulty walking|行走困难|行走（走动）能力下降。|Reduced ability to walk (ambulate).
+HP:0002356|Writer's cramp|书写痉挛|手指，手和/或前臂的局灶性肌张力障碍，在受影响的人试图完成需要精细动作的任务时出现，如书写或玩乐器的任务出。|A focal dystonia of the fingers, hand, and/or forearm that appears when the affected person attempts to do a task that requires fine motor movements such as writing or playing a musical instrument.
+HP:0002357|Dysphasia|语言障碍|在发育早期就有正常语言获得方式的紊乱，表现为发音、语言理解，或语言表达能力发育的延迟和异常.|problems in the early development of the normal language acquisition methods,which is the delay and abnormalities of the pronunciation, language understanding, or the development of language expression skills.
+HP:0002359|Frequent falls|频繁跌倒|#####|#####
+HP:0002360|Sleep disturbance|睡眠障碍|是一种睡眠异常包括以下现象:1）失眠/睡眠过度，2）非恢复性睡眠，3）睡眠节律紊乱，4）白天过度嗜睡，5）睡眠呼吸暂停，和6）躁动。|An abnormality of sleep including such phenomena as 1) insomnia/hypersomnia, 2) non-restorative sleep, 3) sleep schedule disorder, 4) excessive daytime somnolence, 5) sleep apnea, and 6) restlessness.
+HP:0002361|Psychomotor deterioration|精神运动性恶化|现有智能和运动能力的下降|Loss of previously present mental and motor abilities.
+HP:0002362|Shuffling gait|曳行步态|即下肢伸直，足内翻下垂，步行时躯体向内健侧倾斜，患足向外甩，画半圈。|Lower limb straight, foot varus, the body tilt in the healthy side when walking ,the suffering foot rejection, draw half a circle.
+HP:0002363|Abnormality of brainstem morphology|脑干形态异常|在`脑干`的异常（FMA:79876）。|An anomaly of the `brainstem` (FMA:79876).
+HP:0002365|Hypoplasia of the brainstem|脑干发育不良|脑干的发育不完全（FMA:79876）。|Underdevelopment of the `brainstem` (FMA:79876).
+HP:0002366|Abnormality of the lower motor neuron|下运动神经元的异常|在`下运动神经元`的异常（FMA:84632）。|An abnormality of the `lower motor neuron` (FMA:84632).
+HP:0002367|Visual hallucinations|幻视|幻觉的一种。可以看到简单不成形的形象，病理性幻视如在意识清晰时出现，多见于精神分裂症，如在意识障碍时出现，则多见于谵妄状态或朦胧状态。|A kind of hallucination,which can see the image of a simple form. pathological illusion,if when awareness is clear which is more common in schizophrenia, while in the sense of disturbance occurs, which is more common in delirium or hazy state.
+HP:0002370|Poor coordination|协调能力下降|#####|#####
+HP:0002371|Loss of speech|言语不能|#####|#####
+HP:0002372|Normal interictal EEG|发作间期正常脑电图|#####|#####
+HP:0002373|Febrile seizures|高热惊厥|指婴儿或幼儿发热导致的抽搐，通常表现为意识丧失和强直-阵挛发作。大多数热性惊厥持续一到两分钟。|Febrile seizures are convulsions induced by a fever in infants or small children and are generally characterized by loss of consciousness and tonic-clonic movements. Most febrile seizures last a minute or two.
+HP:0002374|Diminished movement|运动减少|#####|#####
+HP:0002375|Hypokinesia|少动|异常的运动减少。与瘫痪相比，运动迟缓并不是缺乏运动的力量，而是运动的贫乏。典型的习惯性动作（如交叉双臂，盘腿）的频率减低。|Abnormally diminished motor activity. In contrast to paralysis, hypokinesia is not characterized by a lack of motor strength, but rather by a poverty of movement. The typical habitual movements (e.g., folding the arms, crossing the legs) are reduced in frequency.
+HP:0002376|Developmental regression|发育倒退|丧失发育能力，表现为缺少里程碑性的发育标志。|Loss of developmental skills, as manifested by loss of developmental milestones.
+HP:0002377|Paraganglioma-related cranial nerve palsy|副神经节瘤相关的颅神经麻痹|与头部或颈部的副神经节瘤相关的颅神经麻痹。|A cranial nerve palsy associated with a paraganglioma of the head or neck.
+HP:0002378|Hand tremor|手部震颤|#####|#####
+HP:0002380|Fasciculations|肌束震颤|指在皮肤下观察到的细微、局部及不自主地肌肉收缩（抽搐），是由于轴索的兴奋性增高导致的（通常是运动神经元病的表现）。这导致了轴索支配的所有肌肉纤维独立于其他运动单位的自发性放电。|Fasciculations are observed as small, local, involuntary muscle contractions (twitching) visible under the skin. Fasciculations result from increased irritability of an axon (which in turn is often a manifestation of disease of a motor neuron). This leads to sporadic discharges of all the muscle fibers controlled by the axon in isolation from other motor units.
+HP:0002381|Aphasia|失语症|#####|#####
+HP:0002383|Encephalitis|脑炎|#####|#####
+HP:0002384|Focal seizures with impairment of consciousness or awareness|局灶性发作伴有意识障碍|表现为意识障碍或意识丧失的部分性发作（HP:0007359）。|A `partial seizure` (HP:0007359) characterized by impairment or loss of consciousness.
+HP:0002385|Paraparesis|下肢轻瘫|双下肢力弱或部分瘫痪|Weakness or partial paralysis in the lower limbs.
+HP:0002389|Cavum septum pellucidum|第五脑室|如果透明隔的两个薄层未融合在一起，那么就会出现的一个充满液体的空间或空腔。透明隔间腔在出生时存在，但通常3-6个月时消失。它宽约1cm，壁是平行的。它是一个封闭的空间，不属于脑室系统的一部分，不与蛛网膜下腔相连。|If the two laminae of the septum pellucidum are not fused then a fluid-filled space or cavum is present. The cavum septum pellucidum is present at birth but usually obliterates by the age of 3 to 6 months. It is up to 1cm in width and the walls are parallel. It is an enclosed space and is not part of the ventricular system or connected with the subarachnoid space.
+HP:0002390|Spinal arteriovenous malformation|脊髓动静脉畸形|脊髓的动静脉连接异常。|#####
+HP:0002392|EEG with polyspike wave complexes|脑电图，伴多棘慢复合波|脑电图示重复的棘波之后紧随慢波。|The presence of complexes of repetitive spikes and waves in EEG.
+HP:0002395|Lower limb hyperreflexia|下肢腱反射亢进|#####|#####
+HP:0002396|Cogwheel rigidity|齿轮样强直|#####|#####
+HP:0002398|Degeneration of anterior horn cells|前角细胞变性|#####|#####
+HP:0002401|Stroke-like episodes|卒中样发作|#####|#####
+HP:0002403|Positive Romberg sign|闭目难立征阳性|病人站立时并脚来保持平衡，然后被要求闭上眼睛。如果闭眼后失去平衡曾考虑为闭目难立征阳性，可能存在本体感觉的异常。|The patient stands with the feet placed together and balance and is asked to close his or her eyes. A loss of balance upon eye closure is a positive Romberg sign and is interpreted as indicating a deficit in proprioception.
+HP:0002404|Thickened superior cerebellar peduncle|小脑上脚增厚|小脑上脚（FMA:72495）的宽度增加。|Increased width of the `superior cerebellar peduncle` (FMA:72495).
+HP:0002406|Limb dysmetria|肢体辨距不良|累及肢体的一种辨距不良（HP:0001310）。|A type of `dysmetria` (HP:0001310) involving the limbs.
+HP:0002408|Cerebral arteriovenous malformation|脑动静脉畸形|脑部的动静脉连接异常|#####
+HP:0002410|Aqueductal stenosis|中脑导水管狭窄|脑导水管狭窄（也被称为脑导管，中脑导水管，或西尔维于导水管），导水管连接间脑的第三脑室到第四脑室，位于脑桥和小脑之间。|Stenosis of the cerebral aqueduct (also known as the mesencephalic duct, aqueductus mesencephali, or aqueduct of Sylvius), which connects the third cerebral ventricle in the diencephalon to the fourth ventricle, which is between the pons and cerebellum.
+HP:0002411|Myokymia|肌纤维颤搐|慢性神经损伤相关的运动单位的连续，快速收缩。放电产生于再生神经的周边方面和临床上赋予身体表面覆盖在该肌肉的几乎连续的起伏|Successive and rapid contractions of motor units associated with chronic nerve injury. The discharges arise from the peripheral aspects of regenerating nerves, and clinically impart a nearly continuous undulation of the body surface overlying the muscle.
+HP:0002414|Spina bifida|脊柱裂|胚胎神经管不完全闭合，因此一些椎弓仍然未融合和开放。在最轻的形式是隐性脊柱裂，其次为脑脊髓膜膨出和脑脊髓脊膜膨出。|Incomplete closure of the embryonic neural tube, whereby some vertebral arches remain unfused and open. The mildest form is spina bifida occulta, followed by meningocele and meningomyelocele.
+HP:0002415|Leukodystrophy|脑白质营养不良|脑白质营养不良是指源于中枢神经系统髓鞘变性的脑白质退变。它们的基本缺陷与髓鞘膜的合成和维持直接相关。|Leukodystrophy refers to deterioration of white matter of the brain resulting from degeneration of myelin sheaths in the CNS. Their basic defect is directly related to the synthesis and maintenance of myelin membranes.
+HP:0002416|Subependymal cysts|室管膜下囊肿|#####|#####
+HP:0002418|Abnormality of midbrain morphology|中脑形态异常|中脑（61993 FMA）的形态异常，其组成部分包括中脑顶盖，大脑脚，中脑被盖和中脑导水管。|An abnormality of the `midbrain` (FMA:61993), which has as its parts the tectum, cerebral peduncle, midbrain tegmentum and cerebral aqueduct.
+HP:0002419|Molar tooth sign on MRI|磁共振磨牙征|在轴位磁共振成像的中脑异常表现，细长的小脑上脚使中脑呈现磨牙或智齿的外观。|An abnormal appearance of the midbrain in axial magnetic resonance imaging in which the elongated superior cerebellar peduncles give the midbrain an appearance reminiscent of a molar or wisdom tooth.
+HP:0002421|Poor head control|头部控制能力弱|站或坐时很难保持头的正确位置。|Difficulty to maintain correct position of the head while standing or sitting.
+HP:0002423|Long-tract signs|长束征|#####|#####
+HP:0002425|Anarthria|构音障碍|在运动能力的缺陷导致的不能发音。|A defect in the motor ability that enables speech.
+HP:0002427|Motor aphasia|运动性失语|语言表达能力障碍，和语言理解能力相对保留。也就是说，病人可以理解语言（语音，文字），但不能表达。|Impairment of expressive language  and relative preservation of receptive language abilities. That is, the patient understands language (speech, writing) but cannot express it.
+HP:0002435|Meningocele|脑脊膜膨出|通过脊柱缺口脑膜膨出。|Protrusion of the meninges through a defect of the vertebral column.
+HP:0002436|Occipital meningocele|枕脊膜膨出|#####|#####
+HP:0002438|Cerebellar malformation|小脑畸形|#####|#####
+HP:0002439|Frontolimbic dementia|额叶边缘性痴呆|#####|#####
+HP:0002442|Dyscalculia|计算困难|累及数学和计算的学习障碍。|A specific learning disability involving mathematics and arithmetic.
+HP:0002444|Hypothalamic hamartoma|下丘脑错构瘤|下丘脑存在错构瘤（FMA:62008）。|The presence of a `hamartoma` of the `hypothalamus` (FMA:62008).
+HP:0002445|Tetraplegia|四肢瘫|相关的脊髓损伤水平以下的所有四肢、躯干的麻痹。四肢瘫的病因是类似于截瘫的不同之处在于病变是在颈脊髓而不是在脊髓的胸腰椎段。|Paralysis of all four limbs, and trunk of the body below the level of an associated injury to the spinal cord. The etiology of quadriplegia is similar to that of paraplegia except that the lesion is in the cervical spinal cord rather than in the thoracic or lumbar segments of the spinal cord.
+HP:0002446|Astrocytosis|星形胶质细胞增殖|中枢神经系统病变区域的`星形胶质细胞`（CL:0000127）的增殖。|Proliferation of `astrocytes` (CL:0000127) in the area of a lesion of the central nervous system.
+HP:0002448|Progressive encephalopathy|进行性脑病|#####|#####
+HP:0002450|Abnormality of the motor neurons|运动神经元的异常|#####|#####
+HP:0002451|Limb dystonia|肢体肌张力障碍|影响肢体肌肉的一种肌张力障碍（异常肌张力增加导致固定的异常姿势）。|A type of dystonia (abnormally increased muscular tone causing fixed abnormal postures) that affects muscles of the limbs.
+HP:0002453|Abnormality of the globus pallidus|苍白球异常|在`苍白球`的异常（FMA:61835）。|An abnormality of the `globus pallidus` (FMA:61835).
+HP:0002454|Eye of the tiger anomaly of globus pallidus|苍白球虎眼征|双侧苍白球、黑质MRI T2加权像对称性低信号，且在`苍白球`(FMA:61835)低信号的前内侧出现斑点状高信号，外观类似老虎眼。|The presence, on T2-weighted magnetic resonance imaging, of markedly low signal intensity if the `globus pallidus` (FMA:61835) that surrounds a central region of high signal intensity in the anteromedial globus pallidus, producing an eye-of-the-tiger appearance.
+HP:0002457|Abnormal head movements|头部运动异常|#####|#####
+HP:0002459|Dysautonomia|自主神经功能失调|`自主神经系统`（FMA:9905）`功能失调`（PATO:0001641）。|`Dysfunction` (PATO:0001641) of the `autonomic nervous system` (FMA:9905).
+HP:0002460|Distal muscle weakness|远端肌无力|四肢远端的肌肉强度降低。|Reduced strength of the musculature of the distal extremities.
+HP:0002461|Dense calcifications in the cerebellar dentate nucleus|小脑齿状核致密钙化|小脑齿状核致密钙化|#####
+HP:0002463|Language impairment|语言障碍|#####|#####
+HP:0002464|Spastic dysarthria|痉挛性构音障碍|一种与双侧上运动神经元的锥体束和锥体外束损伤相关的构音障碍。受累的个体的语言缓慢、费力而且音质刺耳。|A type of dysarthria related to bilateral damage of the upper motor neuron tracts of the pyramidal and extra- pyramidal tracts. Speech of affected individuals is slow, effortful, and has a harsh vocal quality.
+HP:0002465|Poor speech|少言寡语|#####|#####
+HP:0002470|Nonprogressive cerebellar ataxia|非进行性小脑性共济失调|#####|#####
+HP:0002472|Small cerebral cortex|小大脑皮层|`脑皮质`体积减小（FMA:61830）。|Reduced size of the `cerebral cortex` (FMA:61830).
+HP:0002474|Expressive language delay|语言表达延迟|延迟获得使用语言进行表达需要、愿望或想法的能力|A delay in the acquisition of the ability to use language to communicate needs, wishes, or thoughts.
+HP:0002475|Myelomeningocele|脊髓脊膜膨出|通过脊柱缺损处膨出的脊膜和部分脊髓。|Protrusion of the meninges and portions of the spinal cord through a defect of the vertebral column.
+HP:0002476|Primitive reflexes (palmomental, snout, glabellar)|原始反射（掌颏反射，口鼻部，眉间）|#####|#####
+HP:0002478|Progressive spastic quadriplegia|进行性痉挛性四肢瘫|#####|#####
+HP:0002480|Hepatic encephalopathy|肝性脑病|肝功能衰竭相关的中枢神经系统功能障碍，临床特点（取决于严重程度）为嗜睡，意识模糊，眼球震颤，去皮层状态，痉挛，双侧巴宾斯基反射阳性。|Central nervous system dysfunction in association with liver failure and characterized clinically (depending on degree of severity) by lethargy, confusion, nystagmus, decorticate posturing, spasticity, and bilateral Babinski reflexes.
+HP:0002483|Bulbar signs|延髓征象|#####|#####
+HP:0002486|Myotonia|肌强直|在收缩或电刺激后发生的一种不自主的、疼痛延迟的骨骼肌松弛状态。|An involuntary and painless delay in the relaxation of skeletal muscle following contraction or electrical stimulation.
+HP:0002487|Hyperkinesis|多动|运动多动与整个身体肌肉过度的运动。|Motor hyperactivity with excessive movement of muscles of the body as a whole.
+HP:0002488|Acute leukemia|急性白血病|#####|#####
+HP:0002490|Increased CSF lactate|脑脊液乳酸升高|脑脊液中乳酸浓度升高。|Increased concentration of lactate in the cerebrospinal fluid.
+HP:0002491|Spasticity of facial muscles|面肌痉挛|面部肌肉的不自主收缩。|Involuntary twitching of the facial muscles.
+HP:0002492|Abnormality of the corticospinal tract|皮质脊髓束异常|皮质脊髓束的异常，其是锥体系统的主要组成部分，是大脑和脊髓之间唯一的直接连接。|Abnormality of the corticospinal tract, which is the chief element of the pyramidal system (the principle motor tract) and is the only direct connection between the cerebrum and the spinal cord.
+HP:0002493|Corticospinal tract dysfunction|皮质脊髓束功能障碍|从大脑运动皮层传递神经冲动到脊髓束的功能缺损。皮质脊髓束介导不相关联的自主技能运动。|A functional deficit of the tract that conveys nervous impulses from the motor cortex of the brain to the spinal cord. The corticospinal tract mediates discrete voluntary skilled movements.

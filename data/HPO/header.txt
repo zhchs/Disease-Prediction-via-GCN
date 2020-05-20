@@ -1,0 +1,9 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Cache-Control: max-age=0
+Connection: keep-alive
+Cookie: visid_incap_161858=a9bUiivFRMC5AWu8ydS+nXkfwlsAAAAAQUIPAAAAAABFYDKQ/ynuVayr3T6bB3W3; nlbi_161858=HOgRTpRSmQqBSRNx4tPBxgAAAACZ+gArxBtYH/zvoSqVgdf2; _ga=GA1.2.1357330427.1539448699; ASP.NET_SessionId=wotkaicywb4m13ugz1dwf30u; lm.auth.oa=mGgrd1waxCiuTnCRBBCxjg634b_yorRWAUlYbAKm9ebQS08nxCbloeeSmzkH7MGHELYBkBWq4BSZd77Tm2qpfd4MmZZ1-sn8wMcpDRpOckMkmINSBh9iLhdc1_XiiZ4j2Uj9V5bS_Z6opFDolqb3xMBn3RRYwKRUj0RpfpYH53VUXInUedB7g4kN3-xJ9jIlh1Tjje8HQNSKjhwEDQ5_h1Swxbq4Ubhno52ZO66wRPlKUjp7ReKsLv6zwLpMg7FbH4ifd80_8A0lIaeztmrAbiQaGbTHa9fwvcwcTTa6sd_GWaMsuLMxtfyGy6ZfvEo6UCwnUuz2JR7rOMUsT_yC8mZtTRnO8rckwE6tzQjOv2xVmwJIyZnLJBJ4G7TrMoQJBFjVioflorpmW9rT9V8t5SD0-LcDCgVOgd8gbeyBWM_f6JPdr-q-J1OVdvriSbg4C68lvHzbBY4fLJKWYvPWyObZzFdx4raj40bcAh2NQZM9cGb8KxiAGulAHJ6Ge6tym9m4WZeMbUN0fiwoGfX5w778-W8DoNd7aC51gHZOPp0a1mgxUIk6frejwtAjYIevmH8Prny-O8EEaR4cGCumSz_GMeKXxTEQSqfzPf1CEcfym25qclGXgKxumrFo066WOqIT_R9RxF0MFmXha6IhgF26piFN-BOdRQbR_QLOdjTabh-0QN-7HadnEGm9kslm; ureg=1; __RequestVerificationToken=oD7ckr85cdcUagtv-1Z0PjA5daRBIheaCDJZA0ixUXoNPEsJQAtOsv0BUXsqhA6ihkUaNehIIVLE9Olet9Y1bpcxxAnllt3j_Uoi9LSwAtg1; ARRAffinity=52489ce5d612b0944e1fb3a59bd4c0347e29ae2494dd162eed81996450f9bd9c; _gid=GA1.2.1426251437.1547915997; incap_ses_570_161858=TG6SIAtjFWke2r0I6SbpB2fbQ1wAAAAA+c9yeuzuRqQsi7qsaEHIwQ==
+Host: www.malacards.org
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36

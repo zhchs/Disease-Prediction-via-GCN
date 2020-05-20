@@ -1,0 +1,387 @@
+HP:0001543|Gastroschisis|腹裂|一种先天性的腹壁不完全闭合，（胎儿的）肠（有时为其他器官）经由腹壁的一个小口（通常在脐部右侧）伸出至羊水中。|A type of congenital ventral `incomplete closure` (PATO:0000609) of the `abdominal wall` (FMA:259054) in which the intestines and sometimes other organs to extend freely into the amniotic fluid space through a small opening in the abdomen, usually to the right of the umbilicus.
+HP:0001544|Prominent umbilicus|脐突出|#####|Abnormally prominent umbilicus (belly button).
+HP:0001545|Anteriorly placed anus|肛门前置|肛门错误地位于前部。|Anterior malposition of the anus.
+HP:0001547|Abnormality of the rib cage|胸廓异常|胸廓（肋骨围成的笼子）的形态异常。|A morphological anomaly of the `rib cage` (FMA:7480).
+HP:0001548|Overgrowth|过度生长|出生后过度生长，可以包括体重的增加，身高的增加，和/或头围的增加。|Excessive postnatal growth which may comprise increased weight, increased length, and/or increased head circumference.
+HP:0001549|Abnormality of the ileum|回肠异常|#####|#####
+HP:0001551|Abnormality of the umbilicus|肚脐异常|肚脐的异常。|Abnormality of the `umbilicus` (FMA:61584).
+HP:0001552|Barrel-shaped chest|桶状胸|桶状胸|Barrel-shaped chest
+HP:0001555|Asymmetry of the thorax|胸廓不对称|缺乏胸廓的左，右两半之间的对称。|Lack of symmetry between the left and right halves of the thorax.
+HP:0001557|Prenatal movement abnormality|产前胎动异常|胎动异常。|An abnormality of fetal movement.
+HP:0001558|Decreased fetal movement|胎动减少|胎动次数或强度异常减少。|An abnormal reduction in quantity or strength of fetal movements.
+HP:0001560|Abnormality of the amniotic fluid|羊水异常|羊水（羊膜囊中围绕在发育中的胎儿周围的流体）的量异常。|Abnormality of the amniotic fluid, which is the fluid contained in the amniotic sac surrounding the developing fetus.
+HP:0001561|Polyhydramnios|羊水过多|在妊娠期间围绕胎儿的羊水量过多， 超声诊断提示羊水指数大于25cm或羊水暗区大于8cm，其中轻度羊水过多羊水指数为25-29.9cm，中度羊水过多羊水指数为30-34.9cm，严重羊水过多羊水指数大于35cm。|The presence of excess amniotic fluid surrounding the fetus during pregnancy, the sonographic diagnosis of Polyhydramnios is usually based on an AFI >25cm or on a single deepest pocket of amnionic fluid >8cm,several groups have termed Polyhydramnios as mild if the AFI is 25 to 29.9cm, moderate if 30 to 34.9cm, and severe if 35 cm or more.
+HP:0001562|Oligohydramnios|羊水过少|在妊娠期间围绕胎儿的羊水量不足。超声诊断指标是羊水指数在最深的单个区域小于5cm或羊水暗区小于2cm。|The insufficient of amniotic fluid surrounding a fetus in pregnancy，the sonographic diagnosis of oligohydramnios is usually based on an AFI <5cm or on a single deepest pocket of amnionic fluid <2cm.
+HP:0001563|Fetal polyuria|胎儿多尿|胎儿的异常尿液增加，并造成‘羊水过多’（:0001561 HP）。|Abnormally increased production of urine by the fetus resulting in `polyhydramnios` (HP:0001561).
+HP:0001566|Widely-spaced maxillary central incisors|上颌中切牙牙间隙增宽|恒生牙中上颌中切牙之间的距离增宽。|Increased distance between the `maxillary central permanent incisor tooth` (FMA:55722).
+HP:0001571|Multiple impacted teeth|多个阻生齿|有多个阻生齿。|The presence of `multiple` (PATO:0002118) `impacted teeth` (HP:0011079).
+HP:0001572|Macrodontia|巨牙|牙齿尺寸增加，它定义为近中远侧的牙齿直径（宽度）大于同年龄平均值以上2个SD（标准偏差）。或者牙齿的宽度显得增大。|`Increased size` (PATO:0000586) of the `teeth` (FMA:12516), which can be defined as a mesiodistal tooth diameter (width) more than 2 SD above mean for age. Alternatively, an apparently increased maximum width of the tooth.
+HP:0001574|Abnormality of the integument|体壁的异常|体壁的异常，体壁主要由皮肤和浅筋膜构成。|An abnormality of the `integument` (FMA:74657), which consists of the skin and the superficial fascia.
+HP:0001575|Mood changes|情绪改变|#####|#####
+HP:0001579|Primary hypercorticolism|原发性皮质醇增多症|由于原发性的肾上腺缺陷，导致皮质醇过度产生。|Hypercortisolemia associated with a primary defect of the adrenal gland leading to overproduction of cortisol.
+HP:0001580|Pigmented micronodular adrenocortical disease|色素性小结节状肾上腺皮质疾病|#####|#####
+HP:0001581|Recurrent skin infections|复发性皮肤感染|指多次发生的皮肤感染。|Infections of the skin that happen multiple times.
+HP:0001582|Redundant skin|赘肉|失去弹性而表现出松散下垂的皮肤。|Loose and sagging skin often associated with loss of skin elasticity.
+HP:0001583|Rotary nystagmus|旋转眼球震颤|眼球震颤的一种形式，眼球绕轴旋转。|A form of nystagmus in which the eyeball makes rotary motions around the axis.
+HP:0001586|Vesicovaginal fistula|膀胱阴道瘘|膀胱与阴道之间形成瘘道。|The presence of a `fistula` (MPATH:70) connecting the `urinary bladder` (FMA:15900) to the `vagina` (FMA:19949).
+HP:0001587|Primary ovarian failure|原发性卵巢功能衰竭|卵巢功能异常，使女孩从未发生月经来潮。|Malfunctioning of the ovaries such that a girl never begins menstruation.
+HP:0001591|Bell-shaped thorax|钟形胸|该肋骨有一个广口钟的形状。即，肋笼的上部分收缩，接下来是一个凸区域肋笼下部再扩展为大直径。|The rib cage has the shape of a wide mouthed bell. That is, the superior portion of the rib cage is constricted, follwed by a convex region, and the inferior portion of the rib cage expands again to have a large diameter.
+HP:0001592|Selective tooth agenesis|选择性牙齿发育不全|只累及中切牙、小臼齿或大臼齿之中某一类的发育不全。|`Agenesis` (MPATH:57) specifically affecting one of the classes `incisor` (FMA:12823), `premolar` (FMA:55637), or `molar` (FMA:55638).
+HP:0001593|Maxillary lateral incisor microdontia|上颌侧切牙小牙畸形|上颌恒切牙的尺寸减少。|`Decreased size` (PATO:0000587) of the `maxillary permanent incisor` (FMA:55713).
+HP:0001595|Abnormality of the hair|毛发异常|毛发的异常。|An abnormality of the `hair` (FMA:53667).
+HP:0001596|Alopecia|脱发|头部或躯体毛发的脱失。|Loss of hair from the head or body.
+HP:0001597|Abnormality of the nail|指（趾）甲异常|指（趾）甲的异常。|Abnormality of the `nail` (FMA:54326).
+HP:0001598|Concave nail|反甲|甲先天纵向（后侧末端）凸拱不存在或反转。|The natural longitudinal (posterodistal) convex arch is not present or is inverted.
+HP:0001600|Abnormality of the larynx|喉部异常|喉部（FMA:55097）的异常。|An abnormality of the `larynx` (FMA:55097).
+HP:0001601|Laryngomalacia|喉软骨软化|喉软骨软化是一种先天发育畸形，表现为吸气时喉软骨松软和塌陷。|Laryngomalacia is a congenital abnormality of the laryngeal cartilage in which the cartilage is floppy and prolapses over the larynx during inspiration.
+HP:0001602|Laryngeal stenosis|喉狭窄|喉部受限或狭窄，可伴有与喉狭窄程度相关呼吸困难。|Stricture or narrowing of the larynx that may be associated with symptoms of respiratory difficulty depending on the degree of laryngeal narrowing.
+HP:0001604|Vocal cord paresis|声带麻痹|声带运动能力减弱。|`Decreased strength` (PATO:0001779) of the `vocal folds` (FMA:55457).
+HP:0001605|Vocal cord paralysis|声带麻痹|声带运动能力丧失（FMA:55457）。|A loss of the ability to move the `vocal folds` (FMA:55457).
+HP:0001606|Vocal cord paralysis (caused by tumor impingement)|声带麻痹（肿瘤侵犯导致）|#####|#####
+HP:0001607|Subglottic stenosis|声门下狭窄|#####|#####
+HP:0001608|Abnormality of the voice|声音异常|嗓音的任何异常。|Any abnormality of the voice.
+HP:0001609|Hoarse voice|声音嘶哑|声音嘶哑是指声音的音调或质量的变化，声音听起来虚弱，带着很重的呼吸声，有摩擦音或沙哑。|Hoarseness refers to a change in the pitch or quality of the voice, with the voice sounding weak, very breathy, scratchy, or husky.
+HP:0001611|Nasal speech|鼻音很重|一种构音特点，讲话时因鼻腔气流异常增加所致，与软腭关闭不全或削弱有关。|A type of speech characterized by the presence of an abnormally increased nasal airflow during speech, associated with incomplete or weak closure of the velum.
+HP:0001612|Weak cry|哭声微弱|#####|#####
+HP:0001613|Hoarse voice (caused by tumor impingement)|声音嘶哑（因肿瘤挤压所致）|#####|#####
+HP:0001615|Hoarse cry|声音嘶哑的叫喊|#####|#####
+HP:0001618|Dysphonia|发音困难|产生声音的能力减弱。|An impairment in the ability to produce voice sounds.
+HP:0001620|High pitched voice|高音调的声音|嗓音音调（频率）的异常升高。|An abnormal increase in the pitch (frequency) of the voice.
+HP:0001621|Weak voice|嗓音微弱|语音的强度（音量）减弱。|Reduced intensity (volume) of speech.
+HP:0001622|Premature birth|早产|是指妊娠不足37周间分娩者。|The birth of a baby of less than 37 weeks of gestational age.
+HP:0001623|Breech presentation|臀先露|胎儿进入产道中的先露部位为臀部或足。|A position of the fetus at delivery in which the fetus enters the birth canal with the buttocks or feet first.
+HP:0001626|Abnormality of the cardiovascular system|心血管系统异常|心血管系统的异常（FMA:7161）。|Any abnormality of the `cardiovascular system` (FMA:7161).
+HP:0001627|Abnormality of cardiac morphology|心脏形态异常|心脏形态的异常（FMA:7088）。|A morphological abnormality of the `heart` (FMA:7088).
+HP:0001629|Ventricular septal defect|室间隔缺损|心脏的两个底部室（心室）之间出现孔洞。缺损一般围绕室间隔上方出现。|A hole between the two bottom chambers (ventricles) of the heart. The defect is centered around the most superior aspect of the ventricular septum.
+HP:0001631|Defect in the atrial septum|房间隔缺陷|房间隔缺损（ASD）是房间隔的先天性畸形，能够导致左心房和右心房之间的血液流通（FMA:7108）。|Atrial septal defect (ASD) is a congenital abnormality of the `interatrial septum` (FMA:7108) that enables blood flow between the left and right atria via the interatrial septum.
+HP:0001633|Abnormality of the mitral valve|二尖瓣异常|二尖瓣的异常（FMA:7235）。|An abnormality of the `mitral valve` (FMA:7235).
+HP:0001634|Mitral valve prolapse|二尖瓣脱垂|左心房收缩时一个或两个二尖瓣小叶（尖）向后隆起到左心室。|One or both of the leaflets (cusps) of the mitral valve bulges back into the left atrium upon contraction of the left ventricle.
+HP:0001635|Congestive heart failure|充血性心力衰竭|心脏组织或压力的异常升高迫使心脏泵血的速度不符合组织对血液的需求，导致心脏功能出现异常。心脏衰竭常与心肌收缩缺陷有关。|The presence of an abnormality of cardiac function that is responsible for the failure of the heart to pump blood at a rate that is commensurate with the needs of the tissues or a state in which abnormally elevated filling pressures are required for the heart to do so. Heart failure is frequently related to a defect in myocardial contraction.
+HP:0001636|Tetralogy of Fallot|法洛四联症|一种先天性心脏畸形疾病，包括肺动脉狭窄，主动脉骑跨，室间隔缺损和右心室肥厚。 至少存在四个上述特征种的三个时可被诊断为法洛四联症。|A congenital cardiac malformation comprising pulmonary stenosis, overriding aorta, ventricular septum defect, and right ventricular hypertrophy. The diagnosis of TOF is made if at least three of the four above mentioned features are present.
+HP:0001637|Abnormality of the myocardium|心肌异常|心肌的异常。|An abnormality of the myocardium.
+HP:0001638|Cardiomyopathy|心肌病|心肌结构和功能异常的心肌疾病，在没有冠心病、高血压、心脏瓣膜病以及先天性心脏病的条件下观察到的心肌异常。|A myocardial disorder in which the heart muscle is structurally and functionally abnormal, in the absence of coronary artery disease, hypertension, valvular disease and congenital heart disease sufficient to cause the observed myocardial abnormality.
+HP:0001639|Hypertrophic cardiomyopathy|肥厚性心肌病|肥厚性心肌病（HCM）是指在没有继发因素（高血压，瓣膜疾病）的情况下心室壁发生肥厚的一类疾病。|Hypertrophic cardiomyopathy (HCM) is defined by the presence of increased ventricular wall thickness or mass in the absence of loading conditions (hypertension, valve disease) sufficient to cause the observed abnormality.
+HP:0001640|Cardiomegaly|心脏扩大|心脏（FMA:7088）体积的扩大(PATO:0000586)。|`Increased size`  of the `heart` (FMA:7088).
+HP:0001641|Abnormality of the pulmonary valve|肺动脉瓣异常|肺动脉瓣的异常（FMA:7246）。|An abnormality of the `pulmonary valve` (FMA:7246).
+HP:0001642|Pulmonic stenosis|肺动脉狭窄|在肺动脉瓣（瓣膜狭窄）或略低于肺动脉瓣的部位（漏斗部狭窄）发生右心室流出道的变窄。|A narrowing of the right ventricular outflow tract that can occur at the pulmonary valve (valvular stenosis) or just below the pulmonary valve (infundibular stenosis).
+HP:0001643|Patent ductus arteriosus|动脉导管未闭|在子宫内，动脉导管（DA）通过将主肺动脉连接到降主动脉，使得心室输出的血液从肺分流，向胎盘转移。在出生后的前3天，在健康情况和早产新生儿中，动脉导管（PDA）生理性闭合，通常在出生后约24小时之内基本关闭，约三个星期后完全关闭。生理性关闭失败则为持续性动脉导管未闭（PDA）。根据从左到右分流的程度，动脉导管未闭可能导致临床后果。|In utero, the ductus arteriosus (DA) serves to divert ventricular output away from the lungs and toward the placenta by connecting the main pulmonary artery to the descending aorta. A patent ductus arteriosus (PDA) in the first 3 days of life is a physiologic shunt in healthy term and preterm newborn infants, and normally is substantially closed within about 24 hours after bith and completely closed after about three weeks. Failure of physiologcal closure is referred to a persistent or patent ductus arteriosus (PDA). Depending on the degree of left-to-right shunting, PDA can have clinical consequences.
+HP:0001644|Dilated cardiomyopathy|扩张型心肌病|扩张型心肌病（DCM）被定义为，不存在其他异常病态（包括高血压、瓣膜病）或者冠心病的条件下，左心室扩张以及左心室收缩功能异常，造成系统性收缩障碍。可能存在右心室扩张和功能障碍，但不是诊断的必要条件。|Dilated cardiomyopathy (DCM) is defined by the presence of left ventricular dilatation and left ventricular systolic dysfunction in the absence of abnormal loading conditions (hypertension, valve disease) or coronary artery disease sufficient to cause global systolic impairment. Right ventricular dilation and dysfunction may be present but are not necessary for the diagnosis.
+HP:0001645|Sudden cardiac death|心源性猝死|心脏意外地突然停止跳动，很短时间内发生死亡（一般在发病1小时以内）。|The heart suddenly and unexpectedly stops beating resulting in death within a short time period (generally within 1 h of symptom onset).
+HP:0001646|Abnormality of the aortic valve|主动脉瓣异常|主动脉瓣的异常（FMA:7236）。|Any abnormality of the `aortic valve` (FMA:7236).
+HP:0001647|Bicuspid aortic valve|二叶主动脉瓣|主动脉瓣只有两个瓣膜，而不是正常的三个瓣膜。|The presence of an `aortic valve` (FMA:7236) with two instead of the normal three cusps (flaps).
+HP:0001648|Cor pulmonale|肺源性心脏病|肺动脉和右心室慢性高血压引起的右心衰竭。|Right-sided heart failure resulting from chronic hypertension in the pulmonary arteries and right ventricle.
+HP:0001649|Tachycardia|心动过速|心脏搏动速率极快，心率通常在100次每秒以上。|Excessive rapidity in the action of the heart,usually with a heart rate above 100 beats per minute.
+HP:0001650|Aortic valve stenosis|主动脉瓣狭窄|主动脉瓣狭窄（缩小）。|The presence of a stenosis (narrowing) of the aortic valve.
+HP:0001651|Dextrocardia|右位心|心脏位于胸腔的右边，也就是说，心脏的解剖位置存在一个左-右反转（或“镜像”），心脏位于右侧，而不是左侧。|The heart is located in the right hand sided hemithorax. That is, there is a left-right reversal (or "mirror reflection") of the anatomical location of the heart in which the heart is locate on the right side instead of the left.
+HP:0001653|Mitral regurgitation|二尖瓣返流|一种“二尖瓣异常”（HP:0001633），其特征是心室收缩过程中由于二尖瓣发育不全或无力，导致血液通过二尖瓣逆流、渗漏。|An `abnormality of the mitral valve` (HP:0001633) characterized by insufficiency or incompetence of the mitral valve resulting in retrograde leaking of blood through the mitral valve upon ventricular contraction.
+HP:0001654|Abnormality of the heart valves|心脏瓣膜异常|心脏瓣膜的异常（FMA:7110）。|An abnormality of a `Cardiac valve` (FMA:7110).
+HP:0001655|Patent foramen ovale|卵圆孔未闭|婴儿出生后卵圆孔未能闭合，导致左、右心房间存在一潜在的导管。|Failure of the foramen ovale to seal postnatally, leaving a potential conduit between the left and right cardiac atria.
+HP:0001657|Prolonged QT interval|QT间期延长|由心电图（EKG）测量的从Q波的起始至T波结束的时间过长。|Increased time between the start of the Q wave and the end of the T wave as measured by the electrocardiogram (EKG).
+HP:0001658|Myocardial infarction|心肌梗死|心脏血液供应的阻塞导致心肌坏死，并常伴有胸痛，气短，心悸，焦虑以及特征性的心电图结果和血清标志物肌酸激酶MB分数和肌钙蛋白升高。|Necrosis of the myocardium caused by an obstruction of the blood supply to the heart and often associated with chest pain, shortness of breath, palpitations, and anxiety as well as characteristic EKG findings and elevation of serum markers including creatine kinase-MB fraction and troponin.
+HP:0001659|Aortic regurgitation|主动脉瓣反流|主动脉瓣的功能不全，导致血液从主动脉反流到左心室。|An insufficiency of the aortic valve, leading to regurgitation (backward flow) of blood from the aorta into the left ventricle.
+HP:0001660|Truncus arteriosus|动脉干|起源于心脏的单一动脉干。肺动脉，主动脉和冠状动脉均源于这个单一的主干而不是其他流出道。|A single arterial trunk arises from the cardiac mass. The pulmonary arteries, aorta and coronary arteries arise from this single trunk with no evidence of another outflow tract.
+HP:0001662|Bradycardia|心动过缓|比正常心率慢（成人心率每分钟少于60次）。|A slower than normal heart rate (in adults, slower than 60 beats per minute).
+HP:0001663|Ventricular fibrillation|心室纤维性颤动|不产生左心室收缩的情况下左心室肌肉纤维不受控的收缩。心室颤动通常始于室性早搏和短期的室性心动过速造成的不协调的短期心室纤维性颤动。|Uncontrolled contractions of muscles fibers in the left ventricle not producing contraction of the left ventricle. Ventricular fibrillation usually begins with a ventricular premature contraction and a short run of rapid ventricular tachycardia degenerating into uncoordinating ventricular fibrillations.
+HP:0001664|Torsade de pointes|尖端扭转型室性心动过速|一种室性心动过速，其特征为多种形态的QRS波群改变了原有振幅和周期长度，因而在心电图中围绕基线出现振荡。|A type of ventricular tachycardia characterized by polymorphioc QRS complexes that change in amplitue and cycle length, and thus have the appearance of oscillating around the baseline in the EKG.
+HP:0001667|Right ventricular hypertrophy|右心室肥大|右心室的扩张。通常是由于肺动脉高压引起心室质量的增加，也导致心血管疾病的发病率和死亡率增加。|Enlargement of the right ventricle of the heart. This increase in ventricular mass is often attributed to pulmonary hypertension and is a contributor to cardiovascular morbidity and mortality.
+HP:0001669|Transposition of the great arteries|大动脉转位|最常见的新生儿紫绀型先天性心脏疾病。最典型的表现为心室大动脉连接异常，主动脉起自形态学上的右心室而肺动脉起自形态学上的左心室。|The most common cyanotic congenital heart lesion that presents in neonates. The hallmark of transposition of the great arteries is ventriculoarterial discordance, in which the aorta arises from the morphologic right ventricle and the pulmonary artery arises from the morphologic left ventricle.
+HP:0001670|Asymmetric septal hypertrophy|非对称性中隔肥厚|以不对称性肥厚为特征的一种心肌病，主要是室间隔肥厚和心肌排列紊乱，干扰了左心室的血液排空。|Hypertrophic cardiomyopathy with an asymmetrical pattern of hypertrophy, with a predilection for the interventricular septum and myocyte disarray.
+HP:0001671|Abnormality of the cardiac septa|心中隔异常|左心与右心间隔部分的异常，即心房内或心室内隔膜的异常。|An anomaly of the intra-atrial or intraventricular septum.
+HP:0001673|Tachycardia (with pheochromocytoma)|心动过速（伴有嗜铬细胞瘤）|心脏运动速率极快，通常在100次每秒以上（伴有嗜铬细胞瘤）。|Excessive rapidity in the action of the heart,usually with a heart rate above 100 beats per minute.
+HP:0001674|Complete atrioventricular canal defect|完全性房室通道缺损|一种先天性的心脏缺陷，其特征为房间隔缺损，室间隔缺损，房室瓣正常。|A congenital heart defect characteizred by a specific combination of heart defects with a common atrioventricular valve, primum atrial septal defect and inlet ventricular septal defect.
+HP:0001675|Rhythm disturbances associated with pheochromocytoma|嗜铬细胞瘤相关性心脏节律紊乱|由嗜铬细胞瘤分泌过量儿茶酚胺所引起的心律失常|Cardiac arrhythmias associated with pheochromocytoma－caused excessive catecholamine secretion
+HP:0001676|Palpitations (with pheochromocytoma)|心悸（伴嗜铬细胞瘤）|心悸（伴嗜铬细胞瘤）|Palpitations (with pheochromocytoma)
+HP:0001677|Coronary artery disease|冠状动脉疾病|冠状动脉壁内粥样斑块的积聚导致冠状动脉直径减小，增加了心肌缺血的风险。|Reduction of the diameter of the coronary arteries as the result of an accumulation of atheromatous plaques within the walls of the coronary arteries, which increases the risk of myocardial ischemia.
+HP:0001678|Atrioventricular block|房室传导阻滞|房室结介导的心房去极化向心室传导的延迟或阻滞。|Delayed or lack of conduction of atrial depolarizations through the atrioventricular node to the ventricles.
+HP:0001679|Abnormality of the aorta|主动脉异常|主动脉的异常（FMA:3734）。|An abnormality of the `aorta` (FMA:3734).
+HP:0001680|Coarctation of aorta|主动脉缩窄|主动脉节段性的狭窄或阻塞。|Coarctation of the aorta is a narrowing or constriction of a segment of the aorta.
+HP:0001681|Angina pectoris|心绞痛|用力过度或应激状态引起的突发性胸痛，与心肌缺血有关。|Paroxysmal chest pain that occurs with exertion or stress and is related to myocardial ischemia.
+HP:0001682|Subaortic stenosis|主动脉基部狭窄|血液流经左室流出道时发生梗阻，与主动脉瓣下狭窄有关。|A fixed form of obstruction to blood flow across the `left-ventricular outflow tract` (FMA:9473) related to stenosis (narrowing) below the level of the aortic valve.
+HP:0001683|Ectopia cordis|心脏异位|通过腹壁上的裂缝，心脏部分或者全部暴露在胸腔外的先天腹壁畸形。|Congenital malformation of the ventral wall with partial or total evisceration of the heart outside the thoracic cavity and through the defect in the ventral wall.
+HP:0001684|Secundum atrial septal defect|第二房间隔缺损|一种`房间隔缺损`（HP:0001631），由卵圆孔扩大，第二房间隔发育不全，或第一房间隔过度吸收引起。|A kind of `atrial septum defect`（HP:0001631） arising from an enlarged foramen ovale, inadequate growth of the septum secundum, or excessive absorption of the septum primum.
+HP:0001685|Myocardial fibrosis|心肌纤维化|心肌纤维化是指心肌组织中成纤维细胞异常增殖。|Cardiac fibrosis commonly refers to the proliferation of fibroblasts in the cardiac muscle.
+HP:0001686|Loss of voice|失声|#####|#####
+HP:0001688|Sinus bradycardia|窦性心动过缓|心动过缓指的是静息状态下平均窦性心率少于每分钟50次。|Bradycardia related to a mean resting sinus rate of less than 50 beats per minute.
+HP:0001691|Muscular subvalvular aortic stenosis|肌性主动脉瓣下狭窄|一类室间隔肌肉增厚引起的主动脉瓣下狭窄，这导致血液流经左心室流出道受阻。|A type of subvalvular aortic stenosis resulting from thickening of the musculature of the interventricular septum, which results in obstruction to blood flow though the left-ventricular outflow tract.
+HP:0001692|Primary atrial arrhythmia|原发性房性心律失常|阵发性室上性心搏过速的一种，是原发性的心脏电生理传导紊乱。|A type of supraventricular tachycardia in which the atria are the principal site of electrophysiologic disturbance.
+HP:0001693|Cardiac shunt|心脏分流|偏离正常血液循环的心脏血流模式。|Pattern of blood flow in the heart that deviates from the normal circuit of the circulatory system.
+HP:0001694|Right-to-left shunt|右向左分流|血液在心脏流动的回路发生异常，出现从右向左流动。|Pattern of blood flow in the heart that deviates from the normal circuit of the circulatory system from the right side of the heart to the left.
+HP:0001695|Cardiac arrest|心脏骤停|心脏骤停也称为心肺骤停或循环骤停，由心脏收缩功能部分或完全丧失，导致血液循环突然停止。|Cardiac arrest, also known as cardiopulmonary arrest or circulatory arrest, is a sudden stop in effective blood circulation due to the failure of the heart to contract effectively or at all.
+HP:0001696|Situs inversus totalis|全内脏反位|胸腹主要器官的解剖学位置左右反转（或“镜面反射”）。|A left-right reversal (or "mirror reflection") of the anatomical location of the major thoracic and abdominal organs.
+HP:0001697|Abnormality of the pericardium|心包异常|心包异常是指包绕在心脏和和大血管根部(如主动脉近端，腔静脉，和肺动脉)外的双层囊性结构发生异常。|An abnormality of the `pericardium` (FMA:9869), i.e., of the  fluid filled sac that surrounds the heart and the proximal ends of the aorta, vena cava, and the pulmonary artery.
+HP:0001698|Pericardial effusion|心包积液|心包内液体积累。|Accumulation of fluid within the pericardium.
+HP:0001699|Sudden death|猝死|#####|Rapid and unexpected death.
+HP:0001700|Myocardial necrosis|心肌坏死|心肌坏死。|Myocardial cells take place necrosis
+HP:0001701|Pericarditis|心包炎|包裹在心脏周围的囊状物（心包）发生的炎症反应。|Inflammation of the sac-like covering around the heart (pericardium).
+HP:0001702|Abnormality of the tricuspid valve|三尖瓣异常|右房室瓣即三尖瓣的异常（FMA:7234）。|An abnormality of the `tricuspid valve` (FMA:7234).
+HP:0001704|Tricuspid valve prolapse|三尖瓣脱垂|右心室收缩时三尖瓣瓣膜的一个或多个瓣叶（尖）的向后凸出进入右心房。|One or more of the leaflets (cusps) of the tricuspid valve bulges back into the right atrium upon contraction of the right ventricle.
+HP:0001705|Right ventricular outlet obstruction|右心室流出道梗阻|法洛四联症特征之一，右心室流出道狭窄或梗阻可位于漏斗部，肺动脉瓣膜部，肺动脉瓣环，肺动脉主干或肺动脉分支。|One feathers of the tetralogy of fallot, right ventricular outlet get narrowing or obstructing in infundibulum, infundibulum, pulmonary valve ring, main pulmonary artery or branch pulmonary artery.
+HP:0001706|Endocardial fibroelastosis|心内膜弹力纤维增生症|一种疾病状态，以左心室壁肥厚、心内膜外包裹一层厚的弹力纤维组织帽为特征，心室功能偶有降低，但通常增强。|A condition characterized by hypertrophy of the wall of the left ventricle and conversion of the endocardium into a thick fibroelastic coat,with the capacity of the ventricle sometimes reduced,but often increased.
+HP:0001707|Abnormality of the right ventricle|右心室异常|心脏右心室的异常（FMA:7098）。|An abnormality of the `right ventricle` (FMA:7098) of the heart.
+HP:0001708|Right ventricular failure|右心衰竭|右心室行使其功能的能力（从肺动脉接收血液和将血液泵入右心房）减弱，经常导致外周性水肿，腹水和肝肿大。|Reduced ability of the right ventricle to perform its function (to receive blood from the right atrium and to eject blood into the pulmonary artery), often leading top pitting peripheral edema, ascites, and hepatomegaly.
+HP:0001709|Third degree atrioventricular block|三度房室传导阻滞|房室传导阻滞的一种，心房的冲动无法传导到心室。|A form of  atrioventricular block  in which atrial impulse propagates to the ventricles.
+HP:0001710|Conotruncal defect|圆锥动脉干缺损|先天性心脏流出道畸形。圆锥动脉干畸形被认为是由于胚胎时期心脏流出道畸形造成的，包括动脉干永存，法洛四联症，主动脉弓中断，大动脉转位以及右心室双出口。|A congenital malformation of the outflow tract of the heart. Conotruncal defects are thought to result from a disturbance of the outflow tract of the embryonic heart, and comprise truncus arteriosus, tetralogy of Fallot, interrupted aortic arch, transposition of the great arteries, and double outlet right ventricle.
+HP:0001711|Abnormality of the left ventricle|左心室异常|心脏左心室的异常（7101 FMA）。|An abnormality of the `left ventricle` (FMA:7101) of the heart.
+HP:0001712|Left ventricular hypertrophy|左心室肥大|由于长期压力或容量负荷异常引起的心脏左心室扩张，是由心室质量增大形成的，是心血管病发病和死亡的一个重要原因。|Enlargement of the left ventricle of the heart. This increase in ventricular mass is attributed to sustained abnormal pressure or volume loads and is a contributor to cardiovascular morbidity and mortality.
+HP:0001713|Abnormality of cardiac ventricle|心室异常|心脏心室的异常（FMA:7100）。|An abnormality of a `cardiac ventricle` (FMA:7100).
+HP:0001714|Ventricular hypertrophy|心室肥厚|心脏心室肌肉组织扩大、心室壁增宽并失去弹性。心室肥厚在临床上分为左，右心室肥厚。|Enlargement of the cardiac ventricular muscle tissue with increase in the width of the wall of the ventricle and loss of elasticity. Ventricular hypertrophy is clinically differentiated into left and right ventricular hypertrophy.
+HP:0001716|Wolff-Parkinson-White syndrome|午-帕-怀三氏综合征|由于房室附加通路产生异常冲动,造成心室提前激动的一种心脏传导系统紊乱疾病。|A disorder of the cardiac conduction system of the heart characterized by ventricular preexcitation due to the presence of an abnormal accessory atrioventricular electrical conduction pathway.
+HP:0001717|Coronary artery calcification|冠状动脉钙化|钙化（PATO:0001447），即钙盐的病理性沉积，影响`冠状动脉`（FMA:3800）。|`Calcification` (PATO:0001447), that is, pathological  deposition of calcium salts, affecting  the `coronary arteries` (FMA:3800).
+HP:0001718|Mitral stenosis|二尖瓣狭窄|二尖瓣的孔口异常狭窄。|Ab abnormal narrowing of the orifice of the mitral valve.
+HP:0001719|Double outlet right ventricle|右室双出口|右室双出口（DORV）是一种心室与动脉的异常连接，指两个大血管（主动脉和肺动脉）完全或主要从右心室发出。|Double outlet right ventricle (DORV) is a type of ventriculoarterial connection in which both great vessels arise entirely or predominantly from the right ventricle.
+HP:0001722|High-output congestive heart failure|高输出充血性心脏衰竭|心输出量升高的一种心力衰竭形式。这可能发生在患有心脏衰竭和甲状腺功能亢进症，贫血，妊娠，动静脉瘘和其他疾病的患者中。|A form of heart failure characterized by elevated cardiac output. This may be seen in patients with heart failure and hyperthyroidism, anemia, pregnancy, arteriovenous fistulae, and others.
+HP:0001723|Restrictive cardiomyopathy|限制性心肌病|限制性心肌病是一类心室壁过分坚硬，阻碍心室充盈的心肌病，其特征为心脏舒张功能异常，而收缩功能却正常或几乎正常。|Myocardial disease in which the ventricular walls are excessively rigid,impeding ventricular filling; it is marked by abnormal diastolic function but by normal or nearly normal systolic function.
+HP:0001724|Aortic dilatation|主动脉扩张|主动脉增大，超过正常大小。|Aorta enlarge to greater than normal size.
+HP:0001726|Increased prevalence of valvular disease|瓣膜病发病率增加|瓣膜病发病率增加|Increased prevalence of valvular disease
+HP:0001727|Thromboembolic stroke|血栓栓塞性脑卒中|由于血栓栓塞发生脑血管意外（脑卒中/中风）。|A cerebrovascular accident (stroke) that occurs because of thromboembolism.
+HP:0001730|Progressive hearing impairment|渐进性听力损失|一种进行性的（PATO:0001818）听力丧失（===HP:0000365===）。|An abnormality of the `ear` (FMA:52780).
+HP:0001732|Abnormality of the pancreas|胰腺异常|胰腺的异常。|An abnormality of the `pancreas` (FMA:7198).
+HP:0001733|Pancreatitis|胰腺炎|存在于胰腺的炎症。|The presence of `inflammation` (MPATH:212) in the `pancreas` (FMA:7198).
+HP:0001734|Annular pancreas|环状胰|一种胰腺先天异常：胰腺完全（有时候不完全）环绕十二指肠第二段，且偶尔会阻塞更近段的十二指肠。|A congenital anomaly in which the pancreas completely (or sometimes incompletely) encircles the second portion of duodenum and occasionally obstructs the more proximal duodenum.
+HP:0001735|Acute pancreatitis|急性胰腺炎|一种急性形式的胰腺炎。|A `acute` (PATO:0000389) form of `pancreatitis` (HP:0001733).
+HP:0001737|Pancreatic cysts|胰腺囊肿|被覆粘膜上皮的胰腺囊肿。|A cyst of the pancreas that possess a lining of mucous epithelium.
+HP:0001738|Exocrine pancreatic insufficiency|胰腺外分泌功能不全|#####|Impaired function of the exocrine pancreas associated with a reduced ability to digest foods because of lack of digestive enzymes.
+HP:0001739|Abnormality of the nasopharynx|鼻咽部异常|#####|#####
+HP:0001741|Phimosis|包茎|男性的包皮不能完全从龟头后缩（让龟头露出来）。|The male foreskin cannot be fully retracted from the head of the penis.
+HP:0001742|Nasal obstruction|鼻塞|降低空气通过鼻腔的能力，常常导致用口呼吸。|Reduced ability to pass air through the nasal cavity often leading to mouth breathing.
+HP:0001743|Abnormality of the spleen|脾脏异常|脾脏的异常。|An abnormality of the `spleen` (FMA:7196).
+HP:0001744|Splenomegaly|脾肿大|脾脏尺寸异常增加。|Abnormal `increased size` (PATO:0000586) of the `spleen` (FMA:7196).
+HP:0001746|Asplenia|无脾|脾的缺失（不发育）。|Absence (aplasia) of the `spleen` (FMA:7196).
+HP:0001747|Accessory spleen|副脾|副脾为一个圆形的、等超声波回声的、均质且光滑的结构，是一种正常变异，其多数位于脾的内侧轮廓，邻近门区或在下极周围。无致病相关性。|An accessory spleen is a round, iso-echogenic, homogenic and smooth structure and is seen as a normal variant mostly on the medial contour of the spleen, near the hilus or around the lower pole. This has no pathogenic relevance.
+HP:0001748|Polysplenia|多脾|多脾是一种先天性疾病，表现为多个小的副脾。|Polysplenia is a congenital disease manifested by multiple small accessory spleens.
+HP:0001750|Single ventricle|单心室|心脏只有一个心室。|The exist of single ventricle in the heart.
+HP:0001751|Vestibular dysfunction|前庭功能障碍|前庭器官的功能异常。|An abnormality of the functioning of the vestibular apparatus.
+HP:0001756|Vestibular hypofunction|前庭功能减退|前庭器官的功能减弱。|Reduced functioning of the vestibular apparatus.
+HP:0001757|High-frequency sensorineural hearing impairment|高频感音神经性听力障碍|以损害高频听力为主的“感音神经性听力障碍” （HP: 0008538）的类型。|Reduced functioning of the vestibular apparatus.
+HP:0001760|Abnormality of the foot|足部异常|足的骨骼异常。|An abnormality of the `skeleton of foot` (FMA:24222).
+HP:0001761|Pes cavus|高弓足|足弓（FMA:43942）异常高。也称为高脚背，足弓是指承重时脚底与鞋底间的明显空间。|The presence of an unusually high `plantar arch` (FMA:43942). Also called high instep, pes cavus refers to a distinctly hollow form of the sole of the foot when it is bearing weight.
+HP:0001762|Talipes equinovarus|马蹄内翻足|马蹄内翻足通常有四个主要组成部分：前足折反内收、脚跟和足后部反转、踝关节和距下关节马蹄形（伸展受限）和腿向内旋转。|Talipes equinovarus (also called clubfoot) typically has four main components: inversion and adduction of the forefoot; inversion of the heel and hindfoot; equinus (limitation of extension) of the ankle and subtalar joint; and internal rotation of the leg.
+HP:0001763|Pes planus|扁平足|扁平足（FMA:43942）是当人直立时足底与地板或地面可以接触;或者在患者仰卧时，检查者用平板以预期负重的压力压紧脚底时两者表面接触;或者足弓的高度减小。|A foot where the `plantar arch` (FMA:43942) is in contact with the ground or floor when the individual is standing; or, in a patient lying supine, a foot where the arch is in contact with the surface of a flat board pressed against the sole of the foot by the examiner with a pressure similar to that expected from weight bearing; or, the height of the arch is reduced.
+HP:0001765|Hammertoe|槌状趾|跖骨过伸伴趾间关节过度屈曲。|Hyperextension of the metatarsal-phalangeal joint with hyperflexion of the proximal interphalangeal (PIP) joint.
+HP:0001769|Broad foot|宽足|足部的测量宽度大于同龄人群的第95百分位数;或者过宽，与足的长度不成比例。|A foot for which the measured width is above the 95th centile for age; or, a foot that appears disproportionately wide for its length.
+HP:0001770|Toe syndactyly|脚趾并趾畸形|脚趾间存在蹼或融合脚趾，可以仅涉及软组织或包括骨骼结构。发生在胫-腓轴线的骨性融合被称为“骨性并趾畸形”；脚趾在近-远端轴的骨性融合被称为“关节粘连”。|Webbing or fusion of the toes, involving soft parts only or including bone structure. Bony fusions are revered to as "bony" Syndactyly if the fusion occurs in a radio-ulnar axis. Fusions of bones of the toes in a proximo-distal axis are refered to as "Symphalangism".
+HP:0001771|Achilles tendon contracture|跟腱挛缩|在跟腱（FMA:51061）位置发生的挛缩。|A contracture of the `Achilles tendon` (FMA:51061).
+HP:0001772|Talipes equinovalgus|马蹄外翻足|脚和踝关节变形，脚向下向外弯曲。|A deformity of foot and ankle in which the foot is bent down and outwards.
+HP:0001773|Short foot|短足|27-41周的胎儿足的长度低于平均值2个标准差以上；出生-16岁的人群，足长度小于人群的第3百分位数（客观）。另外，足的长度与宽度出现不成比例短脚（主观）。|A measured foot length that is more than 2 SD below the mean for a newborn of 27 - 41 weeks gestation, or foot that is less than the 3rd centile for individuals from birth to 16 years of age (objective). Alternatively, a foot that appears disproportionately short (subjective).
+HP:0001775|Tarsal osteovalgus|跗骨骨外翻|#####|#####
+HP:0001776|Bilateral talipes equinovarus|双侧马蹄内翻足|双侧马蹄内翻足畸形（请参阅HP:0001762）。|Bilateral clubfoot deformity (see HP:0001762).
+HP:0001780|Abnormality of toe|脚趾异常|脚趾的异常。|An anomaly of a `toe` (FMA:25046).
+HP:0001782|Bulbous tips of toes|球茎状趾尖|脚趾的形态学异常，脚趾尖突出形似球茎。|An abnormality of the morphology of the toes, such that the tips of the toes are prominent and bulbous.
+HP:0001783|Broad metatarsal|跖骨变宽|跖骨一侧到另一侧的宽度增加。|Increased side-to-side width of a metatarsal bone.
+HP:0001785|Ankle swelling|踝关节肿胀|#####|#####
+HP:0001786|Narrow foot|窄足|足部宽度低于同龄人群第5百分位数;或者足的宽度与长度出现不成比例的狭窄足。|A foot for which the measured width is below the 5th centile for age; or, a foot that appears disproportionately narrow for its length.
+HP:0001787|Abnormal delivery|分娩异常|产程中出现异常。|An abnormality of the birth process.
+HP:0001788|Premature rupture of membranes|胎膜早破|距临产时间超过1小时以上时发生的胎膜破裂。|Premature rupture of membranes (PROM) is a condition which occurs in pregnancy when the amniotic sac ruptures more than an hour before the onset of labor.
+HP:0001789|Hydrops fetalis|胎儿水肿|两个或以上的胎儿体内腔隙出现异常液体积聚，包括腹水，胸水，心包积液和皮肤水肿。|The abnormal accumulation of fluid in two or more fetal compartments, including ascites, pleural effusion, pericardial effusion, and skin edema.
+HP:0001790|Nonimmune hydrops fetalis|非免疫性胎儿水肿|非免疫性胎儿水肿是指胎儿体内出现两处或以上不同部位的体液异常聚积；但母体循环中没有抗胎儿红细胞抗体|Nonimmune hydrops fetalis is a serious fetal condition in which abnormal fluid accumulates in at least two different compartments ,and in which ciruulating antibodies against red cell antigens are absent in the mother.
+HP:0001791|Fetal ascites|胎儿腹水|胎儿期腹腔内的液体积累。|Accumulation of fluid in the peritoneal cavity during the fetal period.
+HP:0001792|Small nail|微甲|甲的长度和宽度变短或变窄，即未充分发育的甲。|A nail that is diminished in length and width, i.e., underdeveloped `nail` (FMA:54326).
+HP:0001795|Hyperconvex nail|甲异常凸起|当检查者看向指（趾）尖部位时，可观察到甲表面有纵向凸起。|When viewed on end (with the digit tip pointing toward the examiner's eye) the curve of the nail forms a tighter curve of convexity.
+HP:0001798|Anonychia|无甲症|甲的发育不全。|`Aplasia` (MPATH:58) of the `nail` (FMA:54326).
+HP:0001799|Short nail|短甲|甲的长度较短。|Decreased length of nail.
+HP:0001800|Hypoplastic toenails|趾甲发育不良|趾甲未发育完全。|Underdevelopment of the `toenail`(FMA:54328).
+HP:0001802|Absent toenail|趾甲缺损|先天性趾甲缺损。|Congenital absence of the `toenail`(FMA:54328).
+HP:0001803|Nail pits|甲凹点|甲背面小的凹点（通常约1毫米或更小）。|Small (typically about 1 mm or less in size) depressions on the dorsal nail surface.
+HP:0001804|Hypoplastic fingernail|指甲发育不良|指甲未发育完全。|Underdevelopment of a `fingernail`(FMA:54327).
+HP:0001805|Thick nail|厚甲|从甲的末端可以观察到甲增厚。|Nail that appears thick when viewed on end.
+HP:0001806|Onycholysis|甲分离|甲板从甲床分离。|Detachment of the nail from the nail bed.
+HP:0001807|Ridged nail|甲纵嵴|甲板纵向线性突起。|Longitudinal, linear prominences in the nail plate.
+HP:0001808|Fragile nails|脆甲|甲容易断裂。|Nails that easily break.
+HP:0001809|Split nail|甲纵裂|甲板沿纵轴分裂但是沿横轴依然相连。|A nail plate that has a longitudinal separation and the two sections of the nail share the same lateral radius of curvature.
+HP:0001810|Dystrophic toenail|趾甲营养不良|趾甲异常包括颜色的改变（甲变色）和甲板部分或完全性毁损。|Toenail changes apart from changes of the color of the toenail (nail dyschromia) that involve partial or complete disruption of the various keratinous layers of the nail plate.
+HP:0001812|Hyperconvex fingernails|指甲异常凸起|当检查者看向指尖部位时可以观察到甲表面有纵向凸起。|When viewed on end (with the finger tip pointing toward the examiner's eye) the curve of the fingernail forms a tighter curve of convexity.
+HP:0001814|Deep-set nails|嵌甲|甲长到皮肤里。|Deeply placed nails.
+HP:0001816|Thin nail|薄甲|从甲的末端可观察到甲变薄。|Nail that appears thin when viewed on end.
+HP:0001817|Absent fingernail|指甲缺损|指甲的缺损。|Absence of a `fingernail`(FMA:54327).
+HP:0001818|Paronychia|甲沟炎|甲沟炎常发生在甲侧缘或基底部，由常见易感细菌或真菌感染引起，感染可急性发生（急性甲沟炎）或慢性发展（慢性甲沟炎）。|The nail disease paronychia is an often-tender bacterial or fungal hand infection or foot infection where the nail and skin meet at the side or the base of a finger or toenail. The infection can start suddenly (acute paronychia) or gradually (chronic paronychia).
+HP:0001820|Leukonychia|白甲|甲褪色呈白色。|White discoloration  of the `nails` (FMA:54326).
+HP:0001821|Broad nail|宽甲|甲的宽度增加。|Increased width of nail.
+HP:0001822|Hallux valgus|拇趾外翻|拇趾的横向偏差（即小趾方向）。|Lateral deviation of the great toe (i.e., in the direction of the little toe).
+HP:0001824|Weight loss|体重减轻|体重减少。|Reduction inexisting body weight.
+HP:0001827|Genital tract atresia|生殖道闭锁|生殖道的先天性管道闭塞。|Congenital occlusion of a tube in the genital tract.
+HP:0001829|Foot polydactyly|足多趾|一种多趾畸形（HP:0010442），特点是存在额外的脚趾|A kind of `polydactyly` (HP:0010442) characterized by the presence of a supernumerary toe or toes.
+HP:0001830|Postaxial foot polydactyly|轴后趾足|多趾畸形最常见的是单足存在六个脚趾。 轴后多趾形成影响外侧幅肋，此外重复可能形成形态良好的关节和趾，也可能形成非常初级的趾。|Polydactyly of the foot most commonly refers to the presence of six toes on one foot. Postaxial polydactyly affects the lateral ray and the duplication may range from a well-formed articulated digit to a rudimentary digit.
+HP:0001831|Short toe|短趾|脚趾（FMA:25046）与足部相比出现不成比例的短。|A `toe` (FMA:25046) that appears disproportionately short compared to the foot.
+HP:0001832|Abnormality of the metatarsal bones|跖骨异常|跖骨的异常，跖骨是位于足后部和足中部的跗骨和脚趾的趾骨之间的五个管状骨。|Abnormalities of the `metatarsal bones` (FMA:24492) (i.e. of five tubular bones located between the tarsal bones of the hind- and mid-foot and the phalanges of the toes).
+HP:0001833|Long foot|长足|足跟至前部的长度增加。|Increased back to front length of the foot.
+HP:0001836|Camptodactyly of toe|脚趾屈曲畸形|近端趾间关节逐步渐进的无痛屈曲挛缩。这个术语是指一个或多个脚趾屈曲畸形。|Camptodactyly is a painless flexion contracture of the proximal interphalangeal (PIP) joint that is usually gradually progressive. This term refers to camptodactyly of one or more toes.
+HP:0001837|Broad toe|宽趾|非拇趾的脚趾宽度明显增加而背腹间高度不增加。|Visible increase in width of the non-hallux digit without an increase in the dorso-ventral dimension.
+HP:0001838|Rocker bottom foot|跷底足|双足跟突出及鞋子可见凸出轮廓。|The presence of both a prominent heel and a convex contour of the sole.
+HP:0001839|Split foot|脚劈裂|脚的中间部分（脚趾和跖骨）缺如，呈现劈裂外观。严重性变化很大，从第三脚趾轻度发育不良、第二或第三脚趾缺如，到寡趾或单趾脚。|A condition in which middle parts of the foot (toes and metatarsals) are missing giving a cleft appearance. The severity is very variable ranging from slightly hypoplastic 3rd toe over absent 2nd or 3rd toes as far as oligo- or monodactyl feet.
+HP:0001840|Metatarsus adductus|跖骨异常|跖骨均向内侧偏离（胫侧），即前足部的骨骼向体侧弯曲或转动。|The metatarsals are deviated medially (tibially), that is, the bones in the front half of the foot bend or turn in toward the body.
+HP:0001841|Preaxial foot polydactyly|轴前趾足|第一幅肋部分或全部重复。|Duplication of all or part of the first ray.
+HP:0001842|Acroosteolysis (feet)|肢端溶骨（足）|#####|#####
+HP:0001844|Abnormality of the hallux|拇趾异常|本术语适用于大脚趾（也称为脚拇趾）的所有异常。|This term applies for all abnormalities of the big toe, also called hallux.
+HP:0001845|Overlapping toe|重叠趾|描述静息状态时，一个足趾位于邻近的另一个足趾的背侧面上。|Describes a foot digit resting on the dorsal surface of an adjacent digit when the foot is at rest.
+HP:0001847|Long hallux|长拇趾|拇趾（FMA:25047）的长度增加。|Increased length of the `big toe` (FMA:25047).
+HP:0001848|Calcaneovalgus deformity|足外翻畸形|足相对胫骨的姿势畸形。足跟（跟骨）向下（即踝向上弯曲）和向外翻转（外翻）。|This is a postural deformity in which the foot is positioned up against the tibia. The heel (calcaneus) is positioned downward (that is, the ankle is flexed upward), and the heel is turned outward (valgus).
+HP:0001849|Oligodactyly (feet)|少趾畸形|发育缺陷造成脚趾的数量少于正常数量。|A developmental defect resulting in the presence of fewer than the normal number of toes.
+HP:0001850|Abnormality of the tarsal bones|跗骨异常|跗骨的异常，跗骨是足部由七个骨头组成的骨头群，位于胫骨、腓骨和跖骨之间，包括跟骨（脚跟骨）和距骨（脚踝）骨。|An abnormality of the tarsus are the cluster of seven bones in the foot between the tibia and fibula and the metatarsus, including the calcaneus (heel) bone and the talus (ankle) bone.
+HP:0001852|Sandal gap|趾间畸形|第一、二趾之间的间距增大。|A widely spaced gap between the first toe (the great toe) and the second toe.
+HP:0001853|Bifid distal phalanx of toe|远节趾骨骨裂|#####|#####
+HP:0001854|Gout (feet)|痛风（足）|痛风（HP:0001997）影响大脚趾的跖趾关节。|`Gout` (HP:0001997) affecting the `Metatarsophalangeal joint of big toe`.
+HP:0001857|Short distal phalanx of toe|远节趾骨短小|远节趾骨（FMA:75830）从脚趾末端到趾远侧纹或远端趾间关节屈曲点距离异常短，即远节趾骨异常短。|Short distance from the end of the toe to the most distal interphalangeal crease or distal interphalangeal joint flexion point, i.e., abnormally short `distal phalanx of toe` (FMA:75830).
+HP:0001859|Distal symphalangism (feet)|远端趾关节粘连（足）|先天性远端趾关节粘连|#####
+HP:0001862|Acral ulceration and osteomyelitis leading to autoamputation of the digits (feet)|肢端溃疡和骨髓炎导致脚趾自发性离断|#####|#####
+HP:0001863|Toe clinodactyly|脚趾屈趾畸形|脚趾向胫侧（即大脚趾侧）弯曲。|Bending or curvature of a `toe` (FMA:25046) in the tibial direction (i.e., towards the big toe).
+HP:0001864|Fifth toe clinodactyly|第五趾屈曲畸形|第五趾（FMA:25053）向胫侧（即大脚趾侧）弯曲|Bending or curvature of a `fifth toe` (FMA:25053) in the tibial direction (i.e., towards the big toe).
+HP:0001868|Autoamputation (feet)|（足）自发性离断|#####|#####
+HP:0001869|Deep plantar creases|跖部深褶|跖部皮肤出现异常明显的皱褶（呈脊或皱纹）。|The presence of unusually deep creases (ridges/wrinkles) on the `skin of sole of foot` (FMA:37849).
+HP:0001870|Acroosteolysis of distal phalanges (feet)|远节趾骨肢端溶骨|#####|#####
+HP:0001871|Abnormality of blood and blood-forming tissues|血液和造血组织异常|造血系统的异常（FMA:9667）。|An abnormality of the `hematopoietic system` (FMA:9667).
+HP:0001872|Abnormality of thrombocytes|血小板异常|血小板异常（CL:0000233）。|An abnormality of `platelets` (CL:0000233).
+HP:0001873|Thrombocytopenia|血小板减少症|血循环中血小板（:0000762 CL）的数量的减少。|A reduction in the number of circulating `thrombocytes` (CL:0000762).
+HP:0001874|Abnormality of neutrophils|中性粒细胞异常|中性粒细胞（CL:0000775）异常。|A `neutrophil` (CL:0000775) abnormality.
+HP:0001875|Neutropenia|中性粒细胞减少症|外周血中性粒细胞数目异常降低。|An abnormally low number of `neutrophils` (CL:0000775) in the peripheral `blood` (FMA:9670).
+HP:0001876|Pancytopenia|全血细胞减少症|所有血细胞类型的数目的异常降低（红细胞，白细胞，和血小板）。|An abnormal reduction in numbers of all blood cell types (red blood cells, white blood cells, and platelets).
+HP:0001877|Abnormality of erythrocytes|红细胞异常|红细胞异常（CL:0000232）（红血细胞）。|An abnormality of `erythrocytes` (CL:0000232) (red-blood cells).
+HP:0001878|Hemolytic anemia|溶血性贫血|一型由红细胞（溶血）过早破坏引起的贫血。|A type of anemia caused by premature destruction of red blood cells (hemolysis).
+HP:0001879|Abnormality of eosinophils|嗜酸性粒细胞异常|嗜酸性粒细胞（CL:0000771）异常。|An `eosinophil` (CL:0000771) abnormality.
+HP:0001880|Eosinophilia|嗜酸性粒细胞增多症|血中（FMA:9670）嗜酸粒细胞（CL:0000771）增加。|Increased count of `eosinophils` (CL:0000771) in the `blood` (FMA:9670).
+HP:0001881|Abnormality of leukocytes|白细胞异常|白细胞的异常（CL:0000738）。|An abnormality of `leukocytes` (CL:0000738).
+HP:0001882|Leukopenia|白细胞减少症|血液中白细胞（CL:0000738）的数量异常减少。|An abnormal decreased number of `leukocytes` (CL:0000738) in the `blood` (FMA:9670).
+HP:0001883|Talipes|畸形足|足和踝部的变形，有不同的亚型:马蹄内翻足、马蹄外翻足、仰趾内翻足和仰趾外翻足。|A deformity of foot and ankle that has different subtypes that are talipes equinovarus, talipes equinovalgus, talipes calcaneovarus and talipes calcaneovalgus.
+HP:0001884|Talipes calcaneovalgus|仰趾外翻足|仰趾外翻足是一种柔软的足畸形（相对于僵硬的先天性垂直型距骨变形足），可以任一形式出现，位置性的或结构性的足变形，取决于其严重性和/或病因。 仰趾外翻足变形的轴线是在胫距关节，足的位置处于极端过伸状态。脚呈现“向上向外”的外观，足背几乎接触到踝关节和小腿下端的前部。|Talipes calcaneovalgus is a flexible foot deformity (as opposed to a rigid congenital vertical talus foot deformity) that can either present as a positional or structural foot deformity depending on severity and/or causality. The axis of calcaneovalgus deformity is in the tibiotalar joint, where the foot is positioned in extreme hyperextension. On inspection, the foot has an "up and out" appearance, with the dorsal forefoot practically touching the anterior aspect of the ankle and lower leg.
+HP:0001885|Short 2nd toe|短第2趾|'第二趾`不发达（发育不全）（FMA:25048）。|Underdevelopment (hypoplasia) of the `second toe` (FMA:25048).
+HP:0001886|Osteomyelitis or necrosis, distal, due to sensory neuropathy (feet)|由于感觉神经病变导致的远节骨髓炎或坏死（足）|#####|#####
+HP:0001888|Lymphopenia|淋巴细胞减少症|血液中的淋巴细胞（0000542 CL）的数量减少。|A reduced number of `lymphocytes` (CL:0000542) in the blood.
+HP:0001889|Megaloblastic anemia|巨幼细胞性贫血|以比正常细胞体积大的幼红细胞（巨幼红细胞）为特征的贫血。|Anemia characterized by the presence of erythroblasts that are larger than normal (megaloblasts).
+HP:0001890|Autoimmune hemolytic anemia|自身免疫性溶血性贫血|一种与自身免疫有关的溶血性贫血（HP:0001878）。|An autoimmune form of `hemolytic anemia` (HP:0001878).
+HP:0001891|Iron deficiency anemia|缺铁性贫血|#####|#####
+HP:0001892|Abnormal bleeding|异常出血|异常出血易感性，通常称为出血易感性体质。出血体质可能与血管、血小板和凝血功能障碍相关。|An abnormal susceptibility to bleeding, often referred to as a bleeding diathesis. A bleeding diathesis may be related to vascular, platelet and coagulation defects.
+HP:0001894|Thrombocytosis|血小板增多症|外周血血小板的数目增高。|Increased numbers of platelets in the peripheral blood.
+HP:0001895|Normochromic anemia|正常色素性贫血|#####|#####
+HP:0001896|Reticulocytopenia|网状细胞减少症|外周血的网状细胞（CL:0000558）的数量减少。|A reduced number of `reticulocytes` (CL:0000558) in the peripheral blood.
+HP:0001897|Normocytic anemia|正常红细胞性贫血|一种贫血，其中红细胞的体积是正常的。|A kind of anemia in which the volume of the red blood cells is normal.
+HP:0001898|Increased red blood cell mass|红细胞增多症|循环中的的红细胞量增加。|The presence of an increased mass of red blood cells in the circulation.
+HP:0001899|Increased hematocrit|红细胞压积增高|在血液检测样本中红细胞累积体积增加。|An increase in the volume of packed erythrocytes in a blood specimen.
+HP:0001900|Increased hemoglobin|血红蛋白增多|#####|#####
+HP:0001901|Polycythemia|红细胞增多症|红细胞增多症的诊断原则是红细胞计数、血红蛋白水平和红细胞体积都超过正常值的上限。|Polycythemia is diagnosed if the red blood cell count, the hemoglobin level, and the red blood cell volume all exceed the upper limits of normal.
+HP:0001902|Giant platelets|巨血小板|巨血小板大于7微米，并且通常为10至20微米。当血小板比该视野中平均红细胞的大小大时称为巨血小板。 （来自美国病理学院，血液学手册，1998年描述改编）。|Giant platelets are larger than 7 micrometers and usually 10 to 20 micrometers. The term giant platelet is used when the platelet is larger than the size of the average red cell in the field. (Description adapted from College of American Pathologists, Hematology Manual, 1998).
+HP:0001903|Anemia|贫血|红细胞（CL :0000232）体积或血红蛋白浓度的减少。|A reduction in `erythrocytes` (CL:0000232) volume or hemoglobin concentration.
+HP:0001904|Autoimmune neutropenia|自身免疫性中性粒细胞减少症|自体免疫诱导的中性粒细胞减少（HP:0001875）。|Autoimmune-induced `neutropenia` (HP:0001875).
+HP:0001905|Congenital thrombocytopenia|先天性血小板减少症|先天性发病的血小板减少症。|Thrombocytopenia with congenital onset.
+HP:0001907|Thromboembolism|血栓栓塞症|血管内血栓形成，随后通过血液从原发处移动至体内另一个部位，通常导致远端部位血管闭塞。|The formation of a blood clot inside a blood vessel that subsequently travels through the blood stream from the site where it formed to another location in the body, generally leading to vascular occlusion at the distant site.
+HP:0001908|Hypoplastic anemia|再生不良性贫血|伴有不同程度的红细胞发育不全、无白细胞或血小板减少的贫血。|Anemia with varying degrees of erythrocytic hypoplasia without leukopenia or thrombocytopenia.
+HP:0001909|Leukemia|白血病|由于白细胞的异常增殖的引起的发生在血液和骨髓的癌症。|A cancer of the blood and bone marrow characterized by an abnormal proliferation of leukocytes.
+HP:0001911|Abnormality of granulocytes|粒细胞异常|粒细胞异常（CL:0000094）。|An abnormality of `granulocytes` (CL:0000094).
+HP:0001912|Abnormality of basophils|嗜碱性粒细胞异常|嗜碱性粒细胞（CL:0000767）异常。|A `basophils` (CL:0000767) abnormality.
+HP:0001913|Granulocytopenia|粒细胞减少症|在外周血中粒细胞（0000094 CL）的数量异常减少（FMA:9670）。|An abnormally reduced number of `granulocytes` (CL:0000094) in the `blood` (FMA:9670).
+HP:0001915|aplastic anemia|再生障碍性贫血|再生障碍性贫血指全血细胞减少与骨髓增生低下。|Aplastic anemia is defined as pancytopenia with a hypocellular marrow.
+HP:0001917|Renal amyloidosis|肾淀粉样病变|`淀粉样病变` (HP:0011034)累及到肾。|A form of `amyloidosis` (HP:0011034) that affects the `kidney` (FMA:7203).
+HP:0001919|Acute kidney injury|急性肾损伤|突然失却肾功能，表现为尿量减少、血清肌酐和尿素氮浓度上升（氮质血症）。|Sudden loss of renal function, as manifested by decreased urine production, and a rise in serum creatinine or blood urea nitrogen concentration (azotemia).
+HP:0001920|Renal artery stenosis|肾动脉狭窄|肾动脉发生狭窄。|The presence of `stenosis` (MPATH:80) of the `renal artery` (FMA:14751).
+HP:0001922|Vacuolated lymphocytes|空泡性淋巴细胞|淋巴细胞细胞质中存在明确的、清晰的空泡。|The presence of clear, sharply defined vacuoles in the lymphocyte cytoplasm.
+HP:0001923|Reticulocytosis|网状细胞过多|在外周血液循环中网状细胞（CL:0000558 ）（未成熟的红细胞）的数目增加。|An elevation in the number of `reticulocytes` (CL:0000558) (immature erythrocytes) in the peripheral blood circulation.
+HP:0001924|Sideroblastic anemia|铁粒幼细胞性贫血|铁粒幼细胞性贫血是由于铁掺入血红蛋白分子的缺陷。铁粒幼红细胞是有铁质沉淀于细胞质（这可以通过普鲁士蓝染色证明）的红细胞。|Sideroblastic anemia results from a defect in the incorporation of iron into the heme molecule. A sideroblast is an erythroblast that has stainable deposits of iron in cytoplasm (this can be demonstrated by Prussian blue staining).
+HP:0001927|Acanthocytosis|棘形红细胞增多症|棘形红细胞增多症是血细胞形态多样性（HP:0004447）的一种类型，其特征在细胞表面出现尖峰样突起。该细胞形状不规则，类似于五角星。|Acanthocytosis is a type of `poikilocytosis` (HP:0004447) characterized by the presence of spikes on the cell surface. The cells have an irregular shaped resembling many-pointed stars.
+HP:0001928|Abnormality of coagulation|凝血异常|凝血的过程异常（GO:0007596）。也就是说，凝血能力改变或不能凝血。|An abnormality of the process of `blood coagulation` (GO:0007596). That is, altered ability or inability of the blood to clot.
+HP:0001929|Reduced factor XI activity|XI凝血因子活性降低|`凝血因子XI`（PR:000007295）的活性降低。XI因子，也被称为血浆凝血激酶前体，是一种可以激活IX因子的丝氨酸蛋白酶。|Decreased activity of `coagulation factor XI` (PR:000007295). Factor XI, also known as plasma thromboplastin antecedent, is a serine proteínase that activates factor IX.
+HP:0001930|Nonspherocytic hemolytic anemia|非椭圆形细胞性溶血性贫血|#####|#####
+HP:0001931|Hypochromic anemia|低色素性贫血|一型以红细胞血红蛋白浓度异常降低为特征的贫血。|A type of anemia characterized by an abnormally low concentration of hemoglobin in the erythrocytes.
+HP:0001933|Subcutaneous hemorrhage|皮下出血|毛细血管脆性增加，容易出现擦伤（表现为紫癜，瘀点或瘀斑）。|This term refers to an abnormally increased susceptibility to bruising (purpura, petechiae, or ecchymoses).
+HP:0001934|Persistent bleeding after trauma|外伤后持续性出血|#####|#####
+HP:0001935|Microcytic anemia|小细胞性贫血|一种以红细胞体积减小为特征贫血。|A kind of anemia in which the volume of the red blood cells is reduced.
+HP:0001937|Microangiopathic hemolytic anemia|微血管病性溶血性贫血|#####|#####
+HP:0001939|Abnormality of metabolism/homeostasis|代谢紊乱/稳态失衡|#####|#####
+HP:0001941|Acidosis|酸中毒|酸堆积或碱消耗的异常。|Abnormal acid accumulation or depletion of base.
+HP:0001942|Metabolic acidosis|代谢性酸中毒|#####|Acid accumulation or depletion of base in the body due to buildup of metabolic acids.
+HP:0001943|Hypoglycemia|低血糖|`血`（FMA:9670）中`葡萄糖`（17234 CHEBI）`浓度下降`（PATO:0001163）。|A `decreased concentration` (PATO:0001163) of `glucose` (CHEBI:17234) in the `blood` (FMA:9670).
+HP:0001944|Dehydration|脱水|#####|#####
+HP:0001945|Fever|发热|由于体温调节失调导致体温升高，。|Elevated body temperature due to failed thermoregulation.
+HP:0001946|Ketosis|酮症|出现体内酮体水平的升高。|Presence of elevated levels of ketone bodies in the body.
+HP:0001947|Renal tubular acidosis|肾小管性酸中毒|由于肾小管功能异常和代谢酸累积和高氯血症引起的酸中毒，可能导致的并发症包括低钾血症、高钙血症、肾结石和肾钙质沉着。|Acidosis owing to malfunction of the kidney tubules with accumulation of metabolic acids and hyperchloremia, potentially leading to complications including hypokalemia, hypercalcinuria, nephrolithiasis and nephrocalcinosis.
+HP:0001948|Alkalosis|碱中毒|体液内的酸消耗或碱堆积。|Depletion of acid or accumulation base in the body fluids.
+HP:0001949|Hypokalemic alkalosis|低钾性碱中毒|#####|#####
+HP:0001950|Respiratory alkalosis|呼吸性碱中毒|#####|Alkalosis due to excess loss of carbon dioxide from the body.
+HP:0001951|Episodic ammonia intoxication|阵发性氨中毒|#####|#####
+HP:0001952|Abnormal glucose tolerance|糖耐量异常|#####|An `abnormal` (PATO:0000460) `resistance to` (PATO:0001046) `glucose`(CHEBI:17234), i.e., a reduction in the ability to maintain glucose levels in the blood stream within normal limits following oral or intravenous administration of glucose.
+HP:0001953|Diabetic ketoacidosis|糖尿病酮症酸中毒|一种伴有酮体累积的糖尿病代谢异常。|A type of diabetic metabolic abnormality with an accumulation of ketone bodies.
+HP:0001954|Episodic fever|阵发性发热|发热周期性（发作或复发）发作。|Periodic (episodic or recurrent) bouts of fever.
+HP:0001955|Unexplained fevers|不明原因的发热|#####|Episodes of fever for which no infectious cause can be identified.
+HP:0001956|Truncal obesity|躯干性肥胖|肥胖症在相对于末端的身体躯干位于优先。肥胖主要位于躯干部分而非四肢部分。|Obesity located preferentially in the trunk of the body as opposed to the extremities.
+HP:0001958|Nonketotic hypoglycemia|非酮症性低血糖|#####|#####
+HP:0001959|Polydipsia|烦渴|#####|#####
+HP:0001960|Hypokalemic metabolic alkalosis|低钾性代谢性碱中毒|#####|#####
+HP:0001961|Hypoplastic heart|心脏发育不全|心脏发育不全或不完善。|Underdevelopment or incomplete development of heart.
+HP:0001962|Palpitations|心悸|心脏在砰砰地跳或竞态的感觉，这是一种非特异性体征，但可能是心律失常的一种表现。|A sensation that the heart is pounding or racing, which is a non-specific sign but may be a manifestation of arrhythmia.
+HP:0001963|Abnormal speech discrimination|言语辨别异常|听力损伤的一种，其显著特征是难以理解语音，而不是不能听到语音。贫乏的言语识别力是高频听力损失的常见症状。|A type of hearing impairment prominently characterized by a difficulty in understanding speech, rather than an inability to hear speech. Poor speech discrimination is a very common symptom of high frequency hearing loss.
+HP:0001964|aplasia/Hypoplasia of metatarsal bones|跖骨发育不全或发育低下|跖骨发育不全或缺如。|Absence or underdevelopment of the metatarsal bones.
+HP:0001965|Abnormality of the scalp|头皮异常|头皮的异常。|Abnormality of the `scalp` (FMA:46494).
+HP:0001966|Mesangial abnormality|肾小球系膜异常|肾小球系膜（即，毛细管之间的肾小球中心部分）的异常。|An abnormality of the `mesangium` (FMA:84139), i.e., of the central part of the renal glomerulus between capillaries.
+HP:0001967|Diffuse mesangial sclerosis|弥漫性肾小球系膜硬化|系膜的弥漫性硬化，因弥漫性系膜基质扩张所致。|Diffuse sclerosis of the `mesangium` (FMA:84139), as manifestated by diffuse mesangial matrix expansion.
+HP:0001969|Tubulointerstitial abnormality|肾小管间质异常|涉及肾小管和肾间质组织的异常。|An abnormality that involves the tubules and interstitial tissue of the kidney.
+HP:0001970|Tubulointerstitial nephritis|肾小管间质性肾炎|一种肾脏炎症，影响到肾小管周围的肾间质。|A form of inflammation of the kidney affecting the interstitium of the kidneys surrounding the tubules.
+HP:0001971|Hypersplenism|脾功能亢进|脾功能失常而过早地破坏红细胞。|A malfunctioning of the `spleen` (FMA:7196) in which it prematurely destroys red blood cells.
+HP:0001972|Macrocytic anemia|大细胞性贫血|一型以平均红细胞体积（MCV）增加和平均红细胞血红蛋白含量（MCH）增加为特征的贫血。|A type of anemia characterized by increased size of erythrocytes with increased mean corpuscular volume (MCV) and increased mean corpuscular hemoglobin (MCH).
+HP:0001973|Autoimmune thrombocytopenia|自身免疫性血小板减少症|与抗血小板抗体相关的血小板减少。|The presence of thrombocytopenia in combination with detection of antiplatelet antibodies.
+HP:0001974|Leukocytosis|白细胞增多症|血液中白细胞（CL:0000738）的数量异常增加。|An abnormal increase in the number of `leukocytes` (CL:0000738) in the `blood` (FMA:9670).
+HP:0001975|Decreased platelet glycoprotein IIb-IIIa|血小板糖蛋白Ⅱb-IIIA减少|血小板膜糖蛋白Ⅱb-IIIA降低。|Decreased cell membrane concentration of glycoprotein  IIb-IIIa.
+HP:0001976|Reduced antithrombin III activity|抗凝血酶Ⅲ活性降低|与抗凝血酶III（:000003252 PR）浓度（PATO:0001163）下降相关的凝血异常（HP:0001928）。|An `abnormality of coagulation` (HP:0001928) related to a `decreased concentration` (PATO:0001163) of `antithrombin-III` (PR:000003252).
+HP:0001977|Abnormal thrombosis|异常血栓形成|自发性静脉、动脉血栓形成（血凝块），且非获得性风险（例如，动脉粥样硬化）导致。|Venous or arterial thrombosis (formation of blood clots) of spontaneous nature and which cannot be fully explained by acquired risk (e.g. atherosclerosis).
+HP:0001978|Extramedullary hematopoiesis|骨髓外造血|发生在骨髓以外的部位（在肝脏，胸腺，脾脏）造血。|The process of hematopoiesis occurring outside of the bone marrow (in the liver, thymus, and spleen) in the postnatal organisms.
+HP:0001980|Megaloblastic bone marrow|巨幼细胞性骨髓|在骨髓中巨幼红细胞数目的异常增加。|Abnormal increased number of megaloblasts in the bone marrow.
+HP:0001981|Schistocytosis|裂(红)细胞症|破损的红细胞数目异常。|The presence of an abnormal number of fragmented red blood cells (schistocytes) in the blood.
+HP:0001982|Sea-blue histiocytosis|海蓝色组织细胞增多症|`巨噬细胞`（CL:0000235）的一种异常，也被称为组织细胞症，细胞由于异常脂质含量增加而呈现海蓝色外观。|An abnormality of `macrophages` (CL:0000235), also known as histiocytes, in which the cells take on a sea blue appearance due to abnormally increased lipid content.
+HP:0001983|Reduced lymphocyte surface expression of CD43 (sialophorin)|#####|在淋巴细胞表面的CD43（CL:0000542）的表达减少。|A reduction in the expression of CD43 on the cell surface of `lymphocytes` (CL:0000542).
+HP:0001984|Intolerance to protein|蛋白质不耐受|#####|#####
+HP:0001985|Hypoketotic hypoglycemia|低酮性低血糖|`血`（FMA：9670）中`葡萄糖`（17234 CHEBI）的`浓度降低 `（PATO：0001163）与酮体的浓度降低相关。|A `decreased concentration` (PATO:0001163) of `glucose` (CHEBI:17234) in the `blood` (FMA:9670) associated with a reduced concentration of ketone bodies.
+HP:0001986|Hypertonic dehydration|高渗性脱水|#####|#####
+HP:0001987|Hyperammonemia|高氨血症|`血`中（FMA：9670）`氨`（16134 CHEBI）浓度的增加|An increased concentration of `ammonia` (CHEBI:16134) in the `blood` (FMA:9670).
+HP:0001988|Recurrent hypoglycemia|反复发作性低血糖|`血液中` (FMA:9670) `葡萄糖` (CHEBI:17234) `复发性 ` (PATO:0000427)发生`浓度降低` (PATO:0001163)。|`Recurrent` (PATO:0000427) episodes of `decreased concentration` (PATO:0001163) of `glucose` (CHEBI:17234) in the `blood` (FMA:9670).
+HP:0001989|Fetal akinesia sequence|胎儿运动不能序列征|与多发性关节挛缩，面部畸形和肺发育不良有关的胎儿活动降低。超声检查可显示羊水过多，关节强直，头皮水肿，降低胸部运动（反映肺发育不良）。|Decreases fetal activity associated with multiple joint contractures, facial anomalies and pulmonary hypoplasia. Ultrasound examination may reveal polyhydramnios, ankylosis, scalp edema, and decreased chest movements (reflecting pulmonary hypoplasia).
+HP:0001991|aplasia/Hypoplasia of toe|脚趾发育不全或发育低下|脚趾发育不全或缺如。|Absence or hypoplasia of toes.
+HP:0001992|Organic aciduria|有机酸尿症|#####|Excretion of  non-amino organic acids in urine.
+HP:0001993|Ketoacidosis|酮症酸中毒|#####|Acidosis resulting from accumulation of ketone bodies.
+HP:0001994|Renal Fanconi syndrome|肾范可尼综合征|肾小管不能重吸收小分子，从而引起电解质（钠，钾，碳酸氢盐）、矿物质、葡萄糖、氨基酸和水从尿液中丢失。|An inability of the tubules in the kidney to reabsorb small molecules, causing increased urinary loss of electrolytes (sodium, potassium, bicarbonate), minerals, glucose, amino acids, and water.
+HP:0001995|Hyperchloremic acidosis|高氯性酸中毒|#####|#####
+HP:0001996|Chronic metabolic acidosis|慢性代谢性酸中毒|长期代谢性酸中毒。|Longstanding metabolic acidosis.
+HP:0001997|Gout|痛风|反复发作的急性炎症性关节炎，引起的尿酸水平升高，结晶沉积在关节，肌腱和周围组织。|Recurrent attacks of acute inflammatory arthritis of a `joint ` (FMA:7490) or `set of joints` (FMA:73023) caused by elevated levels of `uric acid` (CHEBI:27226) in the `blood` (FMA:9670) which crystallize and are deposited in joints, tendons, and surrounding tissues.
+HP:0001998|Neonatal hypoglycemia|新生儿低血糖|#####|#####
+HP:0001999|Abnormal facial shape|面部形状异常|面部或其组成部分形态（形状）异常。|An abnormal morphology (form) of the face or its components.
+HP:0002000|Short columella|鼻小柱短小|从鼻孔前缘到鼻中隔下点的距离减少。|Reduced distance from the anterior border of the naris to the subnasale.
+HP:0002002|Deep philtrum|深人中|强调突出的人中脊，在鼻基与上红唇边缘之间正中形成夸张的凹槽。|Accentuated, prominent philtral ridges giving rise to an exaggerated groove in the midline between the nasal base and upper vermillion border.
+HP:0002003|Large forehead|大额头|#####|#####
+HP:0002006|Facial cleft|面部裂|面部裂开（间隙或开口）的先天性畸形。|A congenital malformation with a cleft (gap or opening) in the face.
+HP:0002007|Frontal bossing|前额突出|双侧额骨鼓胀， 中线相对不受影响。|Bilateral bulging of the lateral frontal bone prominences with relative sparing of the midline.
+HP:0002009|Potter facies|波特相面容|胎儿或新生儿因经历了子宫羊水过少而形成的面部形态，特征包括眼距过宽，低置耳朵，回缩下巴，和扁平鼻子。|A facial appearance characteristic of a fetus or neonate due to oligohydramnios experienced in the womb, comprising ocular hypertelorism, low-set ears, receding chin, and flattening of the nose.
+HP:0002010|Narrow maxilla|颌骨狭窄|颌骨狭窄|Narrow maxilla
+HP:0002011|Morphological abnormality of the central nervous system|中枢神经系统的形态学异常|中枢神经系统（FMA:55675）的结构异常。|A structural abnormality of the `central nervous system` (FMA:55675).
+HP:0002012|Abnormality of the abdominal organs|腹部器官异常|腹部脏器的异常。|An abnormality of the `viscera of the abdomen` (FMA:259123).
+HP:0002013|Vomiting|呕吐|通过一系列无意识的痉挛收缩而使胃内容物经口有力地喷出。|Forceful ejection of the contents of the stomach through the mouth by means of a series of involuntary spasmic contractions.
+HP:0002014|Diarrhea|腹泻|#####|Abnormally increased frequency of loose or watery bowel movements.
+HP:0002015|Dysphagia|吞咽困难|吞咽困难。|Difficulty in swallowing.
+HP:0002017|Nausea and vomiting|恶心和呕吐|#####|#####
+HP:0002018|Nausea|恶心|胃部不适伴随呕吐冲动。|A sensation of unease in the stomach together with an urge to vomit.
+HP:0002019|Constipation|便秘|排便次数少或排便困难。|Infrequent or difficult evacuation of feces.
+HP:0002020|Gastroesophageal reflux|胃食管反流|胃内容物自胃部通过食管下段括约肌漏回食管的现象。|A condition in which the stomach contents leak backwards from the stomach into the esophagus through the lower esophageal sphincter.
+HP:0002021|Pyloric stenosis|幽门狭窄|幽门异常狭窄。|An abnormal narrowing of the `pylorus` (FMA:14581).
+HP:0002023|Anal atresia|肛门闭锁|肛门（即肠道末端的开口）先天缺如。|Congenital absence of the anus, i.e., the opening at the bottom end of the intestinal tract.
+HP:0002024|Malabsorption|吸收不良|从肠道吸收一种或多种营养素的能力受损。|Impaired ability to absorb one or more nutrients from the intestine.
+HP:0002025|Anal stenosis|肛门狭窄|肛门口异常狭窄。|Abnormal narrowing of the anal opening.
+HP:0002027|Abdominal pain|腹痛|源于腹部的痛感。|Pain perceived to originate in the abdomen.
+HP:0002028|Chronic diarrhea|慢性腹泻|通常指持续4周以上的腹泻。|The presence of chronic `diarrhea` (HP:0002014), which is usually taken to mean diarrhea that has persisted for over 4 weeks.
+HP:0002031|Abnormality of the esophagus|食管异常|食管的异常。|An abnormality of the `esophagus` (FMA:7131).
+HP:0002032|Esophageal atresia|食管闭锁|一种导致食管腔完全闭锁的发育缺陷，食管末端形成一盲端而非连接于胃。|A developmental defect resulting in complete obliteration of the lumen of the esophagus such that the esophagus ends in a blind pouch rather than connecting to the stomach.
+HP:0002033|Poor suck|吸吮无力|一种吸吮反射不足，导致新生儿难以以母乳喂养。|An inadequate sucking reflex, resulting in the difficult of newborns to be breast-fed.
+HP:0002034|Abnormality of the rectum|直肠异常|直肠（即大肠的最后一段，储存固体废物直至其通过肛门）的异常。|An abnormaltiy of the `rectum` (FMA:14544), the final segment of the large intestine that stores solid waste until it passes through the anus.
+HP:0002035|Rectal prolapse|直肠脱垂|直肠粘膜通过肛门突出。|Protrusion of the rectal mucous membrane through the anus.
+HP:0002036|Hiatus hernia|裂孔疝|胃的上部，即主要是胃的贲门部，通过膈食管裂孔突出而形成的疝。|The presence of a `hernia` (MPATH:75) in which the upper part of the stomach, i.e., mainly the `gastric cardia` (FMA:14561) protrudes through the diaphragmatic `esophageal hiatus` (FMA:58289).
+HP:0002037|Inflammation of the large intestine|大肠炎症|#####|#####
+HP:0002038|Protein avoidance|#####|#####|#####
+HP:0002039|Anorexia|厌食症|缺乏或丧失食欲（一种医学状况）。|A lack or loss of appetite for food (as a medical condition).
+HP:0002040|Esophageal varix|食管静脉曲张|食管粘膜下层的静脉极度扩张，多出现于食管下段。|Extreme dilation of the submucusoal veins of the esophagus， mainly in the lower portion.
+HP:0002041|Intractable diarrhea|顽固性腹泻|#####|#####
+HP:0002043|Esophageal stricture|食管狭窄|食管的一种病理狭窄，由于一个环形的瘢痕组织的发展而压迫食管腔引起。|A pathological narrowing of the esophagus that is caused by the development of a ring of scar tissue that constricts the esophageal lumen.
+HP:0002044|Zollinger-Ellison syndrome|Zollinger-Ellison 综合征|分泌胃泌素的肿瘤（通常位于胰腺、十二指肠或腹部淋巴结）合成胃泌素增多，刺激胃粘膜到最大（分泌）活性，随之发生胃肠粘膜溃疡。|A condition in which there is increased production of gastrin by a gastrin-secreting tumor (usually located in the pancreas, duodenum, or abdominal lymph nodes) that stimulates the gastric mucosa to maximal activity, with consequent gastrointestinal mucosal ulceration.
+HP:0002045|Hypothermia|低体温|#####|Reduced body temperature due to failed thermoregulation.
+HP:0002046|Heat intolerance|不耐热|不能在温或热的天气维持一个舒适体温。|The inability to maintain a comfortably body temperature in warm or hot weather.
+HP:0002047|Malignant hyperthermia|恶性高热|由于对呼吸性麻醉剂如氟烷或肌肉松弛剂琥珀酰胆碱的反应,造成以体温快速升高到39-42度为特征的恶性高热。|Malignant hyperthermia is characterized by a rapid increase in temperature to 39-42 degrees C in response to inhalational anesthetics such as halothane or to muscle relaxants such as succinylcholine.
+HP:0002048|Renal cortical atrophy|肾皮质萎缩|肾皮质萎缩。|`Atrophy` (MPATH:127) of the `cortex of the kidney` (FMA:15581).
+HP:0002049|Proximal renal tubular acidosis|近端肾小管酸中毒|一种肾小管酸中毒，其特征是由于近端肾小管上皮细胞重吸收碳酸氢盐障碍，导致尿碳酸氢盐消耗及继发性酸血症。|A type of renal tubular acidosis characterized by a  failure of the proximal tubular cells to reabsorb bicarbonate, leading to urinary bicarbonate wasting and subsequent acidemia.
+HP:0002050|Macroorchidism, postpubertal|青春期后大睾丸|#####|#####
+HP:0002054|Heavy supraorbital ridges|眼眶上脊重厚|#####|#####
+HP:0002055|Curved linear dimple below the lower lip|下唇下曲线性凹陷|#####|#####
+HP:0002056|Abnormality of the glabella|眉间异常|眉间的异常。|An abnormality of the `glabella` (FMA:52851).
+HP:0002057|Prominent glabella|眉间突出|眉间向前突出。|Forward protrusion of the `glabella` (FMA:52851).
+HP:0002058|Myopathic facies|肌病性面容|面容呈现肌病状态。由于肌肉无力，面部呈现双颊凹陷，双侧上睑下垂，以及嘴角下垂状态。|A facial appearance characteristic of myopathic conditions. The face appears expressionless with sunken cheeks, bilateral ptosis, and inability to elevate the corners of the mouth, due to muscle weakness.
